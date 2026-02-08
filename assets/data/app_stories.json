@@ -28,5 +28,18 @@
                 "caption": ""
             }
         ]
+    },
+    {
+        "categoryName": "Life Protected by DIG",
+        "stories": [
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/Posts-03.png",
+                "caption": ""
+            },
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/Posts-05.png",
+                "caption": ""
+            }
+        ]
     }
 ]
