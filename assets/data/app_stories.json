@@ -1,0 +1,32 @@
+[
+    {
+        "categoryName": "Best Offers",
+        "stories": [
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_1.jpg",
+                "caption": ""
+            },
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_3.jpg",
+                "caption": ""
+            },
+            {
+                "imageUrl": "https://online.dig.qa/Content/DIGHome/assets/media/CorporateDiscount.jpg",
+                "caption": ""
+            },
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_4.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "categoryName": "Best App",
+        "stories": [
+            {
+                "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_2.jpg",
+                "caption": ""
+            }
+        ]
+    }
+]
