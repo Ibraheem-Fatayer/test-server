@@ -1,6 +1,7 @@
 [
     {
         "categoryName": "Best Offers",
+        "label": "Offers",
         "stories": [
             {
                 "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_1.jpg",
@@ -22,6 +23,7 @@
     },
     {
         "categoryName": "Best App",
+        "label": "Offers",
         "stories": [
             {
                 "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/story_view_2.jpg",
@@ -31,6 +33,7 @@
     },
     {
         "categoryName": "Lifestyle Protection",
+        "label": "Offers",
         "stories": [
             {
                 "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/Posts-03.png",
@@ -44,6 +47,7 @@
     },
     {
         "categoryName": "Customer Confidence",
+        "label": "Offers",
         "stories": [
             {
                 "imageUrl": "https://ibraheem-fatayer.github.io/test-server/assets/images/story_view/Posts-02.png",
