@@ -1844,9 +1844,13 @@
         }
     },
     "Plans": {
+        "SumInsured": "* Sum insured: {}",
+        "Deductible": "* Deductible: {}",
+        "PassengerValue": "* Passenger Value: {}",
+        "discountDescription": "You’re getting {}% off",
+        "discountTip": "Special discount for group medical insurance person",
+        "MostPolular": "Most Polular",
         "motor": {
-            "motor_plan_header": "Choose your car plan.",
-            "insurance_services": "Included Services",
             "required_error": "Car Plan Is Required",
             "note1": "This policy provides coverage for both your liability and any potential damage to your vehicle.",
             "note2": "Additional coverages can be added in the next step."
