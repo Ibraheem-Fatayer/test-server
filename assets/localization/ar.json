@@ -1621,19 +1621,6 @@
         "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
     },
     "motor_claim": {
-        "claim_info": {
-            "header": "معلومات المطالبة",
-            "reff_no": "# المرجع {}",
-            "policy_key": "مفتاح الوثيقة: {}",
-            "policy_key1": "مفتاح الوثيقة: ",
-            "reason_plate_no": "# اللوحة: {}",
-            "make": "اسم نوع السيارة: {}",
-            "model": "اسم طراز السيارة: {}",
-            "chassis": "# القاعدة (الشاصيه): {}",
-            "submitted_date": "تاريخ التقديم: {}",
-            "mobile": "# الهاتف: {}",
-            "email": "البريد الالكتروني: {}"
-        },
         "new_insured_claim": {
             "labels": {
                 "policy_report_no": "# التقرير للوثيقة",
@@ -1841,6 +1828,7 @@
         "genderValue": "الجنس: {}",
         "natinationalityValueonality": "الجنسية: {}",
         "emailValue": "البريد الإلكتروني: {}",
+        "mobileValue": "الهاتف: {}",
         "occupationValue": "المهنة: {}",
         "individual_medical": "التأمين الصحي للأفراد",
         "ClaimInformation": "معلومات المطالبة",
@@ -1879,7 +1867,14 @@
         "terms&conditons": "الشروط والأحكام",
         "apply_promo_code": "هل لديك رمز خصم؟",
         "rest_promo_code": "الغاء رمز خصم",
-        "planName": "الباقة: {}"
+        "planName": "الباقة: {}",
+        "originalPremium": "Original Premium: {} QR",
+        "reffNoValue": "# المرجع {}",
+        "policyKeyValue": "مفتاح الوثيقة: {}",
+        "policy_key1": "مفتاح الوثيقة: ",
+        "plateNoValue": "# اللوحة: {}",
+        "makeValue": "اسم نوع السيارة: {}",
+        "modelValue": "اسم طراز السيارة: {}"
     },
     "health": {
         "home": "الرئيسية",

@@ -1606,19 +1606,6 @@
         "delete_attachment": "Are you sure you want to delete the attachment?"
     },
     "motor_claim": {
-        "claim_info": {
-            "header": "Claim Information",
-            "reff_no": "Reff.No. {}",
-            "policy_key": "Policy Key: {}",
-            "policy_key1": "Policy Key: ",
-            "reason_plate_no": "Plate #: {}",
-            "make": "Make Name: {}",
-            "model": "Model Name: {}",
-            "chassis": "VIN (Chassis): {}",
-            "submitted_date": "Submitted Date: {}",
-            "mobile": "Mobile: {}",
-            "email": "Email: {}"
-        },
         "new_insured_claim": {
             "labels": {
                 "policy_report_no": "Policy Report #",
@@ -1824,6 +1811,7 @@
         "genderValue": "Gender: {}",
         "nationalityValue": "Nationality: {}",
         "emailValue": "Email: {}",
+        "mobileValue": "Mobile: {}",
         "occupationValue": "Occupation: {}",
         "individual_medical": "Individual Medical",
         "ClaimInformation": "Claim Information",
@@ -1862,7 +1850,14 @@
         "terms&conditons": "Terms & Conditons",
         "apply_promo_code": "Do you have a promo code?",
         "rest_promo_code": "Rest promo code",
-        "planName": "plan name: {}"
+        "planName": "plan name: {}",
+        "originalPremium": "Original Premium: {} QR",
+        "reffNoValue": "Reff.No. {}",
+        "policyKeyValue": "Policy Key: {}",
+        "policy_key1": "Policy Key: ",
+        "plateNoValue": "Plate #: {}",
+        "makeValue": "Make Name: {}",
+        "modelValue": "Model Name: {}"
     },
     "health": {
         "home": "Home",
