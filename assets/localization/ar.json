@@ -1883,6 +1883,35 @@
             "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
         }
     },
+    "Plans": {
+        "motor": {
+            "motor_plan_header": "اختر خطة سيارتك.",
+            "insurance_services": "الخدمات المضمنة",
+            "required_error": "مطلوب خطة السيارة",
+            "note1": "توفر هذه الوثيقة تغطيةً لمسؤوليتك القانونية وأي ضرر محتمل قد يلحق بمركبتك.",
+            "note2": "يمكنك إضافة تغطيات إضافية في الخطوة التالية."
+        },
+        "travel": {
+            "header": "اختر خطة سفرك",
+            "required_error": "خطة السفر مطلوبة",
+            "insurance_services": "تفاصيل الحزمة",
+            "inbound_plan_subtitle": "صلاحية السياسة تصل إلى {}",
+            "haya_plan_subtitle": "صلاحية السياسة تصل إلى {}",
+            "PlansNetwork": "شبكة خطط السفر"
+        },
+        "medical": {
+            "selectInsured": "اختر الباقة التأمينية للمؤمَّن ",
+            "insurance_services": "الخدمات المضمنة",
+            "required_error": "الخطة مطلوبة",
+            "sum_insured": "المؤمن عليهم: {}",
+            "min_age": "الحد الأدنى للعمر: {}",
+            "max_age": "الحد الأقصى للعمر: {}",
+            "plan_benefit": "مزايا الخطة",
+            "insured_no": "{insuredNumber} مؤمن عليه",
+            "PlansNetwork": "شبكة الخطط الطبية",
+            "InsuredAge": "عمر المؤمن عليه: {}"
+        }
+    },
     "health": {
         "home": "الرئيسية",
         "dig": "DIG",
