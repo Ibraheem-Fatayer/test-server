@@ -1557,6 +1557,39 @@
         "ExpireOn": "Expire on:",
         "Expired": "Expired:"
     },
+    "travel_inbound": {
+        "travel_policy": {
+            "EntryBefore": "Entry Before: {}",
+            "EntryBefore1": "Entry Before: ",
+            "ExpiryOn": "Expiry on: {}",
+            "ExpiryOn1": "Expiry on: ",
+            "CheckStatusWithMOI": "Check MOI Status",
+            "StatusResult": "Status Result",
+            "PassportNumber": "Passport #: {}",
+            "PassportNumber1": "Passport #: ",
+            "FullName": "Full name: {}",
+            "TransferedDate": "Transfered date: {}",
+            "IsTransfered": "Transfered to MOI: {}",
+            "NewPolicy": "New Policy",
+            "download_policy": "Download Policy",
+            "download_card": "Download Card",
+            "extend_policy_button": "Extend Your Policy",
+            "empty_policy_list": "No Policy Found",
+            "header_section": {
+                "header1": "Inbound Travel Policies",
+                "header2": "Quick Actions"
+            },
+            "policy_card": {
+                "passport_no": "Passport #: {}",
+                "passport_no1": "Passport #: "
+            }
+        },
+        "dialog": {
+            "log_out": {
+                "description": "Are you sure you want to logout?"
+            }
+        }
+    },
     "change_insured": {
         "old_insured_information": "Old insured information",
         "new_insured_information": "New insured information",
@@ -1676,39 +1709,6 @@
         "TransactionSuccess": "Transaction Completed Successfully",
         "TransactionFailure": "Transaction Response Failure",
         "done": "Back To Home Page"
-    },
-    "travel_inbound": {
-        "travel_policy": {
-            "EntryBefore": "Entry Before: {}",
-            "EntryBefore1": "Entry Before: ",
-            "ExpiryOn": "Expiry on: {}",
-            "ExpiryOn1": "Expiry on: ",
-            "CheckStatusWithMOI": "Check MOI Status",
-            "StatusResult": "Status Result",
-            "PassportNumber": "Passport #: {}",
-            "PassportNumber1": "Passport #: ",
-            "FullName": "Full name: {}",
-            "TransferedDate": "Transfered date: {}",
-            "IsTransfered": "Transfered to MOI: {}",
-            "NewPolicy": "New Policy",
-            "download_policy": "Download Policy",
-            "download_card": "Download Card",
-            "extend_policy_button": "Extend Your Policy",
-            "empty_policy_list": "No Policy Found",
-            "header_section": {
-                "header1": "Inbound Travel Policies",
-                "header2": "Quick Actions"
-            },
-            "policy_card": {
-                "passport_no": "Passport #: {}",
-                "passport_no1": "Passport #: "
-            }
-        },
-        "dialog": {
-            "log_out": {
-                "description": "Are you sure you want to logout?"
-            }
-        }
     },
     "notification_screen": {
         "NotificationTabLabel": "Notifications",

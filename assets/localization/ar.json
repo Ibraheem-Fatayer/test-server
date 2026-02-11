@@ -1572,6 +1572,39 @@
         "ExpireOn": "تنتهي بتاريخ",
         "Expired": "منتهية:"
     },
+    "travel_inbound": {
+        "travel_policy": {
+            "EntryBefore": "تاريخ الدخول: {}",
+            "EntryBefore1": "تاريخ الدخول: ",
+            "ExpiryOn": "تاريخ الانتهاء: {}",
+            "ExpiryOn1": "تاريخ الانتهاء: ",
+            "CheckStatusWithMOI": "التحقق من الحالة",
+            "StatusResult": "الحالة",
+            "PassportNumber": "# جواز السفر: {}",
+            "PassportNumber1": "# جواز السفر: ",
+            "FullName": "الاسم بالكامل: {}",
+            "TransferedDate": "تاريخ التحويل: {}",
+            "IsTransfered": "وصلت البيانات إلى وزارة الداخلية: {}",
+            "NewPolicy": "وثيقة جديده",
+            "download_policy": "تحميل الوثيقة",
+            "download_card": "تحميل البطاقة",
+            "extend_policy_button": "تمديد البوليصة",
+            "empty_policy_list": "لم يتم العثور على وثائق",
+            "header_section": {
+                "header1": "وثائق السفر",
+                "header2": "الأوامر السريعة"
+            },
+            "policy_card": {
+                "passport_no": "# جواز السفر: {}",
+                "passport_no1": "# جواز السفر: "
+            }
+        },
+        "dialog": {
+            "log_out": {
+                "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+            }
+        }
+    },
     "change_insured": {
         "old_insured_information": "معلومات المؤمن عليه القديمة",
         "new_insured_information": "معلومات المؤمن عليه الجديدة",
@@ -1690,39 +1723,6 @@
         "TransactionSuccess": "تمت العملية بنجاح",
         "TransactionFailure": "فشلت العملية",
         "done": "الرجوع الى الصفحة الرئيسية"
-    },
-    "travel_inbound": {
-        "travel_policy": {
-            "EntryBefore": "تاريخ الدخول: {}",
-            "EntryBefore1": "تاريخ الدخول: ",
-            "ExpiryOn": "تاريخ الانتهاء: {}",
-            "ExpiryOn1": "تاريخ الانتهاء: ",
-            "CheckStatusWithMOI": "التحقق من الحالة",
-            "StatusResult": "الحالة",
-            "PassportNumber": "# جواز السفر: {}",
-            "PassportNumber1": "# جواز السفر: ",
-            "FullName": "الاسم بالكامل: {}",
-            "TransferedDate": "تاريخ التحويل: {}",
-            "IsTransfered": "وصلت البيانات إلى وزارة الداخلية: {}",
-            "NewPolicy": "وثيقة جديده",
-            "download_policy": "تحميل الوثيقة",
-            "download_card": "تحميل البطاقة",
-            "extend_policy_button": "تمديد البوليصة",
-            "empty_policy_list": "لم يتم العثور على وثائق",
-            "header_section": {
-                "header1": "وثائق السفر",
-                "header2": "الأوامر السريعة"
-            },
-            "policy_card": {
-                "passport_no": "# جواز السفر: {}",
-                "passport_no1": "# جواز السفر: "
-            }
-        },
-        "dialog": {
-            "log_out": {
-                "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
-            }
-        }
     },
     "notification_screen": {
         "NotificationTabLabel": "إشعارات",
