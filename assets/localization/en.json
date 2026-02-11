@@ -1583,11 +1583,6 @@
                 "passport_no": "Passport #: {}",
                 "passport_no1": "Passport #: "
             }
-        },
-        "dialog": {
-            "log_out": {
-                "description": "Are you sure you want to logout?"
-            }
         }
     },
     "change_insured": {

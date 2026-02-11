@@ -1598,11 +1598,6 @@
                 "passport_no": "# جواز السفر: {}",
                 "passport_no1": "# جواز السفر: "
             }
-        },
-        "dialog": {
-            "log_out": {
-                "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
-            }
         }
     },
     "change_insured": {
