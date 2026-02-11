@@ -1716,11 +1716,9 @@
         }
     },
     "in_complete_quot": {
-        "tab_label": {
-            "motor": "السيارات",
-            "travel": "السفر",
-            "medcial": "الصحي"
-        },
+        "MotorTabLabel": "السيارات",
+        "TravelTabLabel": "السفر",
+        "MedcialTabLabel": "الصحي",
         "empty_list": "لا يوجد طلبات غير مكتملة",
         "steps_done": "عدد الخطوات المنتهية {}",
         "chassis": "# القاعدة: {}"

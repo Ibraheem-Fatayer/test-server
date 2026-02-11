@@ -1699,11 +1699,9 @@
         }
     },
     "in_complete_quot": {
-        "tab_label": {
-            "motor": "Car",
-            "travel": "Travel",
-            "medcial": "Medical"
-        },
+        "MotorTabLabel": "Car",
+        "TravelTabLabel": "Travel",
+        "MedcialTabLabel": "Medical",
         "empty_list": "No Quotation Found",
         "steps_done": "Steps done {}",
         "chassis": "VIN (Chassis): {}"
