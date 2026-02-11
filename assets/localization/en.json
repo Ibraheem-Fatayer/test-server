@@ -1569,7 +1569,8 @@
         "new_insured": "New Insured",
         "important_dialog": "Important! ",
         "dialog_description": "Are you sure you want to change the insured information?",
-        "delete_attachment": "Are you sure you want to delete the attachment?"
+        "delete_attachment": "Are you sure you want to delete the attachment?",
+        "qatari_id_exist_error": "The Qatari ID should be distinct from the current owner's ID"
     },
     "motor_claim": {
         "new_insured_claim": {

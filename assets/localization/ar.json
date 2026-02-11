@@ -1584,7 +1584,8 @@
         "new_insured": "المؤمن الجديد",
         "important_dialog": "مهم! ",
         "dialog_description": "هل أنت متأكد أنك تريد تغير المؤمن؟",
-        "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
+        "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟",
+        "qatari_id_exist_error": "يجب أن تكون البطاقة الشخصية القطرية مختلفة عن هوية المالك الحالية"
     },
     "motor_claim": {
         "new_insured_claim": {
