@@ -1709,16 +1709,10 @@
             "btn": "جدد الآن",
             "policyNo": "# اللوحة. {}"
         },
-        "reload_page_warning": "الرجاء إعادة تحميل الصفحة لإظهار آخر تحديث",
         "title": {
             "quotation": "غير مكتمل",
             "quotation_quot": "عروض الطلب الغير مكتملة",
             "insurance_policy": "عرض أو تجديد وثيقتك"
-        },
-        "insurance_type": {
-            "motor": "تأمين\nالسيارات",
-            "travel": "تأمين\nالسفر",
-            "medical": "التأمين\nالصحي"
         }
     },
     "in_complete_quot": {
@@ -1768,11 +1762,7 @@
         "new_insured": "المؤمن الجديد",
         "important_dialog": "مهم! ",
         "dialog_description": "هل أنت متأكد أنك تريد تغير المؤمن؟",
-        "attachment": {
-            "dialog": {
-                "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
-            }
-        }
+        "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
     },
     "motor_claim": {
         "claim_info": {

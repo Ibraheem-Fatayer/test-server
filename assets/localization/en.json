@@ -1692,16 +1692,10 @@
             "btn": "Renew now",
             "policyNo": "Plate $: {}"
         },
-        "reload_page_warning": "Please Reload The Page To Show The Last Update",
         "title": {
             "quotation": "Incomplete",
             "quotation_quot": "Incomplete Quotations",
             "insurance_policy": "View or renew your policy"
-        },
-        "insurance_type": {
-            "motor": "Car\nInsurance",
-            "travel": "Travel\nInsurance",
-            "medical": "Medical\nInsurance"
         }
     },
     "in_complete_quot": {
@@ -1751,11 +1745,7 @@
         "new_insured": "New Insured",
         "important_dialog": "Important! ",
         "dialog_description": "Are you sure you want to change the insured information?",
-        "attachment": {
-            "dialog": {
-                "delete_attachment": "Are you sure you want to delete the attachment?"
-            }
-        }
+        "delete_attachment": "Are you sure you want to delete the attachment?"
     },
     "motor_claim": {
         "claim_info": {
