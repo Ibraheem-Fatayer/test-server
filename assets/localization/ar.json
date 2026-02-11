@@ -1864,7 +1864,14 @@
         "policy_key1": "مفتاح الوثيقة: ",
         "plateNoValue": "# اللوحة: {}",
         "makeValue": "اسم نوع السيارة: {}",
-        "modelValue": "اسم طراز السيارة: {}"
+        "modelValue": "اسم طراز السيارة: {}",
+        "TravelPlanBenefits": {
+            "section_title": "مميزات الباقة",
+            "benefits_1": "العلاج الطبي للحوادث والطوارئ",
+            "benefits_2": "كوفيد-19 مصاريف العلاج والحجر الصحي",
+            "benefits_3": "المساعدة الطبية الطارئة والإخلاء",
+            "benefits_4": "إعادة جثمان الموتى"
+        }
     },
     "NewInsuredList": {
         "worker_list_header": "قائمة المساعدين المنزليين",
