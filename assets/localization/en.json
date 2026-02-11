@@ -572,6 +572,12 @@
                 "Required": "Start Date Is Required"
             }
         },
+        "EndDate": {
+            "Lable": "End Date",
+            "Validation": {
+                "Required": "End Date Is Required"
+            }
+        },
         "spike_update_profile": {
             "weight_required": "Please enter your weight",
             "height_required": "Please enter your height",
@@ -703,10 +709,6 @@
         "claims_btn": "Claims",
         "medical_certificate_btn": "Certificate",
         "remaining_limt_btn": "Remaining Limit"
-    },
-    "label": {
-        "start_date_label": "Start Date",
-        "end_date_label": "End Date"
     },
     "error": {
         "input_error": {

@@ -572,6 +572,12 @@
                 "Required": "يرجى إدخال تاريخ بدء الوثيقة"
             }
         },
+        "EndDate": {
+            "Lable": "تاريخ الانتهاء",
+            "Validation": {
+                "Required": "تاريخ الانتهاء مطلوب"
+            }
+        },
         "spike_update_profile": {
             "weight_required": "يرجى إدخال الوزن",
             "height_required": "يرجى إدخال الطول",
@@ -703,10 +709,6 @@
         "claims_btn": "المطالبات",
         "medical_certificate_btn": "الشهادة",
         "remaining_limt_btn": "الرصيد الصحي المتبقي"
-    },
-    "label": {
-        "start_date_label": "تاريخ بدء الوثيقة",
-        "end_date_label": "تاريخ انتهاء الوثيقة"
     },
     "error": {
         "input_error": {
