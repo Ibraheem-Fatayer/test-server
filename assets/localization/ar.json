@@ -1754,31 +1754,23 @@
         "StartOn": "تاريخ البدء:",
         "ValidUntil": "صالحة حتى:",
         "ExpireOn": "تنتهي بتاريخ",
-        "Expired": "منتهية:",
-        "change_insured": {
-            "review": {
-                "old_insured_information": "معلومات المؤمن عليه القديمة",
-                "new_insured_information": "معلومات المؤمن عليه الجديدة",
-                "nationalid": "# البطاقة الشخصية: {}",
-                "expiry_date": "الصلاحية: {}",
-                "email": "البريد الإلكتروني: {}",
-                "mobile": "# الهاتف: {}",
-                "new_insured_nameAR": "الاسم (عربي): {}",
-                "new_insured_nameEN": "الاسم (إنجليزية): {}"
-            },
-            "header": {
-                "new_insured": "المؤمن الجديد"
-            },
+        "Expired": "منتهية:"
+    },
+    "change_insured": {
+        "old_insured_information": "معلومات المؤمن عليه القديمة",
+        "new_insured_information": "معلومات المؤمن عليه الجديدة",
+        "nationalid": "# البطاقة الشخصية: {}",
+        "expiry_date": "الصلاحية: {}",
+        "email": "البريد الإلكتروني: {}",
+        "mobile": "# الهاتف: {}",
+        "new_insured_nameAR": "الاسم (عربي): {}",
+        "new_insured_nameEN": "الاسم (إنجليزية): {}",
+        "new_insured": "المؤمن الجديد",
+        "important_dialog": "مهم! ",
+        "dialog_description": "هل أنت متأكد أنك تريد تغير المؤمن؟",
+        "attachment": {
             "dialog": {
-                "change_insured": {
-                    "important": "مهم! ",
-                    "description": "هل أنت متأكد أنك تريد تغير المؤمن؟"
-                }
-            },
-            "attachment": {
-                "dialog": {
-                    "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
-                }
+                "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
             }
         }
     },

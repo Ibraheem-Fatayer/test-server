@@ -1737,31 +1737,23 @@
         "StartOn": "Start on",
         "ValidUntil": "Valid until:",
         "ExpireOn": "Expire on:",
-        "Expired": "Expired:",
-        "change_insured": {
-            "review": {
-                "old_insured_information": "Old insured information",
-                "new_insured_information": "New insured information",
-                "nationalid": "Qatari ID: {}",
-                "expiry_date": "Expiry Date: {}",
-                "email": "Email: {}",
-                "mobile": "Mobile: {}",
-                "new_insured_nameAR": "Name (Arabic): {}",
-                "new_insured_nameEN": "Name (English): {}"
-            },
-            "header": {
-                "new_insured": "New Insured"
-            },
+        "Expired": "Expired:"
+    },
+    "change_insured": {
+        "old_insured_information": "Old insured information",
+        "new_insured_information": "New insured information",
+        "nationalid": "Qatari ID: {}",
+        "expiry_date": "Expiry Date: {}",
+        "email": "Email: {}",
+        "mobile": "Mobile: {}",
+        "new_insured_nameAR": "Name (Arabic): {}",
+        "new_insured_nameEN": "Name (English): {}",
+        "new_insured": "New Insured",
+        "important_dialog": "Important! ",
+        "dialog_description": "Are you sure you want to change the insured information?",
+        "attachment": {
             "dialog": {
-                "change_insured": {
-                    "important": "Important! ",
-                    "description": "Are you sure you want to change the insured information?"
-                }
-            },
-            "attachment": {
-                "dialog": {
-                    "delete_attachment": "Are you sure you want to delete the attachment?"
-                }
+                "delete_attachment": "Are you sure you want to delete the attachment?"
             }
         }
     },
