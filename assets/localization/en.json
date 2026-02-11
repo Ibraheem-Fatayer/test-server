@@ -1846,14 +1846,12 @@
             }
         }
     },
-    "bottom_navigation_bar": {
-        "labels": {
-            "home": "Home",
-            "policies": "Policies",
-            "profile": "Profile",
-            "others": "Others",
-            "fitness": "Fitness"
-        }
+    "BottomNavigationBar": {
+        "HomeLabel": "Home",
+        "PoliciesLabel": "Policies",
+        "ProfileLabel": "Profile",
+        "OthersLabel": "Others",
+        "FitnessLabel": "Fitness"
     },
     "payment": {
         "cancel_operation": "Cancel Operation",

@@ -1862,14 +1862,12 @@
             }
         }
     },
-    "bottom_navigation_bar": {
-        "labels": {
-            "home": "الرئيسية",
-            "policies": "الوثائق",
-            "profile": "الحساب الشخصي",
-            "others": "المزيد",
-            "fitness": "اللياقة البدنية"
-        }
+    "BottomNavigationBar": {
+        "HomeLabel": "الرئيسية",
+        "PoliciesLabel": "الوثائق",
+        "ProfileLabel": "الحساب الشخصي",
+        "OthersLabel": "المزيد",
+        "FitnessLabel": "اللياقة البدنية"
     },
     "payment": {
         "cancel_operation": "تم إلغاء العملية",
