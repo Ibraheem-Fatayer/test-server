@@ -1678,21 +1678,6 @@
         "done": "Back To Home Page"
     },
     "travel_inbound": {
-        "profile": {
-            "section": {
-                "section_1": {
-                    "header": "Passport Details",
-                    "passport": {
-                        "front": "Attach Front Page Of Passport"
-                    }
-                },
-                "section_2": {
-                    "header": "Personal And Contact Details",
-                    "sub_title_1": "Personal Section",
-                    "sub_title_2": "Contact Section"
-                }
-            }
-        },
         "travel_policy": {
             "EntryBefore": "Entry Before: {}",
             "EntryBefore1": "Entry Before: ",

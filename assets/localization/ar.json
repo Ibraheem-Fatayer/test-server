@@ -1692,24 +1692,6 @@
         "done": "الرجوع الى الصفحة الرئيسية"
     },
     "travel_inbound": {
-        "profile": {
-            "section": {
-                "section_1": {
-                    "header": "جواز السفر",
-                    "attachment": {
-                        "passport": {
-                            "front": "تحميل الجهة الامامية من جواز السفر"
-                        }
-                    }
-                },
-                "section_2": {
-                    "header": "التفاصيل الشخصية وتفاصيل الاتصال",
-                    "description": "قم بتحديث تفاصيل الاتصال الخاصة بك",
-                    "sub_title_1": "تفاصيل الحساب الشخصي",
-                    "sub_title_2": "تفاصيل الاتصال"
-                }
-            }
-        },
         "travel_policy": {
             "EntryBefore": "تاريخ الدخول: {}",
             "EntryBefore1": "تاريخ الدخول: ",
