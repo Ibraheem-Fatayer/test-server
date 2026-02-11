@@ -430,6 +430,12 @@
                 "MaxLength": "Qatari ID Should Be 11 Digit"
             }
         },
+        "QatariIDExpiryDate": {
+            "Lable": "Qatari ID Expiry Date",
+            "Validation": {
+                "Required": "Qatari ID Expiry Date Is Required"
+            }
+        },
         "Validity": {
             "Lable": "Qatari ID Expiry Date",
             "Validation": {
@@ -573,6 +579,13 @@
             "height_invalid": "Please enter a valid height",
             "weight_too_high": "Weight must be less than 200 kg",
             "height_too_high": "Height must be less than 250 cm"
+        },
+        "Email": {
+            "Lable": "Email",
+            "Validation": {
+                "Required": "Email Is Required",
+                "Format": "Invalid Email Address"
+            }
         }
     },
     "insurance": {
@@ -1738,23 +1751,6 @@
             },
             "header": {
                 "new_insured": "New Insured"
-            },
-            "labels": {
-                "new_qatari_id": "Qatari ID",
-                "new_expiry_date": "QID Expiry Date",
-                "new_insured_email": "Email",
-                "new_insured_mobile": "Mobile",
-                "chassis_number": "VIN (Chassis)",
-                "plate_number": "Plate #",
-                "new_insured_nameAR": "Name (Arabic)",
-                "new_insured_nameEN": "Name (English)"
-            },
-            "form_validation": {
-                "error": {
-                    "qatari_id": {
-                        "qatari_id_exist_error": "The Qatari ID should be distinct from the current owner's ID"
-                    }
-                }
             },
             "dialog": {
                 "change_insured": {

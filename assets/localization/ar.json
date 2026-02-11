@@ -430,6 +430,12 @@
                 "MaxLength": "يجب أن يتكون الرقم الشخصي من 11 رقم"
             }
         },
+        "QatariIDExpiryDate": {
+            "Lable": "تاريخ انتهاء الصلاحية",
+            "Validation": {
+                "Required": "تاريخ انتهاء الصلاحية مطلوب"
+            }
+        },
         "Validity": {
             "Lable": "مدة صلاحية البطاقة الشخصية",
             "Validation": {
@@ -573,6 +579,13 @@
             "height_invalid": "يرجى إدخال طول صحيح",
             "weight_too_high": "يجب أن يكون الوزن أقل من 200 كغ",
             "height_too_high": "يجب أن يكون الطول أقل من 250 سم"
+        },
+        "Email": {
+            "Lable": "البريد الإلكتروني",
+            "Validation": {
+                "Required": "البريد الإلكتروني مطلوب",
+                "Email": "البريد الإلكتروني غير صالح"
+            }
         }
     },
     "insurance": {
@@ -1756,23 +1769,6 @@
             "header": {
                 "new_insured": "المؤمن الجديد"
             },
-            "labels": {
-                "new_qatari_id": "# البطاقة الشخصية",
-                "new_expiry_date": "الصلاحية",
-                "new_insured_email": "البريد الإلكتروني",
-                "new_insured_mobile": "# الهاتف",
-                "chassis_number": "# القاعدة (الشاصيه)",
-                "plate_number": "# اللوحة",
-                "new_insured_nameAR": "الاسم (عربي)",
-                "new_insured_nameEN": "الاسم (إنجليزية)"
-            },
-            "form_validation": {
-                "error": {
-                    "qatari_id": {
-                        "qatari_id_exist_error": "يجب أن تكون البطاقة الشخصية القطرية مختلفة عن هوية المالك الحالية"
-                    }
-                }
-            },
             "dialog": {
                 "change_insured": {
                     "important": "مهم! ",
@@ -1783,13 +1779,6 @@
                 "dialog": {
                     "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
                 }
-            }
-        },
-        "edit": {
-            "labels": {
-                "plate_no": "# اللوحة",
-                "chassis_no": "# القاعدة (الشاصيه)",
-                "color": "اللون"
             }
         }
     },
