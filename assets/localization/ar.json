@@ -1,0 +1,2181 @@
+{
+    "no_route_found": "لا توجد شاشة",
+    "or": "او",
+    "session_timeout": "انتهت صلاحية الجلسة، يرجى تسجيل الدخول مرة أخرى",
+    "DismissButton": "حسنا",
+    "CurrentVersion": "الاصدار الحالي: {}",
+    "best_offers": "أفضل العروض",
+    "quotation_information": "تفاصيل الطلب",
+    "Boat": "القارب",
+    "sorry": "للأسف",
+    "all": "الكل",
+    "valid": "فعالة",
+    "expired": "منتهية",
+    "drop_down_hint": "البحث..",
+    "news_title": "ما هو الجديد؟",
+    "edit_chassis_note": "ملاحظة: يمكنك تغيير # لوحة الترخيص أو # الهيكل مرة واحدة فقط",
+    "create_new_quotation": "إنشاء عرض سعر جديد",
+    "visitor_link_empty": "لا يوجد شيء لعرضه في الوقت الحالي.",
+    "travel_empty_list": "قائمة وثائق تأمين السفر فارغة",
+    "medical_empty_list": "قائمة وثائق التأمين الطبي فارغة",
+    "CarNotSupportForInsurance": "عذراً، هذه السيارة غير مدعومة حالياً للتأمين",
+    "about_dig": "كيانات المجموعة",
+    "about_logo_history": "تاريخ الشعار",
+    "read_more": "اقرأ المزيد",
+    "read_less": "اقرأ أقل",
+    "Scan": "مسح",
+    "Camera": ":كاميرا",
+    "Gallery": "المعرض",
+    "SelectPlan": "أختيار الخطة",
+    "ShowPlanBenefit": "عرض مزايا الخطة",
+    "NationalID": "الرقم الشخصي : ",
+    "ExpiryOn": "تاريخ الانتهاء :",
+    "PolicyNO": "# الوثيقة : ",
+    "ContactUs": {
+        "title": "تواصل معنا",
+        "description": "نقدّر ملاحظاتك. يرجى مشاركة أفكارك أو اقتراحاتك أو مخاوفك معنا."
+    },
+    "SuggesstionAndComplaints": {
+        "title": "الاقتراحات والشكاوى",
+        "description": "نقدّر ملاحظاتك. يرجى مشاركة أفكارك أو اقتراحاتك أو مخاوفك معنا."
+    },
+    "Profile": {
+        "Passport": "جواز السفر",
+        "QID_Passport": "الهوية القطرية / جواز السفر",
+        "QID_Details": "تفاصيل الهوية القطرية",
+        "Passport_Details": "تفاصيل جواز السفر",
+        "Personal_Contact": "البيانات الشخصية و وسائل التواصل",
+        "Personal": "القسم الشخصي",
+        "Contact": "قسم التواصل",
+        "Employment": "الوظيفة",
+        "EmploymentDetails": "تفاصيل الوظيفة",
+        "Resident": "مكان الإقامة / الدولة الأم",
+        "ResidentDetails": "تفاصيل العنوان داخل قطر",
+        "leave_profile": "لديك تغييرات غير محفوظة. هل أنت متأكد أنك تريد مغادرة الصفحة دون حفظ المعلومات؟",
+        "update_warning": "لتحديث ملفك الشخصي، يجب تعديل حقل واحد على الأقل",
+        "QatariIDImageError": "يجب إرفاق صورة الهوية القطرية لتحديث البيانات"
+    },
+    "theme": {
+        "title": "المظهر",
+        "dark": "الوضع الداكن",
+        "light": "الوضع الفاتح",
+        "system": "كما في النظام",
+        "note": "عند تحديد ”كما في النظام“، سيتبع التطبيق مظهر جهازك تلقائيًا."
+    },
+    "TextSize": {
+        "title": "حجم الخط",
+        "small": "صغير",
+        "medium": "متوسط",
+        "large": "كبير",
+        "system": "كما في النظام",
+        "note": "عند اختيار ”كما في النظام“، سيقوم تطبيق DIG بضبط حجم النص تلقائيًا ليتوافق مع إعدادات جهازك."
+    },
+    "error_state": {
+        "plans": "لم يتم العثور على خطة، يرجى المحاولة مرة أخرى.",
+        "review_order": "لم يتم العثور على تاريخ المراجعة، يرجى المحاولة مرة أخرى.",
+        "payment_provider": "لم يتم العثور على مزود الدفع، يرجى المحاولة مرة أخرى.",
+        "incomplete": "لم يتم العثور على عرض سعر",
+        "no_faqs_found": "لم يتم العثور على أسئلة شائعة",
+        "no_about_found": "لم يتم العثور على معلومات عنا",
+        "no_offers_found": "لم يتم العثور على عروض",
+        "no_news_found": "لم يتم العثور على الأخبار",
+        "no_offer_details_found": "لم يتم العثور على تفاصيل العرض",
+        "failed_load_policy": "فشل تحميل البوالص",
+        "failed_load_policy_information": "فشل تحميل معلومات البوليصة",
+        "no_result_found": "لم يتم العثور على نتائج",
+        "no_result_found_desc": "عذرًا، لم نتمكن من العثور على أي نتائج",
+        "no_medical_card": "ليس لديك أي بطاقة طبية",
+        "no_network_provider": "ليس لديك أي مزود شبكة",
+        "no_medical_document": "ليس لديك أي مستند طبي",
+        "couldnot_result_found": "لم نتمكن من العثور على أي نتائج",
+        "no_policies": "لم يتم العثور على وثائق",
+        "policies_empty_message": "ليس لديك أي وثائق حتى الآن. ابدأ بإصدار وثيقتك الأولى لرؤيتها هنا."
+    },
+    "about_us": {
+        "executive": {
+            "title": "الأعضاء التنفيذيين",
+            "description": "يضم فريق القيادة التنفيذية في مجموعة الدوحة للتأمين نخبة من الخبراء المخضرمين ذوي الخبرة الواسعة في التأمين والتمويل والإدارة الاستراتيجية. وتضمن قيادتهم استمرار نمو المجموعة وتميزها التشغيلي والتزامها الراسخ بتقديم قيمة مضافة لأصحاب المصلحة في الأسواق المحلية والدولية."
+        },
+        "board": {
+            "title": "أعضاء مجلس الإدارة",
+            "description": "يتولى مجلس إدارة مجموعة الدوحة للتأمين الإشراف الاستراتيجي والحوكمة، بما يضمن أعلى معايير المساءلة والشفافية والنزاهة المؤسسية. ويضم المجلس قادةً مرموقين ذوي خبرات متنوعة في مجالات المالية وإدارة المخاطر والأعمال الدولية، ويلعب دورًا محوريًا في توجيه رؤية المجموعة طويلة الأمد ونموها المستدام."
+        }
+    },
+    "Faq": {
+        "app_bar": "الأسئلة الشائعة",
+        "Title": "الأسئلة الشائعة",
+        "SearchHint": "ابحث في الأسئلة الشائعة...",
+        "Categories": {
+            "All": "الكل",
+            "Motor": "المركبات",
+            "Medical": "الطبية",
+            "Travel": "السفر"
+        }
+    },
+    "SOSEmergency": {
+        "Title": "زر الطوارئ SOS",
+        "EmergencyNumbers": "الشرطة، الإسعاف، الإطفاء (الخط الرئيسي)",
+        "CivilOrFireDepartment": "الدفاع المدني / قسم الإطفاء",
+        "MobileWorldwideEmergency": "الاتصال الدولي للطوارئ",
+        "HukoomiGovernmentCallCenter": "مركز الاتصال الحكومي",
+        "GeneralElectricityandWaterCorporation": "طوارئ الكهرباء (كهرماء)"
+    },
+    "MainAppService": {
+        "Branches": "فروعنا",
+        "Offers": "عروض DIG",
+        "DefenseTactics": "تكتيكات الدفاع",
+        "TalkToSanad": "تحدث إلى سند"
+    },
+    "DashBoard": {
+        "numbers": "العدد:",
+        "EmptyPolicies": "لا تملك وثيقة تأمين حتى الآن. أنشئ وثيقة جديدة للمتابعة",
+        "EmptyMotorPolicy": "لا تملك وثيقة تأمين مركبة حتى الآن. أنشئ وثيقة جديدة للمتابعة",
+        "EmptyTravelPolicy": "لا تملك وثيقة تأمين سفر حتى الآن. أنشئ وثيقة جديدة للمتابعة",
+        "EmptyMedicalPolicy": "لا تملك وثيقة تأمين صحي حتى الآن. أنشئ وثيقة جديدة للمتابعة",
+        "EmptyDomisticHelper": "ليس لديك تأمين للعمالة المنزلية بعد. أنشئ بوليصة جديدة للمتابعة.",
+        "EmptyPersonalAccedent": "لا يوجد لديك تأمين حوادث شخصية بعد. أنشئ بوليصة جديدة للمتابعة.",
+        "EmptyBoat": "لا يوجد لديك تأمين للقارب بعد. أنشئ بوليصة جديدة للمتابعة.",
+        "EmptyMedicalGroupPolicy": "بطاقة المجموعة الطبية الخاصة بك غير متوفرة."
+    },
+    "Sos": {
+        "sos": "أرقام",
+        "emergency": "الطوارئ"
+    },
+    "Helpline": {
+        "Title": "مساعد تأمين+",
+        "CardSubTitle": "مساعدك التأميني على مدار 24/7",
+        "SubTitle": "مساعد التأمين الخاص بك",
+        "CallCenter": "مركز خدمة عملاء DIG 24/7",
+        "RoadsideAssistance": "مساعدة على الطريق 24/7",
+        "LiveChat": "الدردشة المباشرة مع أحد الموظفين",
+        "MedicalClaim": "تقديم مطالبة طبية على الفور",
+        "MotorClaim": "تقديم مطالبة تأمين المركبة على الفور"
+    },
+    "Form": {
+        "CarValue": {
+            "Label": "القيمة التأمينية للمركبة",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "Color": {
+            "Label": "اللون",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "Chassis": {
+            "Label": "# القاعدة (الشاصيه)",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "PlateNo": {
+            "Label": "# اللوحة",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "InsuredRelations": {
+            "Label": "صلة القرابة بحامل الوثيقة",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "SuggestionsOrComplaints": {
+            "Label": "مقتراحات او شكاوى",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب"
+            }
+        },
+        "ContactNote": {
+            "Label": "ملاحظات",
+            "ValidationError": {
+                "Required": "هذا الحقل مطلوب",
+                "MinLength": "الحد الأدنى 5 أحرف",
+                "MaxLength": "الحد الأقصى 500 حرف"
+            }
+        },
+        "Name": {
+            "LabelEn": "الأسم",
+            "LabelAr": "الأسم (عربي)",
+            "TravelInLabel": "اسم الزائر (كما هو في جواز السفر)",
+            "Validation": {
+                "EN": "الأسم بالأنجليزية مطلوب",
+                "AR": "الأسم بالعربية مطلوب"
+            }
+        },
+        "PaymentType": {
+            "Label": "طريقة الدفع",
+            "ValidationError": {
+                "PaymentTypeRequired": "طريقة الدفع مطلوبة",
+                "PaymentValueRequired": "{} مطلوب"
+            }
+        },
+        "Birthday": {
+            "Lable": "تاريخ الميلاد",
+            "Validation": {
+                "Required": "تاريخ الميلاد مطلوب"
+            }
+        },
+        "TitleName": {
+            "Lable": "اللقب",
+            "Validation": {
+                "Required": "اللقب مطلوب"
+            }
+        },
+        "IBAN": {
+            "Lable": "# الآيبان",
+            "Validation": {
+                "Required": "# الآيبان مطلوب"
+            }
+        },
+        "Mobile": {
+            "Lable": "# الجوال",
+            "Validation": {
+                "Required": "# الجوال مطلوب"
+            }
+        },
+        "SecoundryMobile": {
+            "Lable": "# الجوال الثانوي",
+            "Validation": {
+                "Required": "# الجوال الثانوي مطلوب"
+            }
+        },
+        "HomeMobile": {
+            "Lable": "# الهاتف المنزلي",
+            "Validation": {
+                "Required": "# الهاتف المنزلي مطلوب"
+            }
+        },
+        "OfficeMobile": {
+            "Lable": "# هاتف المكتب",
+            "Validation": {
+                "Required": "# هاتف المكتب مطلوب"
+            }
+        },
+        "CompanyName": {
+            "Lable": "اسم الشركة",
+            "Validation": {
+                "Required": "اسم الشركة مطلوب"
+            }
+        },
+        "Zone": {
+            "Lable": "المنطقة",
+            "Validation": {
+                "Required": "المنطقة مطلوبة"
+            }
+        },
+        "Street": {
+            "Lable": "عنوان الشارع",
+            "Validation": {
+                "Required": "عنوان الشارع مطلوب"
+            }
+        },
+        "Builder": {
+            "Lable": "# المبنى",
+            "Validation": {
+                "Required": "# المبنى مطلوب"
+            }
+        },
+        "POBox": {
+            "Lable": "صندوق البريد",
+            "Validation": {
+                "Required": "صندوق البريد مطلوب"
+            }
+        },
+        "Address": {
+            "Lable": "العنوان",
+            "Validation": {
+                "Required": "العنوان مطلوب"
+            }
+        },
+        "BoatBodyType": {
+            "Lable": "نوع القارب",
+            "Validation": {
+                "Required": "نوع القارب مطلوب"
+            }
+        },
+        "BoatMarineType": {
+            "Lable": "أسم المارينا",
+            "Validation": {
+                "Required": "أسم المارينا مطلوب"
+            }
+        },
+        "BoatMaterialType": {
+            "Lable": "نوع مادة تصنيع القارب",
+            "Validation": {
+                "Required": "نوع مادة تصنيع القارب مطلوبة"
+            }
+        },
+        "BoatEngineType": {
+            "Lable": "أنواع المحرك",
+            "Validation": {
+                "Required": "أنواع المحرك مطلوبة"
+            }
+        },
+        "BoatMaterialValue": {
+            "Lable": "قيمة القارب",
+            "Validation": {
+                "Required": "قيمة القارب مطلوبة"
+            }
+        },
+        "BoatYearManufacture": {
+            "Lable": "سنة الصنع",
+            "Validation": {
+                "Required": "سنة الصنع مطلوبة"
+            }
+        },
+        "VesselName": {
+            "Lable": "اسم القارب",
+            "Validation": {
+                "Required": "اسم القارب مطلوب",
+                "MinLength": "يجب أن يكون اسم القارب أكثر من 5 حروف",
+                "MaxLength": "يجب أن يكون اسم القارب أقل من 50 حرف"
+            }
+        },
+        "BoatRegistrationNo": {
+            "Lable": "# التسجيل",
+            "Validation": {
+                "Required": "# التسجيل مطلوب",
+                "NumberOnly": "يجب أن يحتوي # التسجيل على أرقام فقط",
+                "format": "تنسيق # التسجيل غير صحيح"
+            }
+        },
+        "BoatWidth": {
+            "Lable": "عرض القارب",
+            "Validation": {
+                "Required": "عرض القارب مطلوب",
+                "NumberOnly": "يجب أن يكون عرض القارب أرقام فقط",
+                "format": "تنسيق عرض القارب غير صالح"
+            }
+        },
+        "BoatLength": {
+            "Lable": "طول القارب",
+            "Validation": {
+                "Required": "طول القارب مطلوب",
+                "NumberOnly": "يجب أن يكون طول القارب أرقام فقط",
+                "format": "تنسيق طول القارب غير صالح"
+            }
+        },
+        "BoatDepth": {
+            "Lable": "عمق القارب",
+            "Validation": {
+                "Required": "عمق القارب مطلوب",
+                "NumberOnly": "يجب أن يكون عمق القارب أرقام فقط",
+                "format": "تنسيق عمق القارب غير صالح"
+            }
+        },
+        "BoatKnot": {
+            "Lable": "سرعة القارب بالعُقد",
+            "Validation": {
+                "Required": "قيمة سرعة القارب بالعُقد مطلوبة",
+                "format": "يجب أن تكون قيمة السرعة بين 1 و 99.9"
+            }
+        },
+        "BoatEngineNo": {
+            "Lable": "# المحرك",
+            "Validation": {
+                "Required": "# المحرك مطلوب",
+                "Char": "يجب أن يحتوي رقم المحرك على أحرف إنجليزية فقط مع رموز مثل - أو *",
+                "MinLength": "يجب أن لا يقل # المحرك عن 5 أحرف",
+                "MaxLength": "يجب أن لا يزيد # المحرك عن 20 حرفًا"
+            }
+        },
+        "BoatNumberOfEngine": {
+            "Lable": "عدد المحركات",
+            "Validation": {
+                "Required": "عدد المحركات مطلوب",
+                "NumOnly": "يجب أن يكون عدد المحركات أرقام فقط",
+                "format": "تنسيق عدد المحركات غير صالح"
+            }
+        },
+        "BoatNumberOfPassenger": {
+            "Lable": "عدد الركاب",
+            "Validation": {
+                "Required": "عدد الركاب مطلوب",
+                "NumOnly": "يجب أن يكون عدد الركاب أرقام فقط",
+                "format": "تنسيق عدد الركاب غير صالح"
+            }
+        },
+        "BoatNumberOfCrew": {
+            "Lable": "عدد الطاقم",
+            "Validation": {
+                "Required": "عدد الطاقم مطلوب",
+                "NumOnly": "يجب أن يكون عدد الطاقم أرقام فقط",
+                "format": "تنسيق عدد الطاقم غير صالح"
+            }
+        },
+        "BoatMaxSpeed": {
+            "Lable": "السرعة القصوى",
+            "Validation": {
+                "Required": "السرعة القصوى مطلوبة",
+                "NumOnly": "يجب أن تكون السرعة القصوى أرقام فقط",
+                "format": "تنسيق السرعة القصوى غير صالح"
+            }
+        },
+        "BoatLossPayee": {
+            "Lable": "اسم الجهة الممولة",
+            "Validation": {
+                "Required": "اسم الجهة الممولة مطلوب"
+            }
+        },
+        "QatariID": {
+            "Lable": "الرقم الشخصي",
+            "Lable2": "البطاقة الشخصية",
+            "Validation": {
+                "Required": "الرقم الشخصي مطلوب",
+                "NumberOnly": "يجب أن يحتوي الرقم الشخصي على أرقام فقط",
+                "MinLength": "يجب أن يتكون الرقم الشخصي من 11 رقم",
+                "MaxLength": "يجب أن يتكون الرقم الشخصي من 11 رقم"
+            }
+        },
+        "Validity": {
+            "Lable": "مدة صلاحية البطاقة الشخصية",
+            "Validation": {
+                "Required": "يرجى إدخال مدة صلاحية البطاقة الشخصية"
+            }
+        },
+        "SelectNationality": {
+            "Lable": "الجنسية",
+            "Validation": {
+                "Required": "يرجى إدخال جنسية المؤمن عليه"
+            }
+        },
+        "SelectOccupation": {
+            "Lable": "المهنة",
+            "Validation": {
+                "Required": "يرجى إدخال مهنة المؤمن عليه"
+            }
+        },
+        "SelectGender": {
+            "Lable": "الجنس",
+            "Validation": {
+                "Required": "يرجى إدخال جنس المؤمن عليه"
+            }
+        },
+        "domestic_insured_list": {
+            "worker_list_header": "قائمة المساعدين المنزليين",
+            "empty_list": "قائمة المساعدين المنزليين فارغة ",
+            "new_worker": "إضافة مساعدة منزلية",
+            "another_worker": "إضافة مساعدة منزلية أخرى",
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+            }
+        },
+        "review_order": {
+            "period": "الفترة: {}",
+            "holder_section": "المالك",
+            "account_no": "# الحساب: {}",
+            "passport_no": "# جواز السفر: {}",
+            "birthday": "تاريخ الميلاد: {}",
+            "age": "العمر: {}",
+            "domistic_helper_section": "المساعدة المنزلية",
+            "national_id": "الرقم الشخصي: {}",
+            "full_name": "الاسم: {}",
+            "gender": "الجنس: {}",
+            "nationality": "الجنسية: {}",
+            "email": "البريد الإلكتروني: {}",
+            "occupation": "المهنة: {}"
+        },
+        "insured_review_order": {
+            "beneficiaries": "عدد المستفيدين",
+            "national_ID": "# البطاقة الشخصية",
+            "ID_Expiry_Date": "تاريخ انتهاء الصلاحية",
+            "full_Name": "الاسم",
+            "nationality": "الجنسية"
+        },
+        "Period": {
+            "Lable": "الفترة",
+            "Validation": {
+                "Required": "يرجى إدخال الفترة"
+            }
+        },
+        "personal_accident_coverage": {
+            "Lable": "التغطية التأمينية",
+            "Validation": {
+                "Required": "يرجى إدخال نوع التغطية التأمينية"
+            }
+        },
+        "Validate": {
+            "TitleName": {
+                "Required": "يرجى إدخال اسم العنوان"
+            },
+            "AllRequired": {
+                "Required": "جميع الحقول مطلوبة"
+            }
+        },
+        "motor_claim_attachment": {
+            "front_left": {
+                "Required": "صورة مقدمة السيارة اليسرى مطلوبة"
+            },
+            "front_right": {
+                "Required": "صورة مقدمة السيارة اليمنى مطلوبة"
+            },
+            "back_left": {
+                "Required": "صورة الجزء الخلفي الأيسر من السيارة مطلوبة"
+            },
+            "back_right": {
+                "Required": "صورة الجزء الخلفي الأيمن من السيارة مطلوبة"
+            }
+        },
+        "HolderInfo": "معلومات المالك",
+        "DomesticInfo": "معلومات المساعدة المنزلية",
+        "ID_Front": {
+            "Lable": "البطاقة الشخصية من الأمام",
+            "Validation": {
+                "Required": "البطاقة الشخصية من الأمام مطلوبة"
+            }
+        },
+        "ID_Back": {
+            "Lable": "البطاقة الشخصية من الخلف",
+            "Validation": {
+                "Required": "البطاقة الشخصية من الخلف مطلوبة"
+            }
+        },
+        "Passport": {
+            "Lable": "جواز السفر",
+            "Validation": {
+                "Required": "جواز السفر مطلوب"
+            }
+        },
+        "ExpiryDate": {
+            "Lable": "تاريخ الانتهاء",
+            "Validation": {
+                "Required": "تاريخ الانتهاء مطلوب"
+            }
+        },
+        "Passport_front": {
+            "Lable": "الصفحة الأمامية لجواز السفر",
+            "Validation": {
+                "Required": "صورة الصفحة الأمامية لجواز السفر مطلوبة"
+            }
+        },
+        "Attachment": {
+            "Passport": "جواز السفر",
+            "Qatari_ID": "البطاقة الشخصية",
+            "Validation": {
+                "Required": "قم بتحميل مرفق واحد على الأقل (بطاقة هوية قطرية أو جواز سفر)",
+                "PassportImageRequired": "صورة جواز السفر مطلوبة"
+            }
+        },
+        "StartDate": {
+            "Lable": "تاريخ بدء الوثيقة",
+            "Validation": {
+                "Required": "يرجى إدخال تاريخ بدء الوثيقة"
+            }
+        },
+        "spike_update_profile": {
+            "weight_required": "يرجى إدخال الوزن",
+            "height_required": "يرجى إدخال الطول",
+            "weight_invalid": "يرجى إدخال وزن صحيح",
+            "height_invalid": "يرجى إدخال طول صحيح",
+            "weight_too_high": "يجب أن يكون الوزن أقل من 200 كغ",
+            "height_too_high": "يجب أن يكون الطول أقل من 250 سم"
+        }
+    },
+    "insurance": {
+        "cars_insurance": {
+            "txt": "تأمين",
+            "subtxt": "السيارات"
+        },
+        "travel_insurance": {
+            "txt": "تأمين",
+            "subtxt": "السفر"
+        },
+        "medical_insurance": {
+            "txt": "التأمين",
+            "subtxt": "الصحي"
+        },
+        "domestic_insurance": {
+            "txt": "تأمين",
+            "subtxt": "خدامات"
+        },
+        "boat_insurance": {
+            "txt": "تأمين",
+            "subtxt": "قوارب"
+        },
+        "personal_accident_insurance": {
+            "txt": "تأمين",
+            "subtxt": "الحوادث الشخصية"
+        }
+    },
+    "NewUpdate": {
+        "Title": "تحديث جديد متاح",
+        "SubTitle": "يوجد إصدار أحدث جاهز للتنزيل. يرجى تحديث التطبيق من خلال متجر {} للحصول على أفضل تجربة.",
+        "Button": "تحديث"
+    },
+    "PaymentType": {
+        "UseIBANMessage": "# IBAN الخاص بك هو (TESTIBAN)، هل ترغب في استخدامه الآن؟",
+        "UpdateTheIBAN": "هل ترغب في تحديث # IBAN في ملفك الشخصي؟",
+        "Yes": "نعم",
+        "No": "لا"
+    },
+    "PDFViewer": {
+        "AppBar": "ملف PDF",
+        "Error": "عذرًا، لم نتمكن من تحميل ملف PDF"
+    },
+    "wearing": {
+        "log_out_wearing": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+    },
+    "permission": {
+        "camera": {
+            "title": "السماح بقراءة الملفات",
+            "description": "يجب منح هذا الإذن من إعدادات النظام"
+        }
+    },
+    "CoachMark": {
+        "TotalPolicy": "قم بإدارة جميع وثائق التأمين الخاصة بك على السيارات والسفر والتأمين الطبي بسهولة وفي مكان واحد. تابع الوثائق السارية والمنتهية بكل بساطة.",
+        "InsuredPolicies": "يمكنك متابعة جميع وثائق التأمين الخاصة بك بكل سهولة, اضغط على الخدمة لعرض الوثائق السارية والمنتهية.",
+        "DIGHelpline": "اضغط على هذا الزر للوصول إلى الدعم السريع. يمكنك الاتصال بمركز اتصالات DIG في أي وقت، الحصول على المساعدة على الطريق، الدردشة مباشرة مع وكيل، أو تقديم مطالبات طبية ومطالبات سيارات فورًا. يمكنك أيضًا تصفح الأسئلة الشائعة (FAQ) للحصول على الإرشادات.",
+        "SOSEmergency": "اضغط على هذا الزر للاتصال بسرعة بخدمات الطوارئ في قطر للحصول على المساعدة العاجلة.",
+        "PlusButton": "إنشاء عروض تأمين بسهولة من خلال تبسيط العملية، والوصول إلى خدمات تغطية شاملة بضغطة بسيطة.",
+        "Home": "قم بإدارة التأمين الخاص بك بسهولة — عرض وثائقك، إنشاء عروض جديدة، ومتابعة العروض غير المكتملة، كل ذلك في تجربة تطبيق سلسة.",
+        "Policy": "عرض الوثائق النشطة والمنتهية، مع تفاصيل.",
+        "Profile": "إدارة وتحديث معلومات حسابك بسهولة.",
+        "Others": "اتصل بنا للحصول على المساعدة أو تحكم في إعدادات التطبيق (تغيير اللغات، تمكين أو تعطيل الإشعارات وبصمة الإصبع)",
+        "MedicalCard": "إدارة بطاقاتك الطبية العائلية أو الجماعية بسلاسة, اسحب إلى اليسار لإظهار المزيد من البطاقات.",
+        "MedicalPolicyCard": "بسهولة يمكنك الوصول إلى المطالبة الطبية الخاصة بك وبأفراد عائلتك",
+        "ClaimCard": "عرض قائمة المطالبات الطبية (النشطة، المرفوضة، الموافق عليها). لعرض معلومات المطالبة، اضغط على البطاقة أو اسحب إلى اليسار.",
+        "TravelHolderScanButton": "بكل سهولة، قم بمسح جواز سفرك لإنشاء عرض سفر جديد (خارج قطر)، مما يبسط إدخال معلومات حامل الوثيقة اللازمة.",
+        "TravelNewInsuredButton": "أضف أعضاء جدد مؤمنين بسهولة بلمسة بسيطة، مما يعزز بسهولة تغطية التأمين الخاصة بعائلتك أو مجموعتك للسفر (خارج قطر)..",
+        "TravelNewInsuredCard": "الوصول إلى تفاصيل التأمين وإدارتها لجميع المؤمن عليهم، بالإضافة إلى وظيفة السحب لليسار للتعديل أو الحذف السريع،",
+        "TravelScanNewInsuredButton": "بسهولة، أضف أعضاء مؤمنين جدد عن طريق مسح جوازات السفر، مما يبسط عملية إدراج الوثيقة.",
+        "MedicalHolderScanButton": "مسح بطاقة الهوية القطرية بسهولة لانشاء عرض طبي فردي جديد مع إدخال سهل للمعلومات المطلوبة.",
+        "MedicalNewInsuredButton": "قم بتوسيع تغطيتك الطبية الفردية بسهولة عن طريق إضافة أفراد مؤمنين جدد بنقرة واحدة في تطبيقنا سهل الاستخدام.",
+        "MedicalNewInsuredCard": "الوصول وإدارة تفاصيل التأمين لجميع المؤمن عليهم، بالإضافة إلى وظيفة التمرير السريعة لليسار للحذف السريع.",
+        "MedicalScanNewInsuredButton": "قم بإضافة أعضاء مؤمن عليهم جدد بسهولة عن طريق مسح بطاقة الهوية القطرية، مما يسهل عملية إضافة الأعضاء إلى الوثيقة.",
+        "IncompleteQuot": "استكمال عروض السعر الأخيرة بسهولة وإكمالها دون عناء"
+    },
+    "button": {
+        "reload": "إعادة تحميل",
+        "next_button": "متابعة",
+        "submit_button": "اتمام العملية",
+        "see_all": "عرض الكل",
+        "download": "تحميل",
+        "login_button": "تسجيل الدخول",
+        "promo_code": "هل لديك رمز ترويجي؟",
+        "pay_now": "ادفع الآن",
+        "upload_button": "ارفاق الملف",
+        "done": "منتهي",
+        "select": "اختيار",
+        "update": "تعديل",
+        "edit_button": "تعديل",
+        "extend_button": "تمديد",
+        "add_claim_button": "إضافة مطالبة",
+        "renewal_button": "التجديد",
+        "save_button": "حفظ",
+        "cancel_button": "الغاء",
+        "ok_button": "موافق",
+        "accep_buttont": "نعم",
+        "reject_button": "لا",
+        "logout": "تسجيل الخروج",
+        "try_again": "محاولة مرة أخرى",
+        "send_btn": "ارسال",
+        "more_btn": "المزيد",
+        "start_new_policy_btn": "ابدأ وثيقة جديدة",
+        "download_invoice": "الفاتورة",
+        "download_policy": "الوثيقة",
+        "download_benefit": "المزايا",
+        "share_btn": "مشاركة",
+        "change_insured_btn": "تغيير المؤمن",
+        "edit_btn": "تعديل",
+        "extend_btn": "تمديد",
+        "add_claim_btn": "أضف مطالبة",
+        "renewal_btn": "تجديد",
+        "on_damage_btn": "عن الضرر",
+        "download_card_btn": "تحميل البطاقة",
+        "tearms_and_conditions_btn": "الشروط والأحكام",
+        "claims_btn": "المطالبات",
+        "medical_certificate_btn": "الشهادة",
+        "remaining_limt_btn": "الرصيد الصحي المتبقي"
+    },
+    "label": {
+        "start_date_label": "تاريخ بدء الوثيقة",
+        "end_date_label": "تاريخ انتهاء الوثيقة"
+    },
+    "error": {
+        "input_error": {
+            "required_fields_error": "جميع الحقول مطلوبة",
+            "phone_no": {
+                "phone_no_required_error": "حقل الهاتف مطلوب",
+                "phone_no_type_error": "يجب أن يكون الهاتف رقمًا فقط",
+                "phone_no_length_error": "# الهاتف يجب ان يكون 8 أرقام"
+            },
+            "qatar_id": {
+                "qatar_id_required_error": "حقل الرقم الشخصي مطلوب",
+                "qatar_id_type_error": "يجب أن يكون الرقم الشخصي رقمًا فقط",
+                "qatar_id_min_length_error": "يجب أن يتكون الرقم الشخصي من 11 رقم",
+                "qatar_id_max_length_error": "يجب أن يتكون الرقم الشخصي من 11 رقم"
+            },
+            "date_required_error": "حقل التاريخ مطلوب",
+            "email": {
+                "email_required_error": "حقل البريد الالكتروني مطلوب",
+                "email_format_error": "عنوان البريد الإلكتروني غير صحيح"
+            },
+            "start_date_required_error": "لا يمكنك المتابعة بدون اختيار تاريخ بدء تأمينك",
+            "insured_name_ar": {
+                "full_name_required_error": "حقل اسم المؤمن عليه مطلوب",
+                "insured_name_format_error": "يجب أن يحتوي الاسم على أحرف عربية"
+            },
+            "insured_name_en": {
+                "full_name_required_error": "حقل اسم المؤمن عليه مطلوب",
+                "insured_name_format_error": "العربية غير مسموح بها",
+                "insured_name_special_char_format_error": "يجب أن يكون الاسم باللغة الإنجليزية فقط\nغير مسموح بالأحرف الخاصة"
+            },
+            "birthday_required_error": "حقل عيد الميلاد مطلوب",
+            "passport_no": {
+                "passport_no_required_error": "حقل # جواز السفر مطلوب",
+                "passport_min_length_error": "يجب أن يكون # جواز السفر أكبر من أو يساوي 5",
+                "passport_max_length_error": "يجب أن يكون # جواز السفر أقل من أو يساوي 13",
+                "passport_no_type_error": "يجب أن يحتوي # جواز السفر على أحرف إنجليزية فقط مع رموز مثل - أو *"
+            },
+            "capacity": {
+                "capacity_required_error": "حقل عدد مقاعد السيارة مطلوب",
+                "capacity_type_error": "عدد مقاعد السيارة يقبل الأرقام فقط"
+            },
+            "plate_no": {
+                "plate_no_required_error": "حقل # اللوحة مطلوب",
+                "plate_no_length_error": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
+                "plate_no_type_error": "# اللوحة يقبل الأرقام فقط"
+            },
+            "insured_address": {
+                "address_required_error": "العنوان مطلوب",
+                "address_format_error": "العنوان يجب أن يتضمن فقط الحروف، الأرقام، الفواصل، وعلامة '-'"
+            },
+            "company_name": {
+                "company_name_required_error": "اسم الشركة مطلوب",
+                "company_name_format_error": "يجب أن يحتوي اسم الشركة على أحرف إنجليزية فقط"
+            },
+            "claim_amount": {
+                "claim_amount_required_error": "مبلغ المطالبة مطلوب",
+                "claim_amount_format_error": "مبلغ المطالبة يقبل الأرقام فقط"
+            },
+            "car_value": {
+                "car_value_required_error": "حقل القيمة التأمينية للمركبة مطلوب"
+            },
+            "chassis_no": {
+                "chassis_no_required_error": "حقل # القاعدة مطلوب",
+                "chassis_no_min_length_error": "يجب أن يكون # القاعدة أكبر من او يساوي 6",
+                "chassis_no_max_length_error": "يجب أن يكون # القاعدة أقل من 20",
+                "chassis_no_type_error": "# القاعدة يقبل فقط الأحرف والأرقام والرموز '-', '/', '\\\\' و'*'"
+            },
+            "motor_color": {
+                "color_required_error": "اللون مطلوب"
+            },
+            "expiry_date": {
+                "expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب",
+                "invalid_expiry_date": "تاريخ انتهاء الصلاحية غير صالح"
+            },
+            "qatarId_expiry_date": {
+                "qatarId_expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
+            },
+            "passport_expiry_date": {
+                "passport_expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
+            },
+            "nationality": {
+                "nationality_required_error": "الجنسية مطلوبة"
+            },
+            "patient": {
+                "patient_name_required_error": "اسم المريض مطلوب"
+            },
+            "claim_date": {
+                "claim_date_required_error": "تاريخ المطالبة مطلوب"
+            },
+            "amount_currency": {
+                "amount_currency_required_error": "العملة مطلوبة"
+            },
+            "reason": {
+                "reason_required_error": "السبب مطلوب"
+            },
+            "secondray_contact_no": {
+                "contact_number_type_error": "# الاتصال الثانوي يقبل ارقام فقط"
+            },
+            "home_landline_no": {
+                "contact_number_type_error": "# الهاتف للمنزل يقبل ارقام فقط"
+            },
+            "office_landline_no": {
+                "contact_number_type_error": "# الهاتف للمكتب يقبل ارقام فقط"
+            },
+            "unit_no": {
+                "unit_number_type_error": "# المنطقة يقبل ارقام فقط"
+            },
+            "street_no": {
+                "street_number_type_error": "# الشارع يقبل ارقام فقط"
+            },
+            "building_no": {
+                "building_number_type_error": "# المبنى يقبل ارقام فقط"
+            },
+            "accident_details": {
+                "accident_details_required": "تفاصيل الحادث مطلوبة"
+            },
+            "driver_name": {
+                "driver_name_required": "اسم السائق مطلوب",
+                "driver_name_char_type": "اسم السائق يقبل الأحرف الإنجليزية"
+            },
+            "manufacture_year": {
+                "manufacture_year_required": "سنة تصنيع السيارة مطلوب",
+                "manufacture_year_char_type": "سنة الصنع يقبل ارقام فقط",
+                "manufacture_year_min_length": "يجب أن تكون سنة التصنيع أكبر من 0",
+                "manufacture_year_digit_length": "يجب أن تكون سنة الصنع 4 أرقام",
+                "manufacture_year_max_length": "يجب أن تكون سنة التصنيع أقل من أو تساوي السنة الحالية"
+            },
+            "policy_report_no": {
+                "policy_report_no_required": "# تقرير الوثيقة مطلوب",
+                "policy_report_no_min_length": "يجب أن يكون # تقرير الشرطة 10 أرقام على الأكثر",
+                "policy_report_no_format": "# تقرير الوثيقة التنسيق غير صالح"
+            },
+            "promo_code": {
+                "promo_code_required": "الرمز الترويجي مطلوب",
+                "promo_code_max_length": "يجب أن يكون الرمز الترويجي من 6 أرقام",
+                "promo_code_min_length": "يجب أن يكون الرمز الترويجي من 6 أرقام"
+            }
+        }
+    },
+    "response": {
+        "error": {
+            "no_data_found": "لاتوجد بيانات",
+            "failed_process": "فشلت العملية، يرجى المحاولة مرة أخرى",
+            "failed_process2": "عذراً، الخدمة غير متوفرة حالياً. يرجى المحاولة مرة أخرى قريباً",
+            "no_insured": "لم يتم العثور على المؤمن عليه",
+            "network_connection": "لا يوجد اتصال شبكة",
+            "un_authorized": "غير مصرح",
+            "empty_attachment": "الملف غير موجود",
+            "create_claim": "فشلت العملية، لم يتم إنشاء المطالبة",
+            "validation_error": "حدث خطأ أثناء التحقق",
+            "download_attachment": "فشل في تنزيل الملف",
+            "failed_changed_insured": "لم يتم تغيير المؤمن عليه",
+            "wrong_insured": "الرقم الوطني أو تاريخ الانتهاء غير صحيح. يرجى التحقق من بياناتك والمحاولة مرة أخرى."
+        },
+        "success": {
+            "update_plan": "تم تحديث الباقة بنجاح",
+            "create_quotation": "تم إنشاء عرض السعر بنجاح",
+            "upload_attachment": "تم تحميل المرفقات بنجاح",
+            "insurance_changed": "تم تغيير المؤمن بنجاح",
+            "create_claim": "تم إنشاء المطالبة بنجاح",
+            "upload_data": "تم تحميل البيانات بنجاح",
+            "update_date": "تم تحديث البيانات بنجاح",
+            "successful_operation": "تمت العملية بنجاح"
+        }
+    },
+    "request": {
+        "loading": "يرجى الانتظار يتم جلب البيانات...",
+        "updating": "يرجى الانتظار يتم تحديث البيانات...",
+        "validate": "يرجى الانتظار يتم التحقق من صحة البيانات..."
+    },
+    "fetching_messages": {
+        "fetching_policy": "يرجى الانتظار ريثما يتم جلب الوثائق (البيانات) الخاصة بك",
+        "fetching_moi": "يرجى الانتظار ريثما يتم جلب معلوماتك من وزارة الداخلية",
+        "load_qatari_id_scan": "يرجى الانتظار ريثما يتم تحميل معلومات البطاقة الشخصية",
+        "changeing_insured": "يرجى الانتظار ريثما يتم تغير معلوماتك",
+        "fetching_existing_policy_data": "يرجى الانتظار ريثما يتم تحميل بيانات الوثيقة",
+        "updating_existing_policy_data": "يرجى الانتظار ريثما يتم تحديث بيانات الوثيقة",
+        "load_passport_scan": "يرجى الانتظار ريثما يتم تحميل بيانات جواز السفر",
+        "fetching_required_data": "يرجى الانتظار ريثما يتم تحميل البيانات المطلوبة",
+        "upload_attachment": "يرجى الانتظار ريثما يتم تحميل الملفات",
+        "fetching_car_model": "يرجى الانتظار ريثما يتم تحميل طراز السيارة",
+        "update_plane": "يرجى الانتظار ريثما يتم تحديث الباقة",
+        "fetching_dashboard_data": "يرجى الانتظار يتم جلب البيانات..."
+    },
+    "authorization": {
+        "LoginToNewAccount": "تسجيل الدخول باستخدام حساب آخر",
+        "face_recognition": {
+            "success_message": "تم التحقق بنجاح من بطاقتك الشخصية القطرية والتعرف على الوجه! لضمان تواصل سلس، يرجى تحديث # هاتفك المحمول الآن."
+        },
+        "authorize_login": "تخويل تسجيل الدخول الخاص بك",
+        "verification_code_description": {
+            "description": {
+                "text_1": "بالاضافة لرقمك الشخصي,\nسيتعين عليك ادخال رمز التحقق",
+                "text_2": "او",
+                "text_3": "لتسجيل الدخول الى حسابك."
+            },
+            "supdescription": {
+                "text_1": "(يتم تسليمه عبر الرسائل القصيرة {provider})",
+                "text_2": "(استخدم التعرف على الوجه)"
+            }
+        },
+        "chassis_no_verification": "آخر 6 أرقام من # القاعدة (الشاصيه)",
+        "individual_number": "# البطاقة الصحية",
+        "otp_verification": "رسالة قصيرة",
+        "facial_recognition": "التعرف على الوجه",
+        "facial_recognition_warning": "يرجى التحقق من هويتك باستخدام تقنية التعرف على الوجه قبل تحديث # هاتفك المحمول",
+        "you_can": "يمكنك",
+        "otp": {
+            "header": "التحقق بخطوتين",
+            "description": "الرجاء إدخال رمز التحقق المرسل إلى {provider}",
+            "request": {
+                "sending": "يتم ارسال رمز التحقق..."
+            },
+            "response": {
+                "error": {
+                    "wrong_value": "رمز التحقق غير صالح، يرجى المحاولة مرة أخرى",
+                    "frequently_request": "تم طلب رمز التحقق عدة مرات. الرجاء الانتظار دقيقة واحدة قبل طلب رمز جديد.",
+                    "frequently_attempts": "لقد قمت بعدد كبير من المحاولات. يرجى الانتظار لمدة 30 دقيقة قبل المحاولة مرة أخرى."
+                }
+            },
+            "footer": {
+                "text_1": "لم تتلق أي رمز؟ ",
+                "text_2": "إعادة إرسال الرمز",
+                "text_3": "\n أو \n",
+                "text_4": "# الجوال غير صحيح؟ ",
+                "incorrect_email": "البرية الالكتروني غير صحيح؟ ",
+                "text_5": "قم بتحديثه"
+            }
+        },
+        "chassis_no": {
+            "header": "التحقق بخطوتين",
+            "description1": "أدخل آخر 6 أرقام من القاعدة (الشاصيه)",
+            "description2": "يمكنك العثور عليها في وثيقتك أو بطاقة تسجيل السيارة",
+            "response": {
+                "error": {
+                    "wrong_value": "# القاعدة (الشاصيه) غير صالح. يرجى المحاولة مرة أخرى"
+                }
+            },
+            "footer": {
+                "text_1": "ليس لديك # القاعدة؟ بإمكانك المتابعة باستخدام ",
+                "text_2": " خيار آخر "
+            }
+        },
+        "individual_no": {
+            "header": "التحقق بخطوتين",
+            "description": "الرجاء إدخال # البطاقة الصحية",
+            "response": {
+                "error": {
+                    "wrong_value": "# البطاقة الصحية غير صالح، يرجى المحاولة مرة أخرى"
+                }
+            },
+            "footer": {
+                "text_1": "ليس لديك # بطاقة صحية؟ ",
+                "text_2": "بإمكانك المتابعة باستخدام ",
+                "text_3": "خيار آخر"
+            }
+        }
+    },
+    "authentication": {
+        "activate_fingerprint": {
+            "title": "تفعيل التوثيق باستخدام بصمة الأصبع",
+            "sub_title": "هل ترغب في تفعيل التعرف على بصمة الإصبع لتسجيل الدخول بسرعة أكبر في المرة القادمة؟",
+            "active_btn": "تفعيل",
+            "later_btn": "سأقوم بذلك لاحقًا"
+        },
+        "authentication_type": {
+            "title": "مجموعة الدوحة للتامين",
+            "subtitle": "روح الريادة",
+            "qatari_id_login": {
+                "subText": "للمقيمين",
+                "text1": "تسجيل الدخول ",
+                "text2": "باستخدام البطاقة الشخصية"
+            },
+            "passport_login": {
+                "subText": "لغير المقيمين",
+                "text1": "تسجيل الدخول ",
+                "text2": "باستخدام جواز السفر"
+            },
+            "tp_claim": {
+                "subText": "لغير المؤمن عليهم",
+                "text1": "مطالبة ",
+                "text2": "لغير المؤمن له"
+            }
+        },
+        "authentication_quick_actions": {
+            "welcome_text": "أهلاً وسهلاً بعودتك",
+            "otp": {
+                "text1": "تسجيل الدخول ",
+                "text2": "باستخدام رمز التحقق"
+            },
+            "biometrics": {
+                "text1": "تسجيل الدخول ",
+                "text2": "بالبصمة"
+            }
+        },
+        "main_login": {
+            "labels": {
+                "national_id_label": "الرقم الشخصي",
+                "expiry_date_label": "الصلاحية",
+                "passport_expiry_date_label": "تاريخ الصلاحية"
+            },
+            "scan_qatari_id": "مسح بطاقة البطاقة الشخصية",
+            "manual_login": "البطاقة الشخصية",
+            "response": {
+                "error": {
+                    "wronge_data": "الرقم الشخصي أو تاريخ الصلاحية خاطئ"
+                }
+            }
+        },
+        "travel_inbound_login": {
+            "labels": {
+                "passport_number_label": "# جواز السفر",
+                "nationality_label": "الجنسية"
+            },
+            "scan_passport_no": "مسح جواز سفر",
+            "manual_login": "جواز السفر"
+        }
+    },
+    "choices": {
+        "app_service": {
+            "insurance_type_lable": "شراء وثيقة جديدة",
+            "auto_insurance": "تأمين السيارات",
+            "travel_insurance": "تأمين السفر",
+            "medical_insurance": "التأمين الصحي",
+            "domestic_insurance": "تأمين الخدمات المنزلية",
+            "boat_insurance": "تأمين قوارب",
+            "personal_accident_insurance": "تأمين الحوادث الشخصية"
+        },
+        "travel_service": {
+            "travel_inbound": "تأمين القادمين إلى قطر",
+            "travel_outbound": "تأمين السفر الى خارج قطر"
+        }
+    },
+    "medical_group": {
+        "quick_action": {
+            "title": "الأوامر السريعة",
+            "benefits": "المميزات",
+            "network": "شبكة طبية",
+            "hotline": "الدعم الفني",
+            "claims": "المطالبات",
+            "medical_document": "نماذج",
+            "golbal_network_provider": "الشبكة العالمية لمقدمي الخدمات"
+        },
+        "add_claim": {
+            "labels": {
+                "patient_name": "اسم المريض",
+                "claim_date": "تاريخ المطالبة",
+                "currency": "العُملة",
+                "claim_amount": "مبلغ المطالبة",
+                "claim_reason": "سبب المطالبة",
+                "additional_reason": "سبب إضافي (اختياري)",
+                "notes": "ملاحظات (اختياري)"
+            },
+            "hint": {
+                "patient": "إختر اسم المريض",
+                "currency": "إختر العملة ",
+                "reason": "إختر السبب"
+            },
+            "success_message": {
+                "create_success": "تم إنشاء المطالبة بنجاح"
+            },
+            "review": {
+                "individual_medical": "التأمين الصحي للأفراد",
+                "title": "معلومات المطالبة",
+                "claim_amount": "المبلغ المطالب به: {}",
+                "rate": "سعر الصرف: {}",
+                "reason": "السبب: {}",
+                "reason_note": "ملاحظة السبب {}",
+                "receive_treatment_date": "تاريخ تلقي العلاج: {}",
+                "submitted_date": "تاريخ التقديم: {}",
+                "amount_currency": "العُملة: {}",
+                "notes": "ملاحظات: {}",
+                "Reffid": "الرقم المرجعي: {}"
+            }
+        },
+        "no_image": "لم يتم العثور على صورة",
+        "no_card": "لم يتم العثور على بطاقات",
+        "no_medical_card": "لم يتم العثور على بطاقة صحية",
+        "MedicalCardsHeader": "البطاقات الصحية",
+        "MedicalForms": "النماذج الطبية",
+        "my_network": "شبكتي",
+        "in_valid_location_error": "تعذر العثور على أي نتيجة للعنوان المقدم",
+        "medical_claims": "المطالبات الصحية",
+        "claims_header": "مطالبات, {}",
+        "claim_summary": "ملخص المطالبة",
+        "claim_tracking": "تتبع المطالبات",
+        "claim_history": "سجل الطالبات",
+        "claim_attachment": "الملفات المرفقة للمطالبة",
+        "paymant_type": "نوع الدفع",
+        "browse": "عرض ",
+        "location": "الموقع",
+        "qatari_id": "الرقم الشخصي",
+        "contract_no": "# العقد",
+        "gender": "الجنس",
+        "individual_no": "# الفرد",
+        "birthday": "تاريخ الميلاد",
+        "expiry_date": "الصلاحية",
+        "claim_no": "# المطالبة",
+        "claim_date": "تاريخ المطالبة",
+        "amount": "المبلغ: {}",
+        "reason": "السبب: {}",
+        "additional_reason": "سبب إضافي: {}",
+        "receive_teatment_date": "تاريخ تلقي العلاج: {}",
+        "submitted_date": "تاريخ التقديم: {}",
+        "notes": "ملاحظات: {}",
+        "date": "التاريخ: {}",
+        "latest_status": "الحالة: {}",
+        "empty_active": "لم يتم العثور على مطالبات مفعلة",
+        "empty_rejected": "لم يتم العثور على مطالبات مرفوضة",
+        "empty_approved": "لم يتم العثور على مطالبات موافقة",
+        "active": "الحالية",
+        "rejected": "المرفوضة",
+        "approved": "الموافق عليها",
+        "add_claim_choice": {
+            "title": "إضافة مطالبة صحية",
+            "add_claim_lable": "إضافة مطالبة"
+        },
+        "medical_claim": {
+            "add_claim": {}
+        }
+    },
+    "others": {
+        "company_info": {
+            "title": {
+                "news": "اخبارنا",
+                "branches": "فروعنا",
+                "contact_us": "اكتب لنا"
+            },
+            "quick_action": {
+                "section_title": "الأوامر السريعة",
+                "news": "اخبارنا",
+                "branches": "فروعنا",
+                "about_us": "عن المجموعة",
+                "contact_us": "اكتب لنا",
+                "call_us": "اتصل بنا",
+                "contact_whatsApp": "تواصل عبر الواتس اب",
+                "error_message": {
+                    "empty_news_link": "الرابط فارغ",
+                    "error_news_link": "فشل عملية فتح الرابط",
+                    "empty_branches_link": "الرابط فارغ",
+                    "error_branches_link": "فشل عملية فتح الرابط",
+                    "empty_aboutUs_link": "الرابط فارغ",
+                    "error_aboutUs_link": "فشل عملية فتح الرابط"
+                }
+            },
+            "branches": {
+                "mobile": {
+                    "in_valid_mobile_error": "# الهاتف غير صحيح",
+                    "empty_mobile_error": "# الهاتف فارغ"
+                },
+                "email": {
+                    "in_valid_email_error": "البريد الإلكتروني غير صحيح",
+                    "empty_email_error": "البريد الإلكتروني فارغ"
+                },
+                "dayes": {
+                    "day_1": "الأحد - الخميس",
+                    "day_2": "السبت"
+                },
+                "time": "يفتح: {open} - يغلق: {close}",
+                "browse_location": "تصفح ",
+                "location": "الموقع"
+            }
+        },
+        "language": {
+            "section_title": "اللغات",
+            "arabic": "العربية",
+            "english": "English"
+        },
+        "settings": {
+            "release_note": "تفاصيل الإصدار",
+            "section_title": "إعدادات",
+            "app_settings": "إعدادات التطبيق",
+            "darkmode": "المظهر",
+            "notification_label": "تفعيل الإشعارات",
+            "notification_body": "نوصي بتمكين الإشعارات لمعرفة آخر التحديثات المهمة لحسابك.",
+            "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
+            "text_size": "حجم الخط"
+        },
+        "insured_opinion": {
+            "section_title": "شارك رأيك معنا",
+            "report_problem": "أبلغ عن مشكلة",
+            "rate_app": "قيمنا على متجر التطبيقات",
+            "complaint": "تقديم شكوى"
+        }
+    },
+    "new_insured": {
+        "mobile": {
+            "label": "الهاتف المحمول"
+        },
+        "otp_auth": {
+            "header": "التحقق بخطوتين",
+            "description": "الرجاء إدخال رمز التحقق المرسل إلى هاتفك المحمول #",
+            "footer": {
+                "text_1": "لم تتلق أي رمز؟ ",
+                "text_2": "إعادة إرسال الرمز"
+            }
+        }
+    },
+    "personal_accident_create_quotation": {
+        "beneficiaries": {
+            "beneficiaries_header": "الأشخاص المستفيدون",
+            "empty_list": "لم تقم بإضافة أي مستفيد بعد",
+            "new_beneficiaries": "أضف مستفيدًا جديدًا",
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد من حذف هذا المستفيد؟"
+            }
+        },
+        "review_order": {}
+    },
+    "domestic_create_quotation": {
+        "insured_list": {
+            "worker_list_header": "قائمة المساعدين المنزليين",
+            "empty_list": "قائمة المساعدين المنزليين فارغة ",
+            "new_worker": "إضافة مساعدة منزلية",
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+            }
+        },
+        "review_order": {
+            "period": "الفترة: {}",
+            "holder_section": "المالك",
+            "account_no": "# الحساب: {}",
+            "passport_no": "# جواز السفر: {}",
+            "birthday": "تاريخ الميلاد: {}",
+            "age": "العمر: {}",
+            "domistic_helper_section": "المساعدة المنزلية",
+            "national_id": "الرقم الشخصي: {}",
+            "full_name": "الاسم: {}",
+            "gender": "الجنس: {}",
+            "nationality": "الجنسية: {}",
+            "email": "البريد الإلكتروني: {}",
+            "occupation": "المهنة: {}"
+        }
+    },
+    "motor_create_quotation": {
+        "plans": {
+            "motor_plan_header": "برجاء إختيار الباقة",
+            "insurance_services": "خدمات التأمين",
+            "required_error": "باقة السيارة مطلوب"
+        },
+        "review_order": {
+            "period": "فترة: {}",
+            "premium": "صافي القسط",
+            "pay_button": "ادفع الآن",
+            "payment_method": "طريقة الدفع",
+            "plate": "# اللوحة: {}",
+            "new_plate": "لوحة جديدة",
+            "chassis": "# القاعدة: {}",
+            "color": "اللون: {}",
+            "body_type": "شكل السيارة: {}",
+            "cylinder": "عدد الأسطوانات: {}",
+            "usage": "الاستخدام: {}",
+            "rate": "نسبة الخصم: {}",
+            "car_value": "القيمة التأمينية: {}"
+        },
+        "steps": {
+            "form_validation": {
+                "error": {
+                    "make": {
+                        "make_required_error": "نوع السيارة مطلوب"
+                    },
+                    "model": {
+                        "model_required_error": "طراز السيارة مطلوب"
+                    },
+                    "body_type": {
+                        "body_type_required_error": "شكل السيارة مطلوب"
+                    },
+                    "usage": {
+                        "usage_required_error": "نوع لوحة السيارة مطلوب"
+                    },
+                    "cylinder": {
+                        "cylinder_required_error": "عدد الاسطوانات مطلوب"
+                    },
+                    "color": {
+                        "color_required_error": "لون السيارة مطلوب"
+                    },
+                    "manufacture_year": {
+                        "manufacture_year_required_error": "سنة تصنيع السيارة مطلوب"
+                    },
+                    "insurance_type": {
+                        "insurance_type_required_error": "نوع التأمين مطلوب"
+                    },
+                    "seating_capacity": {
+                        "seating_capacity_no_data": "لم يتم العثور على بيانات لهذه المعايير"
+                    }
+                }
+            },
+            "hint": {
+                "color": "برجاء الاختيار"
+            }
+        }
+    },
+    "travel_create_quotation": {
+        "plans": {
+            "header": "اختيار باقة السفر المناسبة",
+            "required_error": "باقة السفر مطلوب",
+            "insurance_services": "تفاصيل الحزمة",
+            "inbound_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {} من دخول دولة قطر",
+            "haya_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {}",
+            "PlansNetwork": "شبكة الباقات السفر"
+        },
+        "review_order": {
+            "insured_list": "قائمة المؤمن عليهم",
+            "quotation_information": "تفاصيل الطلب",
+            "period": "فترة: {}",
+            "full_name": "الاسم: {}",
+            "birthday": "تاريخ الميلاد: {}",
+            "plan_name": "الباقة التأمينية: {}",
+            "gender": "الجنس: {}",
+            "nationality": "الجنسية: {}",
+            "passport_no": "# جواز السفر: {}",
+            "age": "العمر: {}",
+            "destination": "الوجهة: {}",
+            "premium": "صافي القسط",
+            "plan_benefits": {
+                "section_title": "مميزات الباقة",
+                "benefits_1": "العلاج الطبي للحوادث والطوارئ",
+                "benefits_2": "كوفيد-19 مصاريف العلاج والحجر الصحي",
+                "benefits_3": "المساعدة الطبية الطارئة والإخلاء",
+                "benefits_4": "إعادة جثمان الموتى"
+            }
+        },
+        "travel_dialog": {
+            "title": "استخدام معلومات تسجيل الدخول",
+            "important": "مهم!",
+            "description": "هل تريد استخدام معلومات تسجيل الدخول الخاصة بك؟"
+        },
+        "travel_services": {
+            "inbound": "زيارة قطر",
+            "outbound": "السفر لخارج دول قطر"
+        },
+        "steps": {
+            "labels": {
+                "qatar_id": "الرقم الشخصي",
+                "qatari_id_expiry_date": "الصلاحية",
+                "passport_no": "# جواز السفر",
+                "passport_expiry_date": "الصلاحية",
+                "insured_name": "اسم المؤمن عليه (حسب جواز السفر)",
+                "nationality": "برجاء اختيار الجنسية",
+                "destination": "اختر وجهة السفر.",
+                "country": "برجاء اختيار بلد الإقامة الحالية",
+                "insured_birthday": "تاريخ الميلاد",
+                "gender": "إختر الجنس",
+                "phone_number": "الهاتف المحمول",
+                "email": "البريد الالكتروني",
+                "insured_info_header": "كيف يمكننا التواصل معك؟",
+                "travel_period_header": "مدة السفر",
+                "start_date": "تاريخ بدء الوثيقة",
+                "travel_type_header": "إختر الفترة المخصصة الخاصة بك"
+            },
+            "form_validation": {
+                "error": {
+                    "passport_expiry": {
+                        "passport_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
+                    },
+                    "qatari_id_expiry": {
+                        "qatari_id_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
+                    },
+                    "birthday": {
+                        "birthday_required": "تاريخ ميلاد المؤمن عليه مطلوب"
+                    },
+                    "gender": {
+                        "gender_required": "الجنس اللمؤمن عليه مطلوب"
+                    },
+                    "phone": {
+                        "phone_invalid": "يجب أن يكون الهاتف صحيح"
+                    },
+                    "start_date": {
+                        "start_date_required": "تاريخ البدء الوثيقة مطلوب"
+                    },
+                    "end_date": {
+                        "end_date_required": "تاريخ انتهاء الوثيقة مطلوب",
+                        "end_date_error": "يجب أن يكون تاريخ الانتهاء أكبر من تاريخ البدء"
+                    },
+                    "travel_type": {
+                        "travel_type_required": "فترة السفر المخصصة مطلوبة"
+                    },
+                    "destination": {
+                        "destination_required": "وجهة السفر مطلوبة"
+                    },
+                    "nationality": {
+                        "nationality_required": "الجنسية مطلوبة"
+                    },
+                    "country": {
+                        "country_required": "اختر الدولة"
+                    }
+                }
+            },
+            "insured_list": {
+                "visitor_list_header": "قائمة الزوار",
+                "new_visitor": "اضافة زائر جديد",
+                "insured_list_header": "قائمة المؤمن عليهم",
+                "new_insured": "إضافة مؤمن عليه جديد",
+                "save_button": "حفظ",
+                "list_card": {
+                    "birthday": "تاريخ الميلاد\n{}",
+                    "passport_no": "{}: {}"
+                },
+                "label": {
+                    "passport_no": "# جواز السفر",
+                    "passport_expiry_date": "الصلاحية",
+                    "phone_number_label": "الهاتف المحمول",
+                    "email_label": "عبر البريد الالكتروني",
+                    "full_name_label": "الإسم بالكامل",
+                    "gender_label": "الجنس",
+                    "nationality_label": "الجنسية",
+                    "birthday_label": "تاريخ الميلاد"
+                },
+                "form_validation": {
+                    "error": {
+                        "passport_expiry_date": {
+                            "passport_expiry_date_required": "تاريخ انتهاء الصلاحية مطلوب"
+                        },
+                        "gender": {
+                            "gender_required": "الجنس مطلوب"
+                        },
+                        "nationality": {
+                            "nationality_required_error": "الجنسية مطلوبة"
+                        },
+                        "birthday": {
+                            "birthday_required": "تاريخ ميلاد الزائر مطلوب"
+                        }
+                    }
+                },
+                "hint": {
+                    "gender": "برجاء الاختيار",
+                    "nationality": "برجاء الاختيار"
+                },
+                "delete_dialog": {
+                    "title": "معلومات",
+                    "description": "هل أنت متأكد أنك تريد حذف الزائر؟"
+                }
+            }
+        }
+    },
+    "medical_create_quotation": {
+        "plans": {
+            "insurance_services": "خدمات التأمين",
+            "required_error": "الباقة مطلوب",
+            "sum_insured": "القيمة التأمينية (حد الائتمان): {}",
+            "min_age": "اقل عمر: {}",
+            "max_age": "اكبر عمر: {}",
+            "plan_benefit": "مميزات الباقة",
+            "insured_no": "{insuredNumber} المؤمن عليه",
+            "PlansNetwork": "شبكة الباقات طبية",
+            "InsuredAge": "العمر: {}"
+        },
+        "review_order": {
+            "section_header": "معلومات عرض الطلب",
+            "plan_benifits": "مميزات الباقة",
+            "insured_list": "قائمة المؤمن عليهم",
+            "period": "الفترة: {}",
+            "national_id": "الرقم الشخصي: {}",
+            "full_name": "الاسم: {}",
+            "birthday": "تاريخ الميلاد: {}",
+            "gender": "الجنس: {}",
+            "nationality": "الجنسية: {}",
+            "plan_name": "الباقة التأمينية: {}",
+            "basic_amount": "المبلغ الأساسي: {}",
+            "card_fees": "رسوم البطاقة: {}",
+            "premium": "صافي القسط",
+            "total_amount": "المبلغ الإجمالي: {}",
+            "discount": "تخفيض: {}",
+            "type": {
+                "individual_medical": "التأمين الصحي للأفراد"
+            }
+        },
+        "steps": {
+            "labels": {
+                "qatar_id": "الرقم الشخصي",
+                "qatari_id_expiry_date": "الصلاحية",
+                "insured_name": "أدخل اسم المؤمن عليه (حسب الهوية الشخصية)",
+                "nationality": "برجاء اختيار الجنسية",
+                "birthday": "تاريخ الميلاد",
+                "gender": "إختر الجنس",
+                "insured_info_header": "كيف يمكننا التواصل معك؟",
+                "phone_number": "الهاتف المحمول",
+                "email": "البريد الالكتروني",
+                "medical_period": "تاريخ بدء الوثيقة الخاصة بك",
+                "start_date": "تاريخ بدء الوثيقة",
+                "end_date": "تاريخ إنتهاء الوثيقة: {}"
+            },
+            "form_validation": {
+                "error": {
+                    "birthday": {
+                        "birthday_required_error": "عيد الميلاد مطلوب"
+                    },
+                    "gender": {
+                        "gender_required_error": "جنس المؤمن عليه مطلوب"
+                    },
+                    "phone": {
+                        "phone_invalid_error": "يجب أن يكون الهاتف صحيح"
+                    },
+                    "start_date": {
+                        "start_date_required": "تاريخ البدء مطلوب"
+                    }
+                }
+            },
+            "insured_list": {
+                "insured_list_header": "قائمة المؤمن عليهم",
+                "new_insured": "مؤمن جديد",
+                "save_button": "حفظ",
+                "list_card": {
+                    "birthday": "تاريخ الميلاد\n{}",
+                    "qatari_id": "{}: {}"
+                },
+                "label": {
+                    "national_id_label": "الرقم الشخصي",
+                    "expiry_date_label": "الصلاحية",
+                    "phone_number_label": "الهاتف المحمول",
+                    "email_label": "عبر البريد الالكتروني",
+                    "full_name_label": "الإسم بالكامل",
+                    "gender_label": "الجنس",
+                    "nationality_label": "الجنسية",
+                    "birthday_label": "تاريخ الميلاد",
+                    "passport_no_label": "# جواز السفر"
+                },
+                "form_validation": {
+                    "error": {
+                        "qatari_id": {
+                            "qatari_id_exists": "البطاقة الشخصية القطرية اللمؤمن عليها موجودة"
+                        },
+                        "qatari_id_expiry": {
+                            "qatari_id_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
+                        },
+                        "gender": {
+                            "gender_required": "الجنس مطلوب"
+                        },
+                        "nationality": {
+                            "nationality_required_error": "الجنسية مطلوبة"
+                        },
+                        "birthday": {
+                            "birthday_required": "تاريخ ميلاد المؤمن عليه مطلوب"
+                        }
+                    }
+                },
+                "hint": {
+                    "gender": "برجاء الاختيار",
+                    "nationality": "برجاء الاختيار"
+                },
+                "delete_dialog": {
+                    "title": "معلومات",
+                    "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+                }
+            }
+        }
+    },
+    "quotation_steps": {
+        "motor": {
+            "step_1": {
+                "step_header": "اختر نوع السيارة",
+                "show_all": "عرض الكل",
+                "show_less": "عرض أقل"
+            },
+            "step_2": {
+                "step_header": "اختر طراز السيارة"
+            },
+            "step_3": {
+                "step_header": "اختر شكل السيارة"
+            },
+            "step_4": {
+                "step_header": "اختر نوع لوحة مركبتك"
+            },
+            "step_5": {
+                "step_header": "اختر عدد الأسطوانات"
+            },
+            "step_6": {
+                "step_header": "اختر لون السيارة",
+                "color_hint": "اختر لون السيارة"
+            },
+            "step_7": {
+                "step_header": "اختر سنة الصنع"
+            },
+            "step_8": {
+                "step_header": "أدخل # اللوحة",
+                "have_plate": "أريد إدخال # اللوحة",
+                "not_have_plate": "مركبتي بدون # لوحة"
+            },
+            "step_9": {
+                "step_header": "أدخل # القاعدة"
+            },
+            "step_10": {
+                "step_header": "ادخل عدد مقاعد السيارة",
+                "from_to": "من: {} - الى: {}",
+                "allow_from_to": "من: {} - الى: {}"
+            },
+            "step_11": {
+                "step_header": "اختر نوع التأمين"
+            },
+            "step_12": {
+                "step_header": "القيمة التأمينية للمركبة",
+                "car_value_min_length_error": "القيمة التأمينية للمركبة يجب أن تكون أكبر من أو تساوي {}",
+                "car_value_max_length_error": "القيمة التأمينية للمركبة يجب أن يكون أصغر من أو يساوي {}",
+                "from_to": "من: {} - الى: {}"
+            },
+            "step_13": {
+                "step_header": "اختر تاريخ بدء الوثيقة",
+                "start_date_lable": "تاريخ بدء الوثيقة",
+                "date_required_error": "حقل تاريخ بدء الوثيقة مطلوب"
+            },
+            "plan": {
+                "step_header": "إختر الباقة"
+            }
+        }
+    },
+    "upload_image": {
+        "vehicle_label": "صور السيارة",
+        "qatari_id_label": "البطاقة الشخصية",
+        "car_registration_id_lable": "استمارة السيارة",
+        "registration_id_lable": "الاستمارة",
+        "no_of_image": "{uploadTypeName} {} من {}",
+        "header_message": "في الطلب الأخير يرجى تحميل الملفات المطلوبة, يتم قبول .png, jpg or jpeg",
+        "image_validation": {
+            "error": {
+                "image_required_error": "جميع الصور مطلوبة",
+                "image_no_error": "يجب أن يكون عدد الصور {}",
+                "image_format_ error": "يجب أن يكون نوع الملف .png أو .jpg",
+                "image_required_one_error": "يجب تحميل صورة واحدة على الأقل",
+                "max_images_error": "يجب أن يكون عدد الصور اقل من او يساوي {}"
+            }
+        },
+        "medical_claim": {
+            "header_message": "تحميل الملفات ({}) يتم قبول PDF, .png, jpg or jpeg:"
+        },
+        "delete_dialog": {
+            "description": "هل أنت متأكد أنك تريد حذف الملف؟"
+        }
+    },
+    "app_bar": {
+        "title": {
+            "upload_attachment": "تحميل الصور",
+            "order_summary": "ملخص الطلب",
+            "home": "الرئيسية",
+            "others": "المزيد",
+            "profile": "الملف الشخصي",
+            "policies": "الوثائق",
+            "total_policy": "اجمالي الوثائق",
+            "active_policy": "الوثائق",
+            "welcome": "مرحباً",
+            "motor": "تأمين السيارات",
+            "travel": "تأمين السفر",
+            "domistic_helper": "تأمين الخادمات",
+            "boat": "تأمين قوارب",
+            "personal_accident": "تأمين الحوادث الشخصية",
+            "motor_renewal": "تجديد تامين السيارة",
+            "motor_edit": "تعديل المعلومات",
+            "change_insured": "تغيير المؤمن",
+            "new_insured_motor_claim": "سيارات",
+            "new_non_insured_motor_claim": "السيارات - غير مؤمنة",
+            "ordering_confirmation": "تأكيد الطلب",
+            "notification": "إشعارات",
+            "claims": "المطالبات",
+            "network": "شبكة طبية",
+            "offers": "العروض",
+            "offer_details": "تفاصيل العرض",
+            "incomplete_quot": "عروض السعر الغير مكتملة",
+            "medical_document": "النماذج",
+            "checkout": "إتمام الدفع",
+            "app_release": "تفاصيل الأصدار",
+            "review_order": "مراجعة الطلب",
+            "new_insured": "مؤمن جديد",
+            "edit_email": "تعديل البريد الإلكتروني",
+            "medcial": {
+                "individual": "التأمين الصحي للأفراد",
+                "group": "التأمين الصحي الجماعي"
+            }
+        },
+        "subtitle": {
+            "travel": {
+                "inbound": "زوار قطر",
+                "outbound": "السفر خارج قطر"
+            },
+            "medcial": {
+                "individual": "التأمين الصحي للأفراد"
+            },
+            "add_claim": "إضافة مطالبة"
+        }
+    },
+    "review_order": {
+        "promo_code": "رمز الخصم",
+        "premium": "صافي قسط التأمين",
+        "pay_button": "ادفع الآن",
+        "payment_method": "طريقة الدفع",
+        "agree": "أنا أوافق على ",
+        "terms&conditons": "الشروط والأحكام",
+        "apply_promo_code": "هل لديك رمز خصم؟",
+        "rest_promo_code": "الغاء رمز خصم",
+        "no_terms": "لا توجد شروط وأحكام متاحة حاليًا"
+    },
+    "profile": {
+        "response_message": {
+            "success": "تم تحديث الملف الشخصي بنجاح"
+        }
+    },
+    "home": {
+        "renewal": {
+            "title": "مميز",
+            "btn": "جدد الآن",
+            "policyNo": "# اللوحة. {}"
+        },
+        "reload_page_warning": "الرجاء إعادة تحميل الصفحة لإظهار آخر تحديث",
+        "title": {
+            "quotation": "غير مكتمل",
+            "quotation_quot": "عروض الطلب الغير مكتملة",
+            "insurance_policy": "عرض أو تجديد وثيقتك"
+        },
+        "insurance_type": {
+            "motor": "تأمين\nالسيارات",
+            "travel": "تأمين\nالسفر",
+            "medical": "التأمين\nالصحي"
+        }
+    },
+    "in_complete_quot": {
+        "tab_label": {
+            "motor": "السيارات",
+            "travel": "السفر",
+            "medcial": "الصحي"
+        },
+        "empty_list": "لا يوجد طلبات غير مكتملة",
+        "steps_done": "عدد الخطوات المنتهية {}",
+        "chassis": "# القاعدة: {}"
+    },
+    "policies": {
+        "title": "الوثائق الخاصة بك",
+        "policyStartsAfterDays": "سوف تبدأ بعد {} يوم",
+        "total_policy": "اجمالي الوثائق",
+        "active_motor_policy": "وثائق السيارات المفعلة",
+        "active_travel_policy": "وثائق السفر المفعلة",
+        "active_medical_policy": "التأمين الصحي للافراد ",
+        "group_medical": "التأمين الصحي",
+        "domestic_helper_policy": "تأمين العمالة المنزلية",
+        "boat_policy": "تأمين القوارب",
+        "personal_accident_policy": "تأمين الحوادث الشخصية",
+        "expired_policy": "تنتهي الصلاحية يوم\n{}",
+        "policyNo": "رقم الوثيقة #: {}",
+        "chassis_no": "رقم تعريف المركبة (VIN): {}",
+        "extend_policy_request_message": "يرجى الانتظار ريثما يتم\nتجهيز طلبك",
+        "EmptyPolicyAttachment": "الملف فارغ",
+        "EmptyChassisNo": "رقم تعريف المركبة (VIN)",
+        "EmptyPolicyKey": "مفتاح الوثيقة فارغ",
+        "EmptyColorName": "اسم اللون فارغ",
+        "EmptyInsuredName": "اسم المؤمن عليه فارغ",
+        "StartOn": "تاريخ البدء:",
+        "ValidUntil": "صالحة حتى:",
+        "ExpireOn": "تنتهي بتاريخ",
+        "Expired": "منتهية:",
+        "change_insured": {
+            "review": {
+                "old_insured_information": "معلومات المؤمن عليه القديمة",
+                "new_insured_information": "معلومات المؤمن عليه الجديدة",
+                "nationalid": "# البطاقة الشخصية: {}",
+                "expiry_date": "الصلاحية: {}",
+                "email": "البريد الإلكتروني: {}",
+                "mobile": "# الهاتف: {}",
+                "new_insured_nameAR": "الاسم (عربي): {}",
+                "new_insured_nameEN": "الاسم (إنجليزية): {}"
+            },
+            "header": {
+                "new_insured": "المؤمن الجديد"
+            },
+            "labels": {
+                "new_qatari_id": "# البطاقة الشخصية",
+                "new_expiry_date": "الصلاحية",
+                "new_insured_email": "البريد الإلكتروني",
+                "new_insured_mobile": "# الهاتف",
+                "chassis_number": "# القاعدة (الشاصيه)",
+                "plate_number": "# اللوحة",
+                "new_insured_nameAR": "الاسم (عربي)",
+                "new_insured_nameEN": "الاسم (إنجليزية)"
+            },
+            "form_validation": {
+                "error": {
+                    "qatari_id": {
+                        "qatari_id_exist_error": "يجب أن تكون البطاقة الشخصية القطرية مختلفة عن هوية المالك الحالية"
+                    }
+                }
+            },
+            "dialog": {
+                "change_insured": {
+                    "important": "مهم! ",
+                    "description": "هل أنت متأكد أنك تريد تغير المؤمن؟"
+                }
+            },
+            "attachment": {
+                "dialog": {
+                    "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟"
+                }
+            }
+        },
+        "edit": {
+            "labels": {
+                "plate_no": "# اللوحة",
+                "chassis_no": "# القاعدة (الشاصيه)",
+                "color": "اللون"
+            }
+        }
+    },
+    "motor_claim": {
+        "claim_info": {
+            "header": "معلومات المطالبة",
+            "reff_no": "# المرجع {}",
+            "policy_key": "مفتاح الوثيقة: {}",
+            "policy_key1": "مفتاح الوثيقة: ",
+            "reason_plate_no": "# اللوحة: {}",
+            "make": "اسم نوع السيارة: {}",
+            "model": "اسم طراز السيارة: {}",
+            "chassis": "# القاعدة (الشاصيه): {}",
+            "submitted_date": "تاريخ التقديم: {}",
+            "mobile": "# الهاتف: {}",
+            "email": "البريد الالكتروني: {}"
+        },
+        "new_insured_claim": {
+            "labels": {
+                "policy_report_no": "# التقرير للوثيقة",
+                "accident_date": "تاريخ الحادث",
+                "accident_time": "وقت الحادث",
+                "cause_of_loss": "سبب الخسارة",
+                "loss_nature": "طبيعة الخسارة",
+                "responsibility": "مسؤولية",
+                "accident_details": "تفاصيل الحادث"
+            },
+            "hint": {
+                "cause_of_loss": "برجاء الاختيار",
+                "loss_nature": "برجاء الاختيار",
+                "responsibility": "برجاء الاختيار"
+            }
+        },
+        "claim_attachment": {
+            "vehicle_label": "مركبة",
+            "car_registration_id_lable": "استمارة السيارة",
+            "policy_report": "تقرير الوثيقة"
+        },
+        "new_non_insured_claim": {
+            "labels": {
+                "qatar_id": "الرقم الشخصي",
+                "expiry_date": "الصلاحية",
+                "insured_name": "الاسم",
+                "birthday": "تاريخ الميلاد",
+                "gender": "الجنس",
+                "email": "البريد الإلكتروني",
+                "mobile": "# الهاتف",
+                "driver_name": "اسم السائق",
+                "make": "نوع السيارة",
+                "model": "طراز السيارة",
+                "plate_number": "# اللوحة",
+                "chassis_number": "# القاعدة (الشاصيه)",
+                "manufacture_year": "سنة الصنع",
+                "policy_report_no": "# التقرير للوثيقة",
+                "accident_date": "تاريخ الحادث",
+                "accident_time": "وقت الحادث",
+                "cause_of_loss": "سبب الخسارة",
+                "loss_nature": "طبيعة الخسارة",
+                "responsibility": "مسؤولية",
+                "accident_details": "تفاصيل الحادث"
+            },
+            "hint": {
+                "cause_of_loss": "برجاء الاختيار",
+                "loss_nature": "برجاء الاختيار",
+                "responsibility": "برجاء الاختيار",
+                "gender": "برجاء الاختيار",
+                "make": "برجاء الاختيار",
+                "modle": "برجاء الاختيار"
+            },
+            "form_validation": {
+                "expiry_date": {
+                    "expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
+                },
+                "birthday": {
+                    "birthday_required_error": "عيد الميلاد مطلوب"
+                },
+                "gender": {
+                    "gender_required_error": "جنس المؤمن عليه مطلوب"
+                },
+                "make": {
+                    "make_required_error": "مطلوب نوع السيارة"
+                },
+                "modle": {
+                    "model_required_error": "مطلوب طراز السيارة"
+                },
+                "accident_date": {
+                    "accident_date_required_error": "تاريخ الحادث مطلوب"
+                },
+                "accident_time": {
+                    "accident_time_required_error": "وقت الحادث مطلوب"
+                },
+                "cause_of_loss": {
+                    "cause_of_loss_required_error": "مطلوب سبب الخسارة"
+                },
+                "loss_nature": {
+                    "loss_nature_required_error": "طبيعة الخسارة مطلوبة"
+                },
+                "resoonsibility": {
+                    "resoonsibility_required_error": "المسؤولية مطلوبة"
+                }
+            }
+        }
+    },
+    "bottom_navigation_bar": {
+        "labels": {
+            "home": "الرئيسية",
+            "policies": "الوثائق",
+            "profile": "الحساب الشخصي",
+            "others": "المزيد",
+            "fitness": "اللياقة البدنية"
+        }
+    },
+    "payment": {
+        "cancel_operation": "تم إلغاء العملية",
+        "TransactionNo": "رقم الدفعة: {}",
+        "PolicyKey": "رقم الوثيقة: {}",
+        "Date": "التاريخ: {}",
+        "DownloadPolicyBtn": "تحميل الوثيقة",
+        "TransactionSuccess": "تمت العملية بنجاح",
+        "TransactionFailure": "فشلت العملية",
+        "done": "الرجوع الى الصفحة الرئيسية"
+    },
+    "travel_inbound": {
+        "profile": {
+            "section": {
+                "section_1": {
+                    "header": "جواز السفر",
+                    "attachment": {
+                        "passport": {
+                            "front": "تحميل الجهة الامامية من جواز السفر"
+                        }
+                    }
+                },
+                "section_2": {
+                    "header": "التفاصيل الشخصية وتفاصيل الاتصال",
+                    "description": "قم بتحديث تفاصيل الاتصال الخاصة بك",
+                    "sub_title_1": "تفاصيل الحساب الشخصي",
+                    "sub_title_2": "تفاصيل الاتصال"
+                }
+            }
+        },
+        "travel_policy": {
+            "EntryBefore": "تاريخ الدخول: {}",
+            "EntryBefore1": "تاريخ الدخول: ",
+            "ExpiryOn": "تاريخ الانتهاء: {}",
+            "ExpiryOn1": "تاريخ الانتهاء: ",
+            "CheckStatusWithMOI": "التحقق من الحالة",
+            "StatusResult": "الحالة",
+            "PassportNumber": "# جواز السفر: {}",
+            "PassportNumber1": "# جواز السفر: ",
+            "FullName": "الاسم بالكامل: {}",
+            "TransferedDate": "تاريخ التحويل: {}",
+            "IsTransfered": "وصلت البيانات إلى وزارة الداخلية: {}",
+            "NewPolicy": "وثيقة جديده",
+            "download_policy": "تحميل الوثيقة",
+            "download_card": "تحميل البطاقة",
+            "extend_policy_button": "تمديد البوليصة",
+            "empty_policy_list": "لم يتم العثور على وثائق",
+            "header_section": {
+                "header1": "وثائق السفر",
+                "header2": "الأوامر السريعة"
+            },
+            "policy_card": {
+                "passport_no": "# جواز السفر: {}",
+                "passport_no1": "# جواز السفر: "
+            }
+        },
+        "quick_action": {
+            "general_conditions": "شروط عامة",
+            "network": "شبكة المزودين",
+            "hotline": "الدعم الفني",
+            "search": "البحث عن وثيقة"
+        },
+        "dialog": {
+            "log_out": {
+                "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+            }
+        }
+    },
+    "notification_screen": {
+        "NotificationTabLabel": "إشعارات",
+        "NotificationEmptyListMessage": "لا توجد إشعارات",
+        "AnnouncementsTabLabel": "الإعلانات",
+        "AnnouncementsEmptyListMessage": "لا توجد إعلانات",
+        "OffersTabLabel": "العروض",
+        "OffersEmptyListMessage": "لا توجد عروض"
+    },
+    "InternationalPhoneNumberInput": {
+        "label": "البحث حسب اسم البلد أو رمز البلد",
+        "error": {
+            "invalid": "# الهاتف غير صحيح"
+        }
+    },
+    "promoCode": {
+        "title": "رمز الخصم او المكاقآت",
+        "button": {
+            "cancel": " الغاء",
+            "check": "استخدم الرمز"
+        }
+    },
+    "offers": {
+        "our_offers": "عروضنا",
+        "see_offers": "رؤية العروض",
+        "offers_card": "العروض"
+    },
+    "health": {
+        "home": "الرئيسية",
+        "dig": "DIG",
+        "profile": "الملف الشخصي",
+        "more": "المزيد",
+        "try_again": "محاولة مرة أخرى",
+        "hello": "مرحباً!",
+        "something_went_wrong": "حدث خطأ ما",
+        "loading": "جاري التحميل...",
+        "syncing": "جاري مزامنة البيانات...",
+        "no_sleep_data": "لا توجد بيانات نوم لليوم المحدد",
+        "day": "اليوم",
+        "month": "الشهر",
+        "year": "السنة",
+        "y": "سنة",
+        "cancel": "إلغاء",
+        "continue": "متابعة",
+        "kg": "كغ",
+        "cm": "سم",
+        "you_can_change_provider_later": "يمكنك تغيير هذا لاحقاً من الإعدادات",
+        "no_meals": "لا توجد لديك وجبات تم مسحها مؤخراَ.",
+        "not_installed": "غير مثبت",
+        "daily_goal": "الهدف اليومي",
+        "scan": "اضغط لمسح الصورة",
+        "step": "خطوة",
+        "target": "الهدف",
+        "choose_data_source": "اختر مصدر البيانات الصحية الخاصة بك",
+        "choose_data_source_description": "يعتمد تطبيقنا على هذه الخدمات لجمع بيانات الخطوات. يرجى السماح بالوصول عند الطلب حسب المصدر أو الجهاز الذي اخترته.",
+        "apps": "تطبيقات",
+        "devices": "أجهزة",
+        "connected": "مرتبط",
+        "choose": "أختيار",
+        "height": "الطول",
+        "weight": "الوزن",
+        "Jan": "يناير",
+        "Feb": "فبراير",
+        "Mar": "مارس",
+        "Apr": "أبريل",
+        "May": "مايو",
+        "Jun": "يونيو",
+        "Jul": "يوليو",
+        "Aug": "أغسطس",
+        "Sep": "سبتمبر",
+        "Oct": "أكتوبر",
+        "Nov": "نوفمبر",
+        "Dec": "ديسمبر",
+        "recovery": "التعافي",
+        "activity": "النشاط",
+        "heartrate": "معدل ضربات القلب",
+        "stress": "التوتر",
+        "steps_tap": "الخطوات",
+        "meals_tap": "الوجبات",
+        "sleep_tap": "النوم",
+        "bmi_tips": {
+            "underweight_1": "حاول تناول أطعمة غنية بالبروتين مثل البيض واللحوم والبقوليات.",
+            "underweight_2": "أضف وجبات خفيفة صحية بين الوجبات لزيادة السعرات.",
+            "underweight_3": "اشرب الحليب كامل الدسم أو العصائر لزيادة السعرات بطريقة صحية.",
+            "underweight_4": "ركز على تمارين القوة لبناء الكتلة العضلية.",
+            "underweight_5": "تناول وجبات منتظمة وتجنب تفويت أي وجبة.",
+            "normal_1": "حافظ على نظام غذائي متوازن يشمل الخضروات والفواكه والبروتين والكربوهيدرات.",
+            "normal_2": "مارس التمارين بانتظام: كارديو، قوة، ومرونة.",
+            "normal_3": "اشرب كمية كافية من الماء يوميًا.",
+            "normal_4": "نم 7–9 ساعات كل ليلة.",
+            "normal_5": "راقب وزنك من وقت لآخر للبقاء على المسار الصحي.",
+            "overweight_1": "امشِ 30 دقيقة يوميًا على الأقل للمساعدة في حرق السعرات.",
+            "overweight_2": "قلل من المشروبات السكرية والأطعمة عالية السعرات.",
+            "overweight_3": "أضف تمارين القوة 2–3 مرات أسبوعيًا.",
+            "overweight_4": "تناول المزيد من الخضروات والألياف للشعور بالشبع.",
+            "overweight_5": "نم بشكل كافٍ لدعم فقدان الوزن.",
+            "overweight_6": "قلل حجم الوجبات تدريجيًا، لا تتخطى أي وجبة.",
+            "overweight_7": "حافظ على الاستمرارية؛ الخطوات الصغيرة تؤدي لنتائج طويلة الأمد.",
+            "obese_1": "استشر أخصائي صحي للحصول على توجيهات شخصية.",
+            "obese_2": "ركز على تغييرات غذائية تدريجية ونشاط بدني منتظم.",
+            "obese_3": "راقب وزنك ومؤشر كتلة الجسم بانتظام.",
+            "obese_4": "أدرج تمارين الكارديو والقوة ضمن روتينك.",
+            "obese_5": "تجنب الحميات القاسية؛ البطء والثبات أكثر أمانًا."
+        },
+        "sleep": {
+            "today_sleep": "إحصائيات النوم لليوم",
+            "yesterday_sleep": "إحصائيات النوم ليوم أمس",
+            "sleep_statistics_for_the_day": "إحصائيات النوم ليوم {day}/{month}/{year}",
+            "heart_rate": "معدل ضربات القلب (نبضة/دقيقة)",
+            "breathing_rate": "معدل التنفس (نفس/دقيقة)",
+            "spo2": "تشبع الأكسجين (٪)",
+            "sleep_quality": "جودة النوم",
+            "sleep_awake": "استيقاظ",
+            "sleep_light": "نوم خفيف",
+            "sleep_deep": "نوم عميق",
+            "sleep_rem": "نوم REM",
+            "time_in_bed": "الوقت في السرير",
+            "hrs": "س",
+            "mins": "د",
+            "2h": "ساعتان",
+            "4h": "4 ساعات",
+            "6h": "6 ساعات",
+            "bad": "سيئ",
+            "average": "متوسط",
+            "good": "جيد",
+            "excellent": "ممتاز",
+            "max": "أقصى",
+            "min": "أدنى"
+        },
+        "select_main_provider": {
+            "title": "اختر مصدر\nالبيانات الصحية",
+            "health_connect": "Health Connect",
+            "health_connect_description": "منصة موحدة لجميع بيانات الصحة واللياقة على أندرويد",
+            "google_fit": "Google Fit",
+            "google_fit_connect_description": "امنح التطبيق الإذونات المطلوبة لتزويدك بالبيانات الصحية.",
+            "install_health_connect": "اضغط هنا لتنزيل تطبيق Health Connect",
+            "samsung_health": "Samsung Health",
+            "samsung_health_description": "منصة سامسونج للبيانات الصحية لأجهزة سامسونج",
+            "apple_health": "Apple Health",
+            "apple_health_description": "منصة آبل للبيانات الصحية لأجهزة iOS",
+            "no_provider_selected": "يرجى اختيار مصدر البيانات للمتابعة"
+        },
+        "scan_food": {
+            "title": "امسح وجبتك",
+            "processing": "لحظة من فضلك...",
+            "processing_desc": "يقوم الذكاء الاصطناعي بتحليل الصورة",
+            "loading_camera": "جاري فتح الكاميرا...",
+            "instruction": "لمساعدة التطبيق على التعرف على وجبتك، تأكد من أن الوجبة موضوعة على سطح مستوٍ، والإضاءة جيدة، والصورة داخل الإطار، والكاميرا ثابتة وواضحة."
+        },
+        "meals": {
+            "loading": "جاري تحميل بيانات الوجبات...",
+            "failed": "فشل في تحميل بيانات الوجبات",
+            "burned": "تم حرق",
+            "eaten": "تم تناولها",
+            "kcal_left": "سعرات متبقية"
+        },
+        "meals_categories": {
+            "title": "اختر فئة الطعام",
+            "loading": "جاري تحميل فئات الطعام..."
+        },
+        "meals_scanned_recently": {
+            "title": "الوجبات الممسوحة مؤخراً"
+        },
+        "food_information": {
+            "calories_unit": "سعرة حرارية",
+            "serving_size": "حجم الحصة",
+            "g": "غ",
+            "protein": "بروتين",
+            "carbs": "كربوهيدرات",
+            "fat": "دهون"
+        },
+        "health_profile": {
+            "loading": "جاري تحميل بيانات الملف الشخصي...",
+            "failed_to_load": "فشل في تحميل بيانات الملف الشخصي",
+            "title": "ملفك الشخصي",
+            "age": "العمر",
+            "gender": "الجنس",
+            "bmi": "مؤشر كتلة الجسم",
+            "bmi_score": "تقييم مؤشر كتلة الجسم",
+            "health_level": "المستوى الصحي",
+            "weight_hint": "أدخل وزنك بالكيلوغرام",
+            "height_hint": "أدخل طولك بالسنتيمتر",
+            "complete_your_profile": "ساعدنا على تخصيص رحلتك الصحية",
+            "complete_your_profile_desc": "أضف طولك ووزنك للحصول على نصائح وتوصيات أدق.",
+            "update_information": "تحديث المعلومات",
+            "update_information_desc": "تحديث الوزن والطول يساعدنا على تقديم أفضل نصائح لك.",
+            "last_updated": "آخر تحديث",
+            "update_btn": "تحديث",
+            "body_metrics": "مقاييس الجسم",
+            "weight_gain_needed": "تحتاج إلى زيادة حوالي {} كغ للوصول إلى النطاق الصحي.",
+            "weight_loss_needed": "تحتاج إلى خسارة حوالي {} كغ للوصول إلى النطاق الصحي.",
+            "weight_healthy": "وزنك ضمن النطاق الصحي.",
+            "low": "منخفض",
+            "normal": "طبيعي",
+            "high": "مرتفع",
+            "above_range": "أعلى من المعدل الصحي",
+            "body_composition_goal": "هدف تكوين الجسم",
+            "suggested_weight": "الوزن الصحي المقترح"
+        },
+        "health_others": {
+            "title": "المزيد",
+            "welcome": "مرحباً",
+            "notification": "الإشعارات",
+            "general": "عام",
+            "help": "المساعدة",
+            "data_providers": "مصادر البيانات",
+            "logout": "فصل الحساب"
+        }
+    },
+    "closeAppWearing": "هل أنت متأكد أنك تريد الخروج من التطبيق؟"
+}
