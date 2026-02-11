@@ -1576,8 +1576,7 @@
             "extend_policy_button": "Extend Your Policy",
             "empty_policy_list": "No Policy Found",
             "header_section": {
-                "header1": "Inbound Travel Policies",
-                "header2": "Quick Actions"
+                "header1": "Inbound Travel Policies"
             },
             "policy_card": {
                 "passport_no": "Passport #: {}",

@@ -1591,8 +1591,7 @@
             "extend_policy_button": "تمديد البوليصة",
             "empty_policy_list": "لم يتم العثور على وثائق",
             "header_section": {
-                "header1": "وثائق السفر",
-                "header2": "الأوامر السريعة"
+                "header1": "وثائق السفر"
             },
             "policy_card": {
                 "passport_no": "# جواز السفر: {}",
