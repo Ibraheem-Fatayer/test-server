@@ -470,28 +470,6 @@
                 "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
             }
         },
-        "review_order": {
-            "period": "الفترة: {}",
-            "holder_section": "المالك",
-            "account_no": "# الحساب: {}",
-            "passport_no": "# جواز السفر: {}",
-            "birthday": "تاريخ الميلاد: {}",
-            "age": "العمر: {}",
-            "domistic_helper_section": "المساعدة المنزلية",
-            "national_id": "الرقم الشخصي: {}",
-            "full_name": "الاسم: {}",
-            "gender": "الجنس: {}",
-            "nationality": "الجنسية: {}",
-            "email": "البريد الإلكتروني: {}",
-            "occupation": "المهنة: {}"
-        },
-        "insured_review_order": {
-            "beneficiaries": "عدد المستفيدين",
-            "national_ID": "# البطاقة الشخصية",
-            "ID_Expiry_Date": "تاريخ انتهاء الصلاحية",
-            "full_Name": "الاسم",
-            "nationality": "الجنسية"
-        },
         "Period": {
             "Lable": "الفترة",
             "Validation": {
@@ -1060,19 +1038,6 @@
             },
             "success_message": {
                 "create_success": "تم إنشاء المطالبة بنجاح"
-            },
-            "review": {
-                "individual_medical": "التأمين الصحي للأفراد",
-                "title": "معلومات المطالبة",
-                "claim_amount": "المبلغ المطالب به: {}",
-                "rate": "سعر الصرف: {}",
-                "reason": "السبب: {}",
-                "reason_note": "ملاحظة السبب {}",
-                "receive_treatment_date": "تاريخ تلقي العلاج: {}",
-                "submitted_date": "تاريخ التقديم: {}",
-                "amount_currency": "العُملة: {}",
-                "notes": "ملاحظات: {}",
-                "Reffid": "الرقم المرجعي: {}"
             }
         },
         "no_image": "لم يتم العثور على صورة",
@@ -1190,8 +1155,7 @@
                 "title": "معلومات",
                 "description": "هل أنت متأكد من حذف هذا المستفيد؟"
             }
-        },
-        "review_order": {}
+        }
     },
     "domestic_create_quotation": {
         "insured_list": {
@@ -1202,21 +1166,6 @@
                 "title": "معلومات",
                 "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
             }
-        },
-        "review_order": {
-            "period": "الفترة: {}",
-            "holder_section": "المالك",
-            "account_no": "# الحساب: {}",
-            "passport_no": "# جواز السفر: {}",
-            "birthday": "تاريخ الميلاد: {}",
-            "age": "العمر: {}",
-            "domistic_helper_section": "المساعدة المنزلية",
-            "national_id": "الرقم الشخصي: {}",
-            "full_name": "الاسم: {}",
-            "gender": "الجنس: {}",
-            "nationality": "الجنسية: {}",
-            "email": "البريد الإلكتروني: {}",
-            "occupation": "المهنة: {}"
         }
     },
     "motor_create_quotation": {
@@ -1224,21 +1173,6 @@
             "motor_plan_header": "برجاء إختيار الباقة",
             "insurance_services": "خدمات التأمين",
             "required_error": "باقة السيارة مطلوب"
-        },
-        "review_order": {
-            "period": "فترة: {}",
-            "premium": "صافي القسط",
-            "pay_button": "ادفع الآن",
-            "payment_method": "طريقة الدفع",
-            "plate": "# اللوحة: {}",
-            "new_plate": "لوحة جديدة",
-            "chassis": "# القاعدة: {}",
-            "color": "اللون: {}",
-            "body_type": "شكل السيارة: {}",
-            "cylinder": "عدد الأسطوانات: {}",
-            "usage": "الاستخدام: {}",
-            "rate": "نسبة الخصم: {}",
-            "car_value": "القيمة التأمينية: {}"
         },
         "steps": {
             "form_validation": {
@@ -1285,27 +1219,6 @@
             "inbound_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {} من دخول دولة قطر",
             "haya_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {}",
             "PlansNetwork": "شبكة الباقات السفر"
-        },
-        "review_order": {
-            "insured_list": "قائمة المؤمن عليهم",
-            "quotation_information": "تفاصيل الطلب",
-            "period": "فترة: {}",
-            "full_name": "الاسم: {}",
-            "birthday": "تاريخ الميلاد: {}",
-            "plan_name": "الباقة التأمينية: {}",
-            "gender": "الجنس: {}",
-            "nationality": "الجنسية: {}",
-            "passport_no": "# جواز السفر: {}",
-            "age": "العمر: {}",
-            "destination": "الوجهة: {}",
-            "premium": "صافي القسط",
-            "plan_benefits": {
-                "section_title": "مميزات الباقة",
-                "benefits_1": "العلاج الطبي للحوادث والطوارئ",
-                "benefits_2": "كوفيد-19 مصاريف العلاج والحجر الصحي",
-                "benefits_3": "المساعدة الطبية الطارئة والإخلاء",
-                "benefits_4": "إعادة جثمان الموتى"
-            }
         },
         "travel_dialog": {
             "title": "استخدام معلومات تسجيل الدخول",
@@ -1431,26 +1344,6 @@
             "insured_no": "{insuredNumber} المؤمن عليه",
             "PlansNetwork": "شبكة الباقات طبية",
             "InsuredAge": "العمر: {}"
-        },
-        "review_order": {
-            "section_header": "معلومات عرض الطلب",
-            "plan_benifits": "مميزات الباقة",
-            "insured_list": "قائمة المؤمن عليهم",
-            "period": "الفترة: {}",
-            "national_id": "الرقم الشخصي: {}",
-            "full_name": "الاسم: {}",
-            "birthday": "تاريخ الميلاد: {}",
-            "gender": "الجنس: {}",
-            "nationality": "الجنسية: {}",
-            "plan_name": "الباقة التأمينية: {}",
-            "basic_amount": "المبلغ الأساسي: {}",
-            "card_fees": "رسوم البطاقة: {}",
-            "premium": "صافي القسط",
-            "total_amount": "المبلغ الإجمالي: {}",
-            "discount": "تخفيض: {}",
-            "type": {
-                "individual_medical": "التأمين الصحي للأفراد"
-            }
         },
         "steps": {
             "labels": {
@@ -1662,17 +1555,6 @@
             },
             "add_claim": "إضافة مطالبة"
         }
-    },
-    "review_order": {
-        "promo_code": "رمز الخصم",
-        "premium": "صافي قسط التأمين",
-        "pay_button": "ادفع الآن",
-        "payment_method": "طريقة الدفع",
-        "agree": "أنا أوافق على ",
-        "terms&conditons": "الشروط والأحكام",
-        "apply_promo_code": "هل لديك رمز خصم؟",
-        "rest_promo_code": "الغاء رمز خصم",
-        "no_terms": "لا توجد شروط وأحكام متاحة حاليًا"
     },
     "profile": {
         "response_message": {
@@ -1920,12 +1802,10 @@
             "invalid": "# الهاتف غير صحيح"
         }
     },
-    "promoCode": {
-        "title": "رمز الخصم او المكاقآت",
-        "button": {
-            "cancel": " الغاء",
-            "check": "استخدم الرمز"
-        }
+    "PromoCode": {
+        "Title": "رمز الخصم",
+        "CancelBtn": " الغاء",
+        "ApplyBtn": "استخدم الرمز"
     },
     "offers": {
         "our_offers": "عروضنا",
@@ -1947,6 +1827,59 @@
         "CallUs": "اتصل بنا",
         "ContactWhatsApp": "تواصل عبر الواتس اب",
         "gGeneralConditionss": "شروط عامة"
+    },
+    "Reviews": {
+        "periodValue": "الفترة: {}",
+        "holder_section": "المالك",
+        "aaccountNoValueo": "# الحساب: {}",
+        "passportNoValue": "# جواز السفر: {}",
+        "birthdayValue": "تاريخ الميلاد: {}",
+        "ageValue": "العمر: {}",
+        "domistic_helper_section": "المساعدة المنزلية",
+        "nationalIdValue": "الرقم الشخصي: {}",
+        "fullNameValue": "الاسم: {}",
+        "genderValue": "الجنس: {}",
+        "natinationalityValueonality": "الجنسية: {}",
+        "emailValue": "البريد الإلكتروني: {}",
+        "occupationValue": "المهنة: {}",
+        "individual_medical": "التأمين الصحي للأفراد",
+        "ClaimInformation": "معلومات المطالبة",
+        "claimAmountValue": "المبلغ المطالب به: {}",
+        "rateValue": "سعر الصرف: {}",
+        "reasonValue": "السبب: {}",
+        "reasonNoteValue": "ملاحظة السبب {}",
+        "receiveTreatmentDateValue": "تاريخ تلقي العلاج: {}",
+        "submittedDateValue": "تاريخ التقديم: {}",
+        "amountCurrencyValue": "العُملة: {}",
+        "notesValue": "ملاحظات: {}",
+        "ReffidValue": "الرقم المرجعي: {}",
+        "payment_method": "طريقة الدفع",
+        "plateValue": "# اللوحة: {}",
+        "new_plate": "لوحة جديدة",
+        "chassisValue": "# القاعدة: {}",
+        "colorValue": "اللون: {}",
+        "bodyTypeValue": "شكل السيارة: {}",
+        "cylinderValue": "عدد الأسطوانات: {}",
+        "uusageValuee": "الاستخدام: {}",
+        "carValue": "القيمة التأمينية: {}",
+        "insuredList": "قائمة المؤمن عليهم",
+        "quotationInformation": "تفاصيل الطلب",
+        "planNameValue": "الباقة التأمينية: {}",
+        "ddestinationValuen": "الوجهة: {}",
+        "premium": "صافي القسط",
+        "premiumValue": "صافي القسط: {} QR",
+        "plan_benifits": "مميزات الباقة",
+        "basicAmountValue": "المبلغ الأساسي: {}",
+        "cardFeesValue": "رسوم البطاقة: {}",
+        "totalAmountValue": "المبلغ الإجمالي: {}",
+        "discountValue": "تخفيض: {}",
+        "promo_code": "رمز الخصم",
+        "pay_button": "ادفع الآن",
+        "agree": "أنا أوافق على ",
+        "terms&conditons": "الشروط والأحكام",
+        "apply_promo_code": "هل لديك رمز خصم؟",
+        "rest_promo_code": "الغاء رمز خصم",
+        "planName": "الباقة: {}"
     },
     "health": {
         "home": "الرئيسية",

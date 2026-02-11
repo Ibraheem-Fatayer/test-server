@@ -470,28 +470,6 @@
                 "description": "Are You Sure You Want To Delete This Insured?"
             }
         },
-        "review_order": {
-            "period": "Period: {}",
-            "holder_section": "Holder",
-            "account_no": "Account No: {}",
-            "passport_no": "Passport #: {}",
-            "birthday": "Birthday: {}",
-            "age": "Age: {}",
-            "domistic_helper_section": "Domistic Helper",
-            "national_id": "Qatari ID: {}",
-            "full_name": "Full Name: {}",
-            "gender": "Gender: {}",
-            "nationality": "Nationality: {}",
-            "email": "Email: {}",
-            "occupation": "Occupation: {}"
-        },
-        "insured_review_order": {
-            "beneficiaries": "# of Beneficiaries",
-            "national_ID": "Qatari ID",
-            "ID_Expiry_Date": "Expiry Date",
-            "full_Name": "Name",
-            "nationality": "Nationality"
-        },
         "Period": {
             "Lable": "Period",
             "Validation": {
@@ -996,19 +974,6 @@
             },
             "success_message": {
                 "create_success": "Claim Created Successfully"
-            },
-            "review": {
-                "individual_medical": "Individual Medical",
-                "title": "Claim Information",
-                "claim_amount": "Claimed Amount: {}",
-                "rate": "Rate: {}",
-                "reason": "ٌReason: {}",
-                "reason_note": "Reason Note: {}",
-                "receive_treatment_date": "Date Of Receive Treatment: {}",
-                "submitted_date": "Submitted Date: {}",
-                "amount_currency": "Amount Currency: {}",
-                "notes": "Notes: {}",
-                "Reffid": "Reference: {}"
             }
         },
         "no_image": "No Image Found",
@@ -1183,8 +1148,7 @@
                 "title": "Info",
                 "description": "Are You Sure You Want To Delete This Beneficiary?"
             }
-        },
-        "review_order": {}
+        }
     },
     "domestic_create_quotation": {
         "insured_list": {
@@ -1195,21 +1159,6 @@
                 "title": "Info",
                 "description": "Are You Sure You Want To Delete This Insured?"
             }
-        },
-        "review_order": {
-            "period": "Period: {}",
-            "holder_section": "Holder",
-            "account_no": "Account No: {}",
-            "passport_no": "Passport #: {}",
-            "birthday": "Birthday: {}",
-            "age": "Age: {}",
-            "domistic_helper_section": "Domistic Helper",
-            "national_id": "Qatari ID: {}",
-            "full_name": "Full Name: {}",
-            "gender": "Gender: {}",
-            "nationality": "Nationality: {}",
-            "email": "Email: {}",
-            "occupation": "Occupation: {}"
         }
     },
     "motor_create_quotation": {
@@ -1217,19 +1166,6 @@
             "motor_plan_header": "Choose your car plan.",
             "insurance_services": "Included Services",
             "required_error": "Car Plan Is Required"
-        },
-        "review_order": {
-            "period": "Period: {}",
-            "plate": "Plate: {}",
-            "new_plate": "Plate: New Plate",
-            "payment_method": "Payment Method",
-            "chassis": "VIN (Chassis): {}",
-            "color": "Color: {}",
-            "body_type": "Body Type: {}",
-            "cylinder": "Cylinder: {}",
-            "usage": "Usage: {}",
-            "rate": "Rate: {}",
-            "car_value": "Car Value: {}"
         },
         "steps": {
             "form_validation": {
@@ -1276,27 +1212,6 @@
             "inbound_plan_subtitle": "Policy validity up to {}",
             "haya_plan_subtitle": "Policy validity up to {}",
             "PlansNetwork": "Travel Plans Network"
-        },
-        "review_order": {
-            "insured_list": "List of insured",
-            "quotation_information": "Quotation information",
-            "period": "Period: {}",
-            "full_name": "Full Name: {}",
-            "birthday": "Birthday: {}",
-            "plan_name": "Plan: {}",
-            "gender": "Gender: {}",
-            "nationality": "Nationality: {}",
-            "passport_no": "Passport #: {}",
-            "age": "Age: {}",
-            "destination": "Destination: {}",
-            "premium": "Premium",
-            "plan_benefits": {
-                "section_title": "Plan benefits",
-                "benefits_1": "Accident & Emergency Medical Treatment",
-                "benefits_2": "Covid-19 Treatment & Quarantine Expenses",
-                "benefits_3": "Emergency Medical Assistance And Evacuation",
-                "benefits_4": "Repatriation Of Mortal Remains"
-            }
         },
         "travel_services": {
             "inbound": "Inbound/Visiting Qatar",
@@ -1417,26 +1332,6 @@
             "insured_no": "{insuredNumber} Insured",
             "PlansNetwork": "Medical Plans Network",
             "InsuredAge": "Insured age: {}"
-        },
-        "review_order": {
-            "section_header": "Quotation Information",
-            "plan_benifits": "Plan Benefit",
-            "insured_list": "List Of Insured",
-            "period": "Period: {}",
-            "national_id": "Insured Qatari ID: {}",
-            "full_name": "Full Name: {}",
-            "birthday": "Birthday: {}",
-            "gender": "Gender: {}",
-            "nationality": "Nationality: {}",
-            "plan_name": "Plan: {}",
-            "basic_amount": "Basic Amount: {}",
-            "card_fees": "Card Fees: {} QR.",
-            "premium": "Premium",
-            "total_amount": "Total Amount: {}",
-            "discount": "Discount: {}",
-            "type": {
-                "individual_medical": "Individual Medical"
-            }
         },
         "steps": {
             "labels": {
@@ -1645,17 +1540,6 @@
             },
             "add_claim": "Add Claim"
         }
-    },
-    "review_order": {
-        "promo_code": "Promo Code",
-        "premium": "Premium",
-        "pay_button": "Pay Now",
-        "payment_method": "Payment Method",
-        "agree": "I Agree With The ",
-        "terms&conditons": "Terms & Conditons",
-        "apply_promo_code": "Do you have a promo code?",
-        "rest_promo_code": "Rest promo code",
-        "no_terms": "No Terms And Condition Found"
     },
     "profile": {
         "response_message": {
@@ -1901,12 +1785,10 @@
             "invalid": "Invalid Phone #"
         }
     },
-    "promoCode": {
-        "title": "Promo code or referral",
-        "button": {
-            "cancel": "Cancel",
-            "check": "Apply"
-        }
+    "PromoCode": {
+        "Title": "Promo code",
+        "CancelBtn": "Cancel",
+        "ApplyBtn": "Apply"
     },
     "offers": {
         "our_offers": "Our Offers",
@@ -1928,6 +1810,59 @@
         "CallUs": "Call Us",
         "ContactWhatsApp": "WhatsApp us",
         "GeneralConditions": "General Conditions"
+    },
+    "Reviews": {
+        "periodValue": "Period: {}",
+        "holder_section": "Holder",
+        "accountNoValue": "Account No: {}",
+        "passportNoValue": "Passport #: {}",
+        "birthdayValue": "Birthday: {}",
+        "ageValue": "Age: {}",
+        "domistic_helper_section": "Domistic Helper",
+        "nationalIdValue": "Qatari ID: {}",
+        "fullNameValue": "Full Name: {}",
+        "genderValue": "Gender: {}",
+        "nationalityValue": "Nationality: {}",
+        "emailValue": "Email: {}",
+        "occupationValue": "Occupation: {}",
+        "individual_medical": "Individual Medical",
+        "ClaimInformation": "Claim Information",
+        "claimAmountValue": "Claimed Amount: {}",
+        "rateValue": "Rate: {}",
+        "reasonValue": "ٌReason: {}",
+        "reasonNoteValue": "Reason Note: {}",
+        "receiveTreatmentDateValue": "Date Of Receive Treatment: {}",
+        "submittedDateValue": "Submitted Date: {}",
+        "amountCurrencyValue": "Amount Currency: {}",
+        "notesValue": "Notes: {}",
+        "ReffidValue": "Reference: {}",
+        "payment_method": "Payment Method",
+        "plateValue": "Plate: {}",
+        "new_plate": "New Plate",
+        "chassisValue": "VIN (Chassis): {}",
+        "colorValue": "Color: {}",
+        "bodyTypeValue": "Body Type: {}",
+        "cylinderValue": "Cylinder: {}",
+        "usageValue": "Usage: {}",
+        "carValue": "Car Value: {}",
+        "insuredList": "List of insured",
+        "quotationInformation": "Quotation information",
+        "planNameValue": "Plan: {}",
+        "destinationValue": "Destination: {}",
+        "premium": "Premium",
+        "premiumValue": "Premium: {} QR",
+        "plan_benifits": "Plan Benefit",
+        "basicAmountValue": "Basic Amount: {}",
+        "cardFeesValue": "Card Fees: {} QR.",
+        "totalAmountValue": "Total Amount: {}",
+        "discountValue": "Discount: {}",
+        "promo_code": "Promo Code",
+        "pay_button": "Pay Now",
+        "agree": "I Agree With The ",
+        "terms&conditons": "Terms & Conditons",
+        "apply_promo_code": "Do you have a promo code?",
+        "rest_promo_code": "Rest promo code",
+        "planName": "plan name: {}"
     },
     "health": {
         "home": "Home",
