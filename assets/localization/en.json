@@ -1577,10 +1577,6 @@
             "empty_policy_list": "No Policy Found",
             "header_section": {
                 "header1": "Inbound Travel Policies"
-            },
-            "policy_card": {
-                "passport_no": "Passport #: {}",
-                "passport_no1": "Passport #: "
             }
         }
     },

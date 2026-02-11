@@ -1592,10 +1592,6 @@
             "empty_policy_list": "لم يتم العثور على وثائق",
             "header_section": {
                 "header1": "وثائق السفر"
-            },
-            "policy_card": {
-                "passport_no": "# جواز السفر: {}",
-                "passport_no1": "# جواز السفر: "
             }
         }
     },
