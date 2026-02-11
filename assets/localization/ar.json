@@ -460,16 +460,6 @@
                 "Required": "يرجى إدخال جنس المؤمن عليه"
             }
         },
-        "domestic_insured_list": {
-            "worker_list_header": "قائمة المساعدين المنزليين",
-            "empty_list": "قائمة المساعدين المنزليين فارغة ",
-            "new_worker": "إضافة مساعدة منزلية",
-            "another_worker": "إضافة مساعدة منزلية أخرى",
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-            }
-        },
         "Period": {
             "Lable": "الفترة",
             "Validation": {
@@ -1875,6 +1865,16 @@
         "plateNoValue": "# اللوحة: {}",
         "makeValue": "اسم نوع السيارة: {}",
         "modelValue": "اسم طراز السيارة: {}"
+    },
+    "NewInsuredList": {
+        "worker_list_header": "قائمة المساعدين المنزليين",
+        "empty_list": "قائمة المساعدين المنزليين فارغة ",
+        "new_worker": "إضافة مساعدة منزلية",
+        "another_worker": "إضافة مساعدة منزلية أخرى",
+        "delete_dialog": {
+            "title": "معلومات",
+            "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+        }
     },
     "health": {
         "home": "الرئيسية",

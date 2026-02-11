@@ -460,16 +460,6 @@
                 "Required": "Gender Is Required"
             }
         },
-        "domestic_insured_list": {
-            "worker_list_header": "List Of Domistic Helper",
-            "empty_list": "Domestic helper list is empty",
-            "new_worker": "Add New Worker",
-            "another_worker": "Add Another Worker",
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Insured?"
-            }
-        },
         "Period": {
             "Lable": "Period",
             "Validation": {
@@ -1858,6 +1848,16 @@
         "plateNoValue": "Plate #: {}",
         "makeValue": "Make Name: {}",
         "modelValue": "Model Name: {}"
+    },
+    "NewInsuredList": {
+        "worker_list_header": "List Of Domistic Helper",
+        "empty_list": "Domestic helper list is empty",
+        "new_worker": "Add New Worker",
+        "another_worker": "Add Another Worker",
+        "delete_dialog": {
+            "title": "Info",
+            "description": "Are You Sure You Want To Delete This Insured?"
+        }
     },
     "health": {
         "home": "Home",
