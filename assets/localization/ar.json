@@ -1043,15 +1043,6 @@
         }
     },
     "medical_group": {
-        "quick_action": {
-            "title": "الأوامر السريعة",
-            "benefits": "المميزات",
-            "network": "شبكة طبية",
-            "hotline": "الدعم الفني",
-            "claims": "المطالبات",
-            "medical_document": "نماذج",
-            "golbal_network_provider": "الشبكة العالمية لمقدمي الخدمات"
-        },
         "add_claim": {
             "labels": {
                 "patient_name": "اسم المريض",
@@ -1136,23 +1127,6 @@
                 "news": "اخبارنا",
                 "branches": "فروعنا",
                 "contact_us": "اكتب لنا"
-            },
-            "quick_action": {
-                "section_title": "الأوامر السريعة",
-                "news": "اخبارنا",
-                "branches": "فروعنا",
-                "about_us": "عن المجموعة",
-                "contact_us": "اكتب لنا",
-                "call_us": "اتصل بنا",
-                "contact_whatsApp": "تواصل عبر الواتس اب",
-                "error_message": {
-                    "empty_news_link": "الرابط فارغ",
-                    "error_news_link": "فشل عملية فتح الرابط",
-                    "empty_branches_link": "الرابط فارغ",
-                    "error_branches_link": "فشل عملية فتح الرابط",
-                    "empty_aboutUs_link": "الرابط فارغ",
-                    "error_aboutUs_link": "فشل عملية فتح الرابط"
-                }
             },
             "branches": {
                 "mobile": {
@@ -1926,12 +1900,6 @@
                 "passport_no1": "# جواز السفر: "
             }
         },
-        "quick_action": {
-            "general_conditions": "شروط عامة",
-            "network": "شبكة المزودين",
-            "hotline": "الدعم الفني",
-            "search": "البحث عن وثيقة"
-        },
         "dialog": {
             "log_out": {
                 "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
@@ -1963,6 +1931,22 @@
         "our_offers": "عروضنا",
         "see_offers": "رؤية العروض",
         "offers_card": "العروض"
+    },
+    "QuickActions": {
+        "Title": "الأوامر السريعة",
+        "Benefits": "المميزات",
+        "Network": "شبكة طبية",
+        "Hotline": "الدعم الفني",
+        "Claims": "المطالبات",
+        "MedicalDocument": "نماذج",
+        "GolbalNetworkProvider": "الشبكة العالمية لمقدمي الخدمات",
+        "News": "اخبارنا",
+        "Branches": "فروعنا",
+        "AboutUs": "عن المجموعة",
+        "ContactUs": "اكتب لنا",
+        "CallUs": "اتصل بنا",
+        "ContactWhatsApp": "تواصل عبر الواتس اب",
+        "gGeneralConditionss": "شروط عامة"
     },
     "health": {
         "home": "الرئيسية",

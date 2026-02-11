@@ -979,15 +979,6 @@
         }
     },
     "medical_group": {
-        "quick_action": {
-            "title": "Quick Actions",
-            "benefits": "Benefits",
-            "network": "Network of Providers",
-            "hotline": "24/7 Hotline and Contacts",
-            "claims": "Claims",
-            "medical_document": "Forms",
-            "golbal_network_provider": "Network of Global Providers"
-        },
         "add_claim": {
             "labels": {
                 "patient_name": "Patient Name",
@@ -1069,23 +1060,6 @@
                 "news": "News",
                 "branches": "Branches",
                 "contact_us": "Write To Us"
-            },
-            "quick_action": {
-                "section_title": "Quick Actions",
-                "news": "News",
-                "branches": "Branches",
-                "about_us": "About Us",
-                "contact_us": "Write To Us",
-                "call_us": "Call Us",
-                "contact_whatsApp": "WhatsApp us",
-                "error_message": {
-                    "empty_news_link": "News Link Is Empty",
-                    "error_news_link": "Failure Process To Open News Link",
-                    "empty_branches_link": "Branches Link Is Empty",
-                    "error_branches_link": "Failure Process To Open Branches Link",
-                    "empty_aboutUs_link": "Branches Link Is Empty",
-                    "error_aboutUs_link": "Failure Process To Open Branches Link"
-                }
             },
             "branches": {
                 "mobile": {
@@ -1907,12 +1881,6 @@
                 "passport_no1": "Passport #: "
             }
         },
-        "quick_action": {
-            "general_conditions": "General Conditions",
-            "network": "Provider Network",
-            "hotline": "24/7 Hotline",
-            "search": "Search Policy"
-        },
         "dialog": {
             "log_out": {
                 "description": "Are you sure you want to logout?"
@@ -1944,6 +1912,22 @@
         "our_offers": "Our Offers",
         "see_offers": "See Offers",
         "offers_card": "Offers"
+    },
+    "QuickActions": {
+        "Title": "Quick Actions",
+        "Benefits": "Benefits",
+        "Network": "Network of Providers",
+        "Hotline": "24/7 Hotline and Contacts",
+        "Claims": "Claims",
+        "MedicalDocument": "Forms",
+        "GolbalNetworkProvider": "Network of Global Providers",
+        "News": "News",
+        "Branches": "Branches",
+        "AboutUs": "About Us",
+        "ContactUs": "Write To Us",
+        "CallUs": "Call Us",
+        "ContactWhatsApp": "WhatsApp us",
+        "GeneralConditions": "General Conditions"
     },
     "health": {
         "home": "Home",
