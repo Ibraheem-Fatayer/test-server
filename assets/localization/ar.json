@@ -1159,11 +1159,6 @@
         }
     },
     "motor_create_quotation": {
-        "plans": {
-            "motor_plan_header": "برجاء إختيار الباقة",
-            "insurance_services": "خدمات التأمين",
-            "required_error": "باقة السيارة مطلوب"
-        },
         "steps": {
             "form_validation": {
                 "error": {
@@ -1202,14 +1197,6 @@
         }
     },
     "travel_create_quotation": {
-        "plans": {
-            "header": "اختيار باقة السفر المناسبة",
-            "required_error": "باقة السفر مطلوب",
-            "insurance_services": "تفاصيل الحزمة",
-            "inbound_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {} من دخول دولة قطر",
-            "haya_plan_subtitle": "صلاحية الوثيقة تنتهي بعد {}",
-            "PlansNetwork": "شبكة الباقات السفر"
-        },
         "travel_dialog": {
             "title": "استخدام معلومات تسجيل الدخول",
             "important": "مهم!",
@@ -1324,17 +1311,6 @@
         }
     },
     "medical_create_quotation": {
-        "plans": {
-            "insurance_services": "خدمات التأمين",
-            "required_error": "الباقة مطلوب",
-            "sum_insured": "القيمة التأمينية (حد الائتمان): {}",
-            "min_age": "اقل عمر: {}",
-            "max_age": "اكبر عمر: {}",
-            "plan_benefit": "مميزات الباقة",
-            "insured_no": "{insuredNumber} المؤمن عليه",
-            "PlansNetwork": "شبكة الباقات طبية",
-            "InsuredAge": "العمر: {}"
-        },
         "steps": {
             "labels": {
                 "qatar_id": "الرقم الشخصي",

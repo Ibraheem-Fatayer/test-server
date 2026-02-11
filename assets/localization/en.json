@@ -1152,11 +1152,6 @@
         }
     },
     "motor_create_quotation": {
-        "plans": {
-            "motor_plan_header": "Choose your car plan.",
-            "insurance_services": "Included Services",
-            "required_error": "Car Plan Is Required"
-        },
         "steps": {
             "form_validation": {
                 "error": {
@@ -1195,14 +1190,6 @@
         }
     },
     "travel_create_quotation": {
-        "plans": {
-            "header": "Choose your travel plan",
-            "required_error": "Travel Plan Is Required",
-            "insurance_services": "Package details",
-            "inbound_plan_subtitle": "Policy validity up to {}",
-            "haya_plan_subtitle": "Policy validity up to {}",
-            "PlansNetwork": "Travel Plans Network"
-        },
         "travel_services": {
             "inbound": "Inbound/Visiting Qatar",
             "outbound": "Travel Outside Qatar"
@@ -1312,17 +1299,6 @@
         }
     },
     "medical_create_quotation": {
-        "plans": {
-            "insurance_services": "Included Services",
-            "required_error": "Plan Is Required",
-            "sum_insured": "Sum Insured: {}",
-            "min_age": "Min Age: {}",
-            "max_age": "Max Age: {}",
-            "plan_benefit": "Plan Benefit",
-            "insured_no": "{insuredNumber} Insured",
-            "PlansNetwork": "Medical Plans Network",
-            "InsuredAge": "Insured age: {}"
-        },
         "steps": {
             "labels": {
                 "qatar_id": "Qatar Id",
