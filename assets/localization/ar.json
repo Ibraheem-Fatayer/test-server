@@ -1132,7 +1132,7 @@
         "reason": "السبب: {}",
         "additional_reason": "سبب إضافي: {}",
         "receive_teatment_date": "تاريخ تلقي العلاج: {}",
-        "submitted_date": "تاريخ التقديم: {}",
+        "submitted_date": "تاريخ المعاملة: {}",
         "notes": "ملاحظات: {}",
         "date": "التاريخ: {}",
         "latest_status": "الحالة: {}",
