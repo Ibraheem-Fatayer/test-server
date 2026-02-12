@@ -179,7 +179,7 @@
             "ValidationError": {
                 "Required": "Plate # Is Required",
                 "Length": "Plate # Should Be Less Than Or Equal 6",
-                "Format": "Plate # Accepts Numbers Only"
+                "Format": "Plate number must be 6 digits only. R, T, or Q is allowed at the end."
             }
         },
         "InsuredRelations": {
@@ -211,7 +211,8 @@
                 "NameENFormat": "Arabic Not Allowed",
                 "NameENSpecialCharFormat": "Name should be english only\nSpecial Character Not Allowed",
                 "AR": "Name in Arabic is required",
-                "NameARFormat": "Name Should Contains Arabic Caracters"
+                "NameARFormat": "Name Should Contains Arabic Caracters",
+                "NameARLength": "This field length must be from 3 to 50"
             }
         },
         "PaymentType": {
@@ -452,7 +453,8 @@
         "QatariIDExpiryDate": {
             "Lable": "Qatari ID Expiry Date",
             "Validation": {
-                "Required": "Qatari ID Expiry Date Is Required"
+                "Required": "Qatari ID Expiry Date Is Required",
+                "InvalidExpiryDate": "Invalid Expiry Date"
             }
         },
         "PassportExpiryDate": {

@@ -179,7 +179,7 @@
             "ValidationError": {
                 "Required": "حقل # اللوحة مطلوب",
                 "Length": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
-                "Format": "# اللوحة يقبل الأرقام فقط"
+                "Format": "Plate number must be 6 digits only. R, T, or Q is allowed at the end."
             }
         },
         "InsuredRelations": {
@@ -211,7 +211,8 @@
                 "NameENFormat": "العربية غير مسموح بها",
                 "NameENSpecialCharFormat": "يجب أن يكون الاسم باللغة الإنجليزية فقط\nغير مسموح بالأحرف الخاصة",
                 "AR": "الأسم بالعربية مطلوب",
-                "NameARFormat": "يجب أن يحتوي الاسم على أحرف عربية"
+                "NameARFormat": "يجب أن يحتوي الاسم على أحرف عربية",
+                "NameARLength": "This field length must be from 3 to 50"
             }
         },
         "PaymentType": {
@@ -452,7 +453,8 @@
         "QatariIDExpiryDate": {
             "Lable": "تاريخ انتهاء الصلاحية",
             "Validation": {
-                "Required": "تاريخ انتهاء الصلاحية مطلوب"
+                "Required": "تاريخ انتهاء الصلاحية مطلوب",
+                "InvalidExpiryDate": "Invalid Expiry Date"
             }
         },
         "PassportExpiryDate": {
