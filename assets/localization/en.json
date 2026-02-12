@@ -323,9 +323,9 @@
             }
         },
         "Mobile": {
-            "Lable": "Mobile",
+            "Lable": "Mobile Number",
             "Validation": {
-                "Required": "Mobile Is Required",
+                "Required": "Mobile Number Is Required",
                 "Format": "Phone Should Be Number Only",
                 "Length": "Phone Length Should Be 8 Digit"
             }
@@ -1328,7 +1328,8 @@
         "StartOn": "Start on",
         "ValidUntil": "Valid until:",
         "ExpireOn": "Expire on:",
-        "Expired": "Expired:"
+        "Expired": "Expired:",
+        "ExtendRequestMessage": "Please Wait Until\nPrepare Your Request"
     },
     "travel_inbound": {
         "travel_policy": {

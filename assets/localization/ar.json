@@ -323,9 +323,9 @@
             }
         },
         "Mobile": {
-            "Lable": "# الجوال",
+            "Lable": "رقم الهاتف",
             "Validation": {
-                "Required": "# الجوال مطلوب",
+                "Required": "# رقم الهاتف مطلوب",
                 "Format": "يجب أن يكون الهاتف رقمًا فقط",
                 "Length": "# الهاتف يجب ان يكون 8 أرقام"
             }
@@ -1331,7 +1331,8 @@
         "StartOn": "تاريخ البدء:",
         "ValidUntil": "صالحة حتى:",
         "ExpireOn": "تنتهي بتاريخ",
-        "Expired": "منتهية:"
+        "Expired": "منتهية:",
+        "ExtendRequestMessage": "يرجى الانتظار ريثما يتم\nتجهيز طلبك"
     },
     "travel_inbound": {
         "travel_policy": {
