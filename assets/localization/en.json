@@ -153,6 +153,58 @@
     },
     "Form": {
         "RequiredFieldsError": "All Fields Are Required",
+        "Make": {
+            "Label": "Make",
+            "Hint": "Select Car Make",
+            "Header": "Choose Make",
+            "ShowAll": "Show All",
+            "ShowLess": "Show Less",
+            "Validation": {
+                "Required": "Make Is Required"
+            }
+        },
+        "Model": {
+            "Label": "Model",
+            "Hint": "Select Model",
+            "Header": "Choose Model",
+            "Validation": {
+                "Required": "Model Is Required"
+            }
+        },
+        "BodyType": {
+            "Header": "Choose Body Type",
+            "Validation": {
+                "Required": "Body Type Is Required"
+            }
+        },
+        "Usage": {
+            "Header": "Choose Usage Type",
+            "Validation": {
+                "Required": "Usage Is Required"
+            }
+        },
+        "Cylinder": {
+            "Header": "Choose Cylinder",
+            "Validation": {
+                "Required": "Cylinder Is Required"
+            }
+        },
+        "CarSeats": {
+            "Header": "Car Seats",
+            "FromTo": "From: {} - To: {}",
+            "AllowFromTo": "Allow From: {} - To: {}",
+            "Validation": {
+                "Required": "Seating Capacity is required",
+                "Format": "Seating Capacity Should Be Number Only",
+                "NoData": "No Data Found For This Criteria"
+            }
+        },
+        "InsuranceType": {
+            "Header": "Select Insurance Type",
+            "Validation": {
+                "Required": "Insurance Type Is Required"
+            }
+        },
         "Country": {
             "Label": "Select the insured country of residence",
             "Validation": {
@@ -176,11 +228,15 @@
         "CarValue": {
             "Label": "Car Value",
             "ValidationError": {
-                "Required": "Car Value Is Required"
+                "Required": "Car Value Is Required",
+                "MinLength": "Car Value should be grater than or equal {}",
+                "MaxLength": "Car Value should be less than or equal {}"
             }
         },
         "Color": {
             "Label": "Color",
+            "Hint": "Select Color",
+            "header": "Choose Car Color",
             "ValidationError": {
                 "Required": "Color Is Required"
             }
@@ -196,6 +252,8 @@
         },
         "PlateNo": {
             "Label": "Plate #",
+            "HavePlate": "I have a plate number",
+            "NotHavePlate": "I do not have a plate number",
             "ValidationError": {
                 "Required": "Plate # Is Required",
                 "Length": "Plate # Should Be Less Than Or Equal 6",
@@ -708,6 +766,7 @@
         },
         "ManufactureYear": {
             "Lable": "",
+            "Header": "Choose Manufacture Year",
             "Validation": {
                 "Required": "Manufacture Year Is Required",
                 "Format": "Manufacture Year Accept Number Only",
@@ -1147,161 +1206,6 @@
             }
         }
     },
-    "personal_accident_create_quotation": {
-        "beneficiaries": {
-            "beneficiaries_header": "List Of beneficiaries",
-            "empty_list": "Beneficiary list is empty",
-            "new_beneficiaries": "Add New Beneficiary",
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Beneficiary?"
-            }
-        }
-    },
-    "domestic_create_quotation": {
-        "insured_list": {
-            "worker_list_header": "List Of Domistic Helper",
-            "empty_list": "Domestic helper list is empty",
-            "new_worker": "Add Domistic Helper",
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Insured?"
-            }
-        }
-    },
-    "motor_create_quotation": {
-        "steps": {
-            "form_validation": {
-                "error": {
-                    "make": {
-                        "make_required_error": "Make Is Required"
-                    },
-                    "model": {
-                        "model_required_error": "Model Is Required"
-                    },
-                    "body_type": {
-                        "body_type_required_error": "Body Type Is Required"
-                    },
-                    "usage": {
-                        "usage_required_error": "Usage Is Required"
-                    },
-                    "cylinder": {
-                        "cylinder_required_error": "Cylinder Is Required"
-                    },
-                    "color": {
-                        "color_required_error": "Color Is Required"
-                    },
-                    "manufacture_year": {
-                        "manufacture_year_required_error": "Manufacture Year Is Required"
-                    },
-                    "insurance_type": {
-                        "insurance_type_required_error": "Insurance Type Is Required"
-                    },
-                    "seating_capacity": {
-                        "seating_capacity_no_data": "No Data Found For This Criteria"
-                    }
-                }
-            },
-            "hint": {
-                "color": "Select Color"
-            }
-        }
-    },
-    "travel_create_quotation": {
-        "travel_services": {
-            "inbound": "Inbound/Visiting Qatar",
-            "outbound": "Travel Outside Qatar"
-        },
-        "steps": {
-            "insured_list": {
-                "visitor_list_header": "List of Visitor People",
-                "new_visitor": "Add new visitor",
-                "insured_list_header": "List of Insured People",
-                "new_insured": "Add new insured",
-                "save_button": "Save",
-                "list_card": {
-                    "birthday": "Birthday\n{}",
-                    "passport_no": "{}: {}"
-                },
-                "delete_dialog": {
-                    "title": "Info",
-                    "description": "Are You Sure You Want To Delete This Visitor?"
-                }
-            }
-        }
-    },
-    "medical_create_quotation": {
-        "steps": {
-            "insured_list": {
-                "insured_list_header": "List of Insured People",
-                "new_insured": "Add new insured",
-                "save_button": "Save",
-                "list_card": {
-                    "birthday": "Birthday\n{}",
-                    "qatari_id": "{}: {}"
-                },
-                "delete_dialog": {
-                    "title": "Info",
-                    "description": "Are You Sure You Want To Delete This Insured?"
-                }
-            }
-        }
-    },
-    "quotation_steps": {
-        "motor": {
-            "step_1": {
-                "step_header": "Choose Make",
-                "show_all": "Show All",
-                "show_less": "Show Less"
-            },
-            "step_2": {
-                "step_header": "Choose Model"
-            },
-            "step_3": {
-                "step_header": "Choose Body Type"
-            },
-            "step_4": {
-                "step_header": "Choose Usage Type"
-            },
-            "step_5": {
-                "step_header": "Choose Cylinder"
-            },
-            "step_6": {
-                "step_header": "Choose Car Color",
-                "color_hint": "Select Car Color"
-            },
-            "step_7": {
-                "step_header": "Choose Manufacture Year"
-            },
-            "step_8": {
-                "step_header": "Plate #",
-                "have_plate": "I have a plate number",
-                "not_have_plate": "I do not have a plate number"
-            },
-            "step_9": {
-                "step_header": "VIN (Chassis)"
-            },
-            "step_10": {
-                "step_header": "Car Seats",
-                "from_to": "From: {} - To: {}",
-                "allow_from_to": "Allow From: {} - To: {}"
-            },
-            "step_11": {
-                "step_header": "Select Insurance Type"
-            },
-            "step_12": {
-                "step_header": "Car Value",
-                "car_value_min_length_error": "Car Value should be grater than or equal {}",
-                "car_value_max_length_error": "Car Value should be less than or equal {}",
-                "from_to": "From: {} - To: {}"
-            },
-            "step_13": {
-                "step_header": "Car Policy Start Date",
-                "start_date_lable": "Policy Start Date",
-                "date_required_error": "Start Date is required"
-            }
-        }
-    },
     "upload_image": {
         "vehicle_label": "Car Image",
         "qatari_id_label": "Qatar ID",
@@ -1631,6 +1535,55 @@
             "plan_benefit": "Plan Benefit",
             "PlansNetwork": "Medical Plans Network",
             "InsuredAge": "Insured age: {}"
+        }
+    },
+    "Quotatoin": {
+        "personal_accident": {
+            "beneficiaries_header": "List Of beneficiaries",
+            "empty_beneficiary_list": "Beneficiary list is empty",
+            "new_beneficiaries": "Add New Beneficiary",
+            "delete_dialog": {
+                "title": "Info",
+                "description": "Are You Sure You Want To Delete This Beneficiary?"
+            }
+        },
+        "domestic": {
+            "worker_list_header": "List Of Domistic Helper",
+            "empty_worker_list": "Domestic helper list is empty",
+            "new_worker": "Add Domistic Helper",
+            "delete_dialog": {
+                "title": "Info",
+                "description": "Are You Sure You Want To Delete This Insured?"
+            }
+        },
+        "travel": {
+            "InboundServices": "Inbound/Visiting Qatar",
+            "OutboundServices": "Travel Outside Qatar",
+            "visitor_list_header": "List of Visitor People",
+            "new_visitor": "Add new visitor",
+            "insured_list_header": "List of Insured People",
+            "new_insured": "Add new insured",
+            "list_card": {
+                "birthday": "Birthday\n{}",
+                "passport_no": "{}: {}"
+            },
+            "delete_dialog": {
+                "title": "Info",
+                "description": "Are You Sure You Want To Delete This Visitor?"
+            }
+        },
+        "medical": {
+            "insured_list_header": "List of Insured People",
+            "new_insured": "Add new insured",
+            "save_button": "Save",
+            "list_card": {
+                "birthday": "Birthday\n{}",
+                "qatari_id": "{}: {}"
+            },
+            "delete_dialog": {
+                "title": "Info",
+                "description": "Are You Sure You Want To Delete This Insured?"
+            }
         }
     },
     "health": {

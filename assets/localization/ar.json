@@ -153,6 +153,58 @@
     },
     "Form": {
         "RequiredFieldsError": "جميع الحقول مطلوبة",
+        "Make": {
+            "Label": "نوع السيارة",
+            "Hint": "برجاء الاختيار",
+            "Header": "اختر نوع السيارة",
+            "ShowAll": "عرض الكل",
+            "ShowLess": "عرض أقل",
+            "Validation": {
+                "Required": "مطلوب نوع السيارة"
+            }
+        },
+        "Model": {
+            "lLabell": "طراز السيارة",
+            "Hint": "برجاء الاختيار",
+            "Header": "اختر طراز السيارة",
+            "Validation": {
+                "Required": "مطلوب طراز السيارة"
+            }
+        },
+        "BodyType": {
+            "Header": "اختر شكل السيارة",
+            "Validation": {
+                "Required": "شكل السيارة مطلوب"
+            }
+        },
+        "Usage": {
+            "Header": "اختر نوع لوحة مركبتك",
+            "Validation": {
+                "Required": "نوع لوحة السيارة مطلوب"
+            }
+        },
+        "Cylinder": {
+            "Header": "اختر عدد الأسطوانات",
+            "Validation": {
+                "Required": "عدد الاسطوانات مطلوب"
+            }
+        },
+        "CarSeats": {
+            "Header": "عدد مقاعد السيارة",
+            "FromTo": "من: {} - الى: {}",
+            "AllowFromTo": "من: {} - الى: {}",
+            "Validation": {
+                "Required": "حقل عدد مقاعد السيارة مطلوب",
+                "Format": "عدد مقاعد السيارة يقبل الأرقام فقط",
+                "NoData": "لم يتم العثور على بيانات لهذه المعايير"
+            }
+        },
+        "InsuranceType": {
+            "Header": "اختر نوع التأمين",
+            "Validation": {
+                "Required": "نوع التأمين مطلوب"
+            }
+        },
         "Country": {
             "Label": "برجاء اختيار بلد الإقامة الحالية",
             "Validation": {
@@ -176,11 +228,15 @@
         "CarValue": {
             "Label": "القيمة التأمينية للمركبة",
             "ValidationError": {
-                "Required": "حقل القيمة التأمينية للمركبة مطلوب"
+                "Required": "حقل القيمة التأمينية للمركبة مطلوب",
+                "MinLength": "القيمة التأمينية للمركبة يجب أن تكون أكبر من أو تساوي {}",
+                "MaxLength": "القيمة التأمينية للمركبة يجب أن يكون أصغر من أو يساوي {}"
             }
         },
         "Color": {
             "Label": "اللون",
+            "Hint": "برجاء الاختيار",
+            "header": "اختر لون السيارة",
             "ValidationError": {
                 "Required": "اللون مطلوب"
             }
@@ -196,6 +252,8 @@
         },
         "PlateNo": {
             "Label": "# اللوحة",
+            "HavePlate": "أريد إدخال # اللوحة",
+            "NotHavePlate": "مركبتي بدون # لوحة",
             "ValidationError": {
                 "Required": "حقل # اللوحة مطلوب",
                 "Length": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
@@ -708,6 +766,7 @@
         },
         "ManufactureYear": {
             "Lable": "",
+            "Header": "اختر سنة الصنع",
             "Validation": {
                 "Required": "سنة تصنيع السيارة مطلوب",
                 "Format": "سنة الصنع يقبل ارقام فقط",
@@ -1150,164 +1209,6 @@
             }
         }
     },
-    "personal_accident_create_quotation": {
-        "beneficiaries": {
-            "beneficiaries_header": "الأشخاص المستفيدون",
-            "empty_list": "لم تقم بإضافة أي مستفيد بعد",
-            "new_beneficiaries": "أضف مستفيدًا جديدًا",
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد من حذف هذا المستفيد؟"
-            }
-        }
-    },
-    "domestic_create_quotation": {
-        "insured_list": {
-            "worker_list_header": "قائمة المساعدين المنزليين",
-            "empty_list": "قائمة المساعدين المنزليين فارغة ",
-            "new_worker": "إضافة مساعدة منزلية",
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-            }
-        }
-    },
-    "motor_create_quotation": {
-        "steps": {
-            "form_validation": {
-                "error": {
-                    "make": {
-                        "make_required_error": "نوع السيارة مطلوب"
-                    },
-                    "model": {
-                        "model_required_error": "طراز السيارة مطلوب"
-                    },
-                    "body_type": {
-                        "body_type_required_error": "شكل السيارة مطلوب"
-                    },
-                    "usage": {
-                        "usage_required_error": "نوع لوحة السيارة مطلوب"
-                    },
-                    "cylinder": {
-                        "cylinder_required_error": "عدد الاسطوانات مطلوب"
-                    },
-                    "color": {
-                        "color_required_error": "لون السيارة مطلوب"
-                    },
-                    "manufacture_year": {
-                        "manufacture_year_required_error": "سنة تصنيع السيارة مطلوب"
-                    },
-                    "insurance_type": {
-                        "insurance_type_required_error": "نوع التأمين مطلوب"
-                    },
-                    "seating_capacity": {
-                        "seating_capacity_no_data": "لم يتم العثور على بيانات لهذه المعايير"
-                    }
-                }
-            },
-            "hint": {
-                "color": "برجاء الاختيار"
-            }
-        }
-    },
-    "travel_create_quotation": {
-        "travel_services": {
-            "inbound": "زيارة قطر",
-            "outbound": "السفر لخارج دول قطر"
-        },
-        "steps": {
-            "insured_list": {
-                "visitor_list_header": "قائمة الزوار",
-                "new_visitor": "اضافة زائر جديد",
-                "insured_list_header": "قائمة المؤمن عليهم",
-                "new_insured": "إضافة مؤمن عليه جديد",
-                "save_button": "حفظ",
-                "list_card": {
-                    "birthday": "تاريخ الميلاد\n{}",
-                    "passport_no": "{}: {}"
-                },
-                "delete_dialog": {
-                    "title": "معلومات",
-                    "description": "هل أنت متأكد أنك تريد حذف الزائر؟"
-                }
-            }
-        }
-    },
-    "medical_create_quotation": {
-        "steps": {
-            "insured_list": {
-                "insured_list_header": "قائمة المؤمن عليهم",
-                "new_insured": "مؤمن جديد",
-                "save_button": "حفظ",
-                "list_card": {
-                    "birthday": "تاريخ الميلاد\n{}",
-                    "qatari_id": "{}: {}"
-                },
-                "delete_dialog": {
-                    "title": "معلومات",
-                    "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-                }
-            }
-        }
-    },
-    "quotation_steps": {
-        "motor": {
-            "step_1": {
-                "step_header": "اختر نوع السيارة",
-                "show_all": "عرض الكل",
-                "show_less": "عرض أقل"
-            },
-            "step_2": {
-                "step_header": "اختر طراز السيارة"
-            },
-            "step_3": {
-                "step_header": "اختر شكل السيارة"
-            },
-            "step_4": {
-                "step_header": "اختر نوع لوحة مركبتك"
-            },
-            "step_5": {
-                "step_header": "اختر عدد الأسطوانات"
-            },
-            "step_6": {
-                "step_header": "اختر لون السيارة",
-                "color_hint": "اختر لون السيارة"
-            },
-            "step_7": {
-                "step_header": "اختر سنة الصنع"
-            },
-            "step_8": {
-                "step_header": "أدخل # اللوحة",
-                "have_plate": "أريد إدخال # اللوحة",
-                "not_have_plate": "مركبتي بدون # لوحة"
-            },
-            "step_9": {
-                "step_header": "أدخل # القاعدة"
-            },
-            "step_10": {
-                "step_header": "ادخل عدد مقاعد السيارة",
-                "from_to": "من: {} - الى: {}",
-                "allow_from_to": "من: {} - الى: {}"
-            },
-            "step_11": {
-                "step_header": "اختر نوع التأمين"
-            },
-            "step_12": {
-                "step_header": "القيمة التأمينية للمركبة",
-                "car_value_min_length_error": "القيمة التأمينية للمركبة يجب أن تكون أكبر من أو تساوي {}",
-                "car_value_max_length_error": "القيمة التأمينية للمركبة يجب أن يكون أصغر من أو يساوي {}",
-                "from_to": "من: {} - الى: {}"
-            },
-            "step_13": {
-                "step_header": "اختر تاريخ بدء الوثيقة",
-                "start_date_lable": "تاريخ بدء الوثيقة",
-                "date_required_error": "حقل تاريخ بدء الوثيقة مطلوب"
-            },
-            "plan": {
-                "step_header": "إختر الباقة"
-            }
-        }
-    },
     "upload_image": {
         "vehicle_label": "صور السيارة",
         "qatari_id_label": "البطاقة الشخصية",
@@ -1637,6 +1538,55 @@
             "plan_benefit": "مزايا الخطة",
             "PlansNetwork": "شبكة الخطط الطبية",
             "InsuredAge": "عمر المؤمن عليه: {}"
+        }
+    },
+    "Quotatoin": {
+        "personal_accident": {
+            "beneficiaries_header": "الأشخاص المستفيدون",
+            "empty_beneficiary_list": "لم تقم بإضافة أي مستفيد بعد",
+            "new_beneficiaries": "أضف مستفيدًا جديدًا",
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد من حذف هذا المستفيد؟"
+            }
+        },
+        "domestic": {
+            "worker_list_header": "قائمة المساعدين المنزليين",
+            "empty_worker_list": "قائمة المساعدين المنزليين فارغة ",
+            "new_worker": "إضافة مساعدة منزلية",
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+            }
+        },
+        "travel": {
+            "InboundServices": "زيارة قطر",
+            "OutboundServices": "السفر لخارج دول قطر",
+            "visitor_list_header": "قائمة الزوار",
+            "new_visitor": "اضافة زائر جديد",
+            "insured_list_header": "قائمة المؤمن عليهم",
+            "new_insured": "إضافة مؤمن عليه جديد",
+            "list_card": {
+                "birthday": "تاريخ الميلاد\n{}",
+                "passport_no": "{}: {}"
+            },
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد أنك تريد حذف الزائر؟"
+            }
+        },
+        "medical": {
+            "insured_list_header": "قائمة المؤمن عليهم",
+            "new_insured": "مؤمن جديد",
+            "save_button": "حفظ",
+            "list_card": {
+                "birthday": "تاريخ الميلاد\n{}",
+                "qatari_id": "{}: {}"
+            },
+            "delete_dialog": {
+                "title": "معلومات",
+                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
+            }
         }
     },
     "health": {
