@@ -283,8 +283,8 @@
             }
         },
         "Name": {
-            "LabelEn": "Name",
-            "LabelAr": "Name (Arabic)",
+            "LabelEn": "Full Name (English)",
+            "LabelAr": "Full Name (Arabic)",
             "TravelInLabel": "Visitor Name (As per passport)",
             "TravelOutLabel": "Insured Name (As per Passport)",
             "InsuredName": "Enter the Insured Name (As per Qatari Id)",
