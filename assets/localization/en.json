@@ -152,28 +152,34 @@
         "MotorClaim": "File a motor claim instantly"
     },
     "Form": {
+        "RequiredFieldsError": "All Fields Are Required",
         "CarValue": {
             "Label": "Car Value",
             "ValidationError": {
-                "Required": "This field is required"
+                "Required": "Car Value Is Required"
             }
         },
         "Color": {
             "Label": "Color",
             "ValidationError": {
-                "Required": "This field is required"
+                "Required": "Color Is Required"
             }
         },
         "Chassis": {
             "Label": "VIN (Chassis)",
             "ValidationError": {
-                "Required": "This field is required"
+                "Required": "VIN (Chassis) Is Required",
+                "MinLength": "VIN (Chassis) Should Be Greater Than Or Equal 6",
+                "MaxLength": "VIN (Chassis) Should Be Less Than 20",
+                "Format": "VIN (Chassis) accepts letters, numbers, '-', '/', '\\', and '*' characters only"
             }
         },
         "PlateNo": {
             "Label": "Plate #",
             "ValidationError": {
-                "Required": "This field is required"
+                "Required": "Plate # Is Required",
+                "Length": "Plate # Should Be Less Than Or Equal 6",
+                "Format": "Plate # Accepts Numbers Only"
             }
         },
         "InsuredRelations": {
@@ -202,7 +208,10 @@
             "TravelInLabel": "Visitor Name (As per passport)",
             "Validation": {
                 "EN": "Name in English is required",
-                "AR": "Name in Arabic is required"
+                "NameENFormat": "Arabic Not Allowed",
+                "NameENSpecialCharFormat": "Name should be english only\nSpecial Character Not Allowed",
+                "AR": "Name in Arabic is required",
+                "NameARFormat": "Name Should Contains Arabic Caracters"
             }
         },
         "PaymentType": {
@@ -233,49 +242,58 @@
         "Mobile": {
             "Lable": "Mobile",
             "Validation": {
-                "Required": "Mobile Is Required"
+                "Required": "Mobile Is Required",
+                "Format": "Phone Should Be Number Only",
+                "Length": "Phone Length Should Be 8 Digit"
             }
         },
         "SecoundryMobile": {
             "Lable": "Secoundry Mobile",
             "Validation": {
-                "Required": "Secoundry Mobile Is Required"
+                "Required": "Secoundry Mobile Is Required",
+                "Format": "Secondray Mobile Accept Number Only"
             }
         },
         "HomeMobile": {
             "Lable": "Home Mobile",
             "Validation": {
-                "Required": "Home Mobile Is Required"
+                "Required": "Home Mobile Is Required",
+                "Format": "Home Mobile Accept Number Only"
             }
         },
         "OfficeMobile": {
             "Lable": "Office Mobile",
             "Validation": {
-                "Required": "Office Mobile Is Required"
+                "Required": "Office Mobile Is Required",
+                "Format": "Office Mobile Accept Number Only"
             }
         },
         "CompanyName": {
             "Lable": "Company Name",
             "Validation": {
-                "Required": "Company Name Is Required"
+                "Required": "Company Name Is Required",
+                "Format": "Company Name Should Contain English Characters Only"
             }
         },
         "Zone": {
             "Lable": "Zone",
             "Validation": {
-                "Required": "Zone Is Required"
+                "Required": "Zone Is Required",
+                "Format": "Zone Accept # Only"
             }
         },
         "Street": {
             "Lable": "Street Address",
             "Validation": {
-                "Required": "Street Address Is Required"
+                "Required": "Street Address Is Required",
+                "Format": ""
             }
         },
         "Builder": {
             "Lable": "Builder Number",
             "Validation": {
-                "Required": "Builder Number Is Required"
+                "Required": "Builder Number Is Required",
+                "Format": "Builder Number Accept Number Only"
             }
         },
         "POBox": {
@@ -287,7 +305,8 @@
         "Address": {
             "Lable": "Address",
             "Validation": {
-                "Required": "Address Is Required"
+                "Required": "Address Is Required",
+                "Format": "The address can only include letters, numbers, commas, and -"
             }
         },
         "BoatBodyType": {
@@ -436,6 +455,12 @@
                 "Required": "Qatari ID Expiry Date Is Required"
             }
         },
+        "PassportExpiryDate": {
+            "Lable": "Passport Expiry Date",
+            "Validation": {
+                "Required": "Passport Expiry Date Is Required"
+            }
+        },
         "Validity": {
             "Lable": "Qatari ID Expiry Date",
             "Validation": {
@@ -511,7 +536,10 @@
         "Passport": {
             "Lable": "Passport",
             "Validation": {
-                "Required": "Passport Is Required"
+                "Required": "Passport Is Required",
+                "MinLength": "Passport Should Be Grater Than Or Equal 5",
+                "MaxLength": "Passport Should Be Less Than Or Equal 13",
+                "Format": "Passport Should Contains English Character Only with symbols like - or *"
             }
         },
         "ExpiryDate": {
@@ -559,6 +587,90 @@
             "Validation": {
                 "Required": "Email Is Required",
                 "Format": "Invalid Email Address"
+            }
+        },
+        "Capacity": {
+            "Lable": "",
+            "Validation": {
+                "Required": "Seating Capacity is required",
+                "Format": "Seating Capacity Should Be Number Only"
+            }
+        },
+        "ClaimAmount": {
+            "Lable": "",
+            "Validation": {
+                "Required": "Claim Amount Is Required",
+                "Format": "Claim Amount Accepts Numbers Only"
+            }
+        },
+        "Nationality": {
+            "Lable": "",
+            "Validation": {
+                "Required": "Nationality Is Required"
+            }
+        },
+        "PatientName": {
+            "Lable": "Patient Name",
+            "Hint": "",
+            "Validation": {
+                "Required": "Patient Name Is Required"
+            }
+        },
+        "ClaimDate": {
+            "Lable": "Claim Date (Treatment Date)",
+            "Validation": {
+                "Required": "Claim Date Is Required"
+            }
+        },
+        "AmountCurrency": {
+            "Lable": "Amount Currency",
+            "Validation": {
+                "Required": "Amount Currency Is Required"
+            }
+        },
+        "ClaimReason": {
+            "Lable": "Claim Reason",
+            "Validation": {
+                "Required": "Reason Is Required"
+            }
+        },
+        "AccidentDetails": {
+            "Lable": "Accident Details",
+            "Validation": {
+                "Required": "Accident Details Is Required"
+            }
+        },
+        "DriverName": {
+            "Lable": "Driver Name",
+            "Validation": {
+                "Required": "Driver Name Is Required",
+                "Format": "Driver Name Accept English Character"
+            }
+        },
+        "ManufactureYear": {
+            "Lable": "",
+            "Validation": {
+                "Required": "Manufacture Year Is Required",
+                "Format": "Manufacture Year Accept Number Only",
+                "MinLength": "Manufacture Year Should Be Greater Than 0",
+                "DigitLength": "Manufacture Year Should Be 4 Digits",
+                "MaxLength": "Manufacture Year Should Be Less Than Or Equal to Current Year"
+            }
+        },
+        "PolicyReportNo": {
+            "Lable": "Policy Report #",
+            "Validation": {
+                "Required": "Policy Report # Is Required",
+                "MinLength": "Policy Report # Should Be At Most 10 Digits",
+                "Format": "Invalid Format Policy Report #"
+            }
+        },
+        "PromoCode": {
+            "Lable": "Promo Code",
+            "Validation": {
+                "Required": "Promo Cade Field Is Required",
+                "MaxLength": "The Promo Code Value length must be 6 digits",
+                "MinLength": "The Promo Code Value length must be 6 digits"
             }
         }
     },
@@ -677,140 +789,6 @@
         "claims_btn": "Claims",
         "medical_certificate_btn": "Certificate",
         "remaining_limt_btn": "Remaining Limit"
-    },
-    "error": {
-        "input_error": {
-            "required_fields_error": "All Fields Are Required",
-            "phone_no": {
-                "phone_no_required_error": "Phone Is Required",
-                "phone_no_type_error": "Phone Should Be Number Only",
-                "phone_no_length_error": "Phone Length Should Be 8 Digit"
-            },
-            "qatar_id": {
-                "qatar_id_required_error": "Qatari ID Is Required",
-                "qatar_id_type_error": "Qatar ID Should Be Number Only",
-                "qatar_id_min_length_error": "Qatar ID Should Be 11 Digit",
-                "qatar_id_max_length_error": "Qatar ID Should Be 11 Digit"
-            },
-            "date_required_error": "Date Is Required",
-            "email": {
-                "email_required_error": "Email Is Required",
-                "email_format_error": "Invalid Email Address"
-            },
-            "start_date_required_error": "Start Date Is Required",
-            "insured_name_ar": {
-                "full_name_required_error": "Full Name Is Required",
-                "insured_name_format_error": "Name Should Contains Arabic Caracters"
-            },
-            "insured_name_en": {
-                "full_name_required_error": "Full Name Is Required",
-                "insured_name_format_error": "Arabic Not Allowed",
-                "insured_name_special_char_format_error": "Name should be english only\nSpecial Character Not Allowed"
-            },
-            "birthday_required_error": "Birthday Is Required",
-            "passport_no": {
-                "passport_no_required_error": "Passport # Is Required",
-                "passport_min_length_error": "Passport Should Be Grater Than Or Equal 5",
-                "passport_max_length_error": "Passport Should Be Less Than Or Equal 13",
-                "passport_no_type_error": "Passport Should Contains English Character Only with symbols like - or *"
-            },
-            "capacity": {
-                "capacity_required_error": "Seating Capacity is required",
-                "capacity_type_error": "Seating Capacity Should Be Number Only"
-            },
-            "plate_no": {
-                "plate_no_required_error": "Plate # Is Required",
-                "plate_no_length_error": "Plate # Should Be Less Than Or Equal 6",
-                "plate_no_type_error": "Plate # Accepts Numbers Only"
-            },
-            "insured_address": {
-                "address_required_error": "Address Is Required",
-                "address_format_error": "The address can only include letters, numbers, commas, and -"
-            },
-            "company_name": {
-                "company_name_required_error": "Company Name Is Required",
-                "company_name_format_error": "Company Name Should Contain English Characters Only"
-            },
-            "claim_amount": {
-                "claim_amount_required_error": "Claim Amount Is Required",
-                "claim_amount_format_error": "Claim Amount Accepts Numbers Only"
-            },
-            "car_value": {
-                "car_value_required_error": "Car Value Is Required"
-            },
-            "chassis_no": {
-                "chassis_no_required_error": "VIN (Chassis) Is Required",
-                "chassis_no_min_length_error": "VIN (Chassis) Should Be Greater Than Or Equal 6",
-                "chassis_no_max_length_error": "VIN (Chassis) Should Be Less Than 20",
-                "chassis_no_type_error": "VIN (Chassis) accepts letters, numbers, '-', '/', '\\', and '*' characters only"
-            },
-            "motor_color": {
-                "color_required_error": "Color Is Required"
-            },
-            "expiry_date": {
-                "expiry_date_required_error": "Expiry Date Is Required"
-            },
-            "qatarId_expiry_date": {
-                "qatarId_expiry_date_required_error": "QatarId Expiry Date Is Required"
-            },
-            "passport_expiry_date": {
-                "passport_expiry_date_required_error": "Passport Expiry Date Is Required"
-            },
-            "nationality": {
-                "nationality_required_error": "Nationality Is Required"
-            },
-            "patient": {
-                "patient_name_required_error": "Patient Name Is Required"
-            },
-            "claim_date": {
-                "claim_date_required_error": "Claim Date Is Required"
-            },
-            "amount_currency": {
-                "amount_currency_required_error": "Amount Currency Is Required"
-            },
-            "reason": {
-                "reason_required_error": "Reason Is Required"
-            },
-            "secondray_contact_no": {
-                "contact_number_type_error": "Secondray Contact # Accept Number Only"
-            },
-            "home_landline_no": {
-                "contact_number_type_error": "Home Landline # Accept Number Only"
-            },
-            "office_landline_no": {
-                "contact_number_type_error": "Office Landline # Accept Number Only"
-            },
-            "unit_no": {
-                "unit_number_type_error": "Zone Accept # Only"
-            },
-            "building_no": {
-                "building_number_type_error": "Builder Number Accept Number Only"
-            },
-            "accident_details": {
-                "accident_details_required": "Accident Details Is Required"
-            },
-            "driver_name": {
-                "driver_name_required": "Driver Name Is Required",
-                "driver_name_char_type": "Driver Name Accept English Character"
-            },
-            "manufacture_year": {
-                "manufacture_year_required": "Manufacture Year Is Required",
-                "manufacture_year_char_type": "Manufacture Year Accept Number Only",
-                "manufacture_year_min_length": "Manufacture Year Should Be Greater Than 0",
-                "manufacture_year_digit_length": "Manufacture Year Should Be 4 Digits",
-                "manufacture_year_max_length": "Manufacture Year Should Be Less Than Or Equal to Current Year"
-            },
-            "policy_report_no": {
-                "policy_report_no_required": "Policy Report # Is Required",
-                "policy_report_no_min_length": "Policy Report # Should Be At Most 10 Digits",
-                "policy_report_no_format": "Invalid Format Policy Report #"
-            },
-            "promo_code": {
-                "promo_code_required": "Promo Cade Field Is Required",
-                "promo_code_max_length": "The Promo Code Value length must be 6 digits",
-                "promo_code_min_length": "The Promo Code Value length must be 6 digits"
-            }
-        }
     },
     "response": {
         "error": {
@@ -1833,7 +1811,6 @@
         "travel": {
             "header": "Choose your travel plan",
             "required_error": "Travel Plan Is Required",
-            "insurance_services": "Package details",
             "inbound_plan_subtitle": "Policy validity up to {}",
             "haya_plan_subtitle": "Policy validity up to {}",
             "PlansNetwork": "Travel Plans Network"
@@ -1842,11 +1819,7 @@
             "selectInsured": "Choose the insurance package for the insured",
             "insurance_services": "Included Services",
             "required_error": "Plan Is Required",
-            "sum_insured": "Sum Insured: {}",
-            "min_age": "Min Age: {}",
-            "max_age": "Max Age: {}",
             "plan_benefit": "Plan Benefit",
-            "insured_no": "{insuredNumber} Insured",
             "PlansNetwork": "Medical Plans Network",
             "InsuredAge": "Insured age: {}"
         }

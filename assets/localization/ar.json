@@ -152,28 +152,34 @@
         "MotorClaim": "تقديم مطالبة تأمين المركبة على الفور"
     },
     "Form": {
+        "RequiredFieldsError": "جميع الحقول مطلوبة",
         "CarValue": {
             "Label": "القيمة التأمينية للمركبة",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "حقل القيمة التأمينية للمركبة مطلوب"
             }
         },
         "Color": {
             "Label": "اللون",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "اللون مطلوب"
             }
         },
         "Chassis": {
             "Label": "# القاعدة (الشاصيه)",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "حقل # القاعدة مطلوب",
+                "MinLength": "يجب أن يكون # القاعدة أكبر من او يساوي 6",
+                "MaxLength": "يجب أن يكون # القاعدة أقل من 20",
+                "Formate": "# القاعدة يقبل فقط الأحرف والأرقام والرموز '-', '/', '\\\\' و'*'"
             }
         },
         "PlateNo": {
             "Label": "# اللوحة",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "حقل # اللوحة مطلوب",
+                "Length": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
+                "Format": "# اللوحة يقبل الأرقام فقط"
             }
         },
         "InsuredRelations": {
@@ -202,7 +208,10 @@
             "TravelInLabel": "اسم الزائر (كما هو في جواز السفر)",
             "Validation": {
                 "EN": "الأسم بالأنجليزية مطلوب",
-                "AR": "الأسم بالعربية مطلوب"
+                "NameENFormat": "العربية غير مسموح بها",
+                "NameENSpecialCharFormat": "يجب أن يكون الاسم باللغة الإنجليزية فقط\nغير مسموح بالأحرف الخاصة",
+                "AR": "الأسم بالعربية مطلوب",
+                "NameARFormat": "يجب أن يحتوي الاسم على أحرف عربية"
             }
         },
         "PaymentType": {
@@ -233,49 +242,58 @@
         "Mobile": {
             "Lable": "# الجوال",
             "Validation": {
-                "Required": "# الجوال مطلوب"
+                "Required": "# الجوال مطلوب",
+                "Format": "يجب أن يكون الهاتف رقمًا فقط",
+                "Length": "# الهاتف يجب ان يكون 8 أرقام"
             }
         },
         "SecoundryMobile": {
             "Lable": "# الجوال الثانوي",
             "Validation": {
-                "Required": "# الجوال الثانوي مطلوب"
+                "Required": "# الجوال الثانوي مطلوب",
+                "Format": "# الاتصال الثانوي يقبل ارقام فقط"
             }
         },
         "HomeMobile": {
             "Lable": "# الهاتف المنزلي",
             "Validation": {
-                "Required": "# الهاتف المنزلي مطلوب"
+                "Required": "# الهاتف المنزلي مطلوب",
+                "Format": "# الهاتف للمنزل يقبل ارقام فقط"
             }
         },
         "OfficeMobile": {
             "Lable": "# هاتف المكتب",
             "Validation": {
-                "Required": "# هاتف المكتب مطلوب"
+                "Required": "# هاتف المكتب مطلوب",
+                "Format": "# الهاتف للمكتب يقبل ارقام فقط"
             }
         },
         "CompanyName": {
             "Lable": "اسم الشركة",
             "Validation": {
-                "Required": "اسم الشركة مطلوب"
+                "Required": "اسم الشركة مطلوب",
+                "Format": "يجب أن يحتوي اسم الشركة على أحرف إنجليزية فقط"
             }
         },
         "Zone": {
             "Lable": "المنطقة",
             "Validation": {
-                "Required": "المنطقة مطلوبة"
+                "Required": "المنطقة مطلوبة",
+                "Format": "# المنطقة يقبل ارقام فقط"
             }
         },
         "Street": {
             "Lable": "عنوان الشارع",
             "Validation": {
-                "Required": "عنوان الشارع مطلوب"
+                "Required": "عنوان الشارع مطلوب",
+                "Format": "# الشارع يقبل ارقام فقط"
             }
         },
         "Builder": {
             "Lable": "# المبنى",
             "Validation": {
-                "Required": "# المبنى مطلوب"
+                "Required": "# المبنى مطلوب",
+                "Format": "# المبنى يقبل ارقام فقط"
             }
         },
         "POBox": {
@@ -287,7 +305,8 @@
         "Address": {
             "Lable": "العنوان",
             "Validation": {
-                "Required": "العنوان مطلوب"
+                "Required": "العنوان مطلوب",
+                "Format": "العنوان يجب أن يتضمن فقط الحروف، الأرقام، الفواصل، وعلامة '-'"
             }
         },
         "BoatBodyType": {
@@ -436,6 +455,12 @@
                 "Required": "تاريخ انتهاء الصلاحية مطلوب"
             }
         },
+        "PassportExpiryDate": {
+            "Lable": "تاريخ انتهاء الصلاحية",
+            "Validation": {
+                "Required": "تاريخ انتهاء الصلاحية مطلوب"
+            }
+        },
         "Validity": {
             "Lable": "مدة صلاحية البطاقة الشخصية",
             "Validation": {
@@ -511,7 +536,10 @@
         "Passport": {
             "Lable": "جواز السفر",
             "Validation": {
-                "Required": "جواز السفر مطلوب"
+                "Required": "جواز السفر مطلوب",
+                "MinLength": "يجب أن يكون # جواز السفر أكبر من أو يساوي 5",
+                "MaxLength": "يجب أن يكون # جواز السفر أقل من أو يساوي 13",
+                "Format": "يجب أن يحتوي # جواز السفر على أحرف إنجليزية فقط مع رموز مثل - أو *"
             }
         },
         "ExpiryDate": {
@@ -559,6 +587,90 @@
             "Validation": {
                 "Required": "البريد الإلكتروني مطلوب",
                 "Email": "البريد الإلكتروني غير صالح"
+            }
+        },
+        "Capacity": {
+            "Lable": "",
+            "Validation": {
+                "Required": "حقل عدد مقاعد السيارة مطلوب",
+                "Format": "عدد مقاعد السيارة يقبل الأرقام فقط"
+            }
+        },
+        "ClaimAmount": {
+            "Lable": "",
+            "Validation": {
+                "Required": "مبلغ المطالبة مطلوب",
+                "Format": "مبلغ المطالبة يقبل الأرقام فقط"
+            }
+        },
+        "Nationality": {
+            "Lable": "",
+            "Validation": {
+                "Required": "الجنسية مطلوبة"
+            }
+        },
+        "PatientName": {
+            "Lable": "اسم المريض",
+            "Hint": "",
+            "Validation": {
+                "Required": "اسم المريض مطلوب"
+            }
+        },
+        "ClaimDate": {
+            "Lable": "Claim Date (Treatment Date)",
+            "Validation": {
+                "Required": "تاريخ المطالبة مطلوب"
+            }
+        },
+        "AmountCurrency": {
+            "Lable": "Amount Currency",
+            "Validation": {
+                "Required": "العملة مطلوبة"
+            }
+        },
+        "ClaimReason": {
+            "Lable": "Claim Reason",
+            "Validation": {
+                "Required": "السبب مطلوب"
+            }
+        },
+        "AccidentDetails": {
+            "Lable": "تفاصيل الحادث",
+            "Validation": {
+                "Required": "تفاصيل الحادث مطلوبة"
+            }
+        },
+        "DriverName": {
+            "Lable": "اسم السائق",
+            "Validation": {
+                "Required": "اسم السائق مطلوب",
+                "Format": "اسم السائق يقبل الأحرف الإنجليزية"
+            }
+        },
+        "ManufactureYear": {
+            "Lable": "",
+            "Validation": {
+                "Required": "سنة تصنيع السيارة مطلوب",
+                "Format": "سنة الصنع يقبل ارقام فقط",
+                "MinLength": "يجب أن تكون سنة التصنيع أكبر من 0",
+                "DigitLength": "يجب أن تكون سنة الصنع 4 أرقام",
+                "MaxLength": "يجب أن تكون سنة التصنيع أقل من أو تساوي السنة الحالية"
+            }
+        },
+        "PolicyReportNo": {
+            "Lable": "Policy Report #",
+            "Validation": {
+                "Required": "# تقرير الوثيقة مطلوب",
+                "MinLength": "يجب أن يكون # تقرير الشرطة 10 أرقام على الأكثر",
+                "Format": "# تقرير الوثيقة التنسيق غير صالح"
+            }
+        },
+        "PromoCode": {
+            "Lable": "Promo Code",
+            "Validation": {
+                "Required": "الرمز الترويجي مطلوب",
+                "MaxLength": "يجب أن يكون الرمز الترويجي من 6 أرقام",
+                "MinLength": "يجب أن يكون الرمز الترويجي من 6 أرقام"
             }
         }
     },
@@ -677,144 +789,6 @@
         "claims_btn": "المطالبات",
         "medical_certificate_btn": "الشهادة",
         "remaining_limt_btn": "الرصيد الصحي المتبقي"
-    },
-    "error": {
-        "input_error": {
-            "required_fields_error": "جميع الحقول مطلوبة",
-            "phone_no": {
-                "phone_no_required_error": "حقل الهاتف مطلوب",
-                "phone_no_type_error": "يجب أن يكون الهاتف رقمًا فقط",
-                "phone_no_length_error": "# الهاتف يجب ان يكون 8 أرقام"
-            },
-            "qatar_id": {
-                "qatar_id_required_error": "حقل الرقم الشخصي مطلوب",
-                "qatar_id_type_error": "يجب أن يكون الرقم الشخصي رقمًا فقط",
-                "qatar_id_min_length_error": "يجب أن يتكون الرقم الشخصي من 11 رقم",
-                "qatar_id_max_length_error": "يجب أن يتكون الرقم الشخصي من 11 رقم"
-            },
-            "date_required_error": "حقل التاريخ مطلوب",
-            "email": {
-                "email_required_error": "حقل البريد الالكتروني مطلوب",
-                "email_format_error": "عنوان البريد الإلكتروني غير صحيح"
-            },
-            "start_date_required_error": "لا يمكنك المتابعة بدون اختيار تاريخ بدء تأمينك",
-            "insured_name_ar": {
-                "full_name_required_error": "حقل اسم المؤمن عليه مطلوب",
-                "insured_name_format_error": "يجب أن يحتوي الاسم على أحرف عربية"
-            },
-            "insured_name_en": {
-                "full_name_required_error": "حقل اسم المؤمن عليه مطلوب",
-                "insured_name_format_error": "العربية غير مسموح بها",
-                "insured_name_special_char_format_error": "يجب أن يكون الاسم باللغة الإنجليزية فقط\nغير مسموح بالأحرف الخاصة"
-            },
-            "birthday_required_error": "حقل عيد الميلاد مطلوب",
-            "passport_no": {
-                "passport_no_required_error": "حقل # جواز السفر مطلوب",
-                "passport_min_length_error": "يجب أن يكون # جواز السفر أكبر من أو يساوي 5",
-                "passport_max_length_error": "يجب أن يكون # جواز السفر أقل من أو يساوي 13",
-                "passport_no_type_error": "يجب أن يحتوي # جواز السفر على أحرف إنجليزية فقط مع رموز مثل - أو *"
-            },
-            "capacity": {
-                "capacity_required_error": "حقل عدد مقاعد السيارة مطلوب",
-                "capacity_type_error": "عدد مقاعد السيارة يقبل الأرقام فقط"
-            },
-            "plate_no": {
-                "plate_no_required_error": "حقل # اللوحة مطلوب",
-                "plate_no_length_error": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
-                "plate_no_type_error": "# اللوحة يقبل الأرقام فقط"
-            },
-            "insured_address": {
-                "address_required_error": "العنوان مطلوب",
-                "address_format_error": "العنوان يجب أن يتضمن فقط الحروف، الأرقام، الفواصل، وعلامة '-'"
-            },
-            "company_name": {
-                "company_name_required_error": "اسم الشركة مطلوب",
-                "company_name_format_error": "يجب أن يحتوي اسم الشركة على أحرف إنجليزية فقط"
-            },
-            "claim_amount": {
-                "claim_amount_required_error": "مبلغ المطالبة مطلوب",
-                "claim_amount_format_error": "مبلغ المطالبة يقبل الأرقام فقط"
-            },
-            "car_value": {
-                "car_value_required_error": "حقل القيمة التأمينية للمركبة مطلوب"
-            },
-            "chassis_no": {
-                "chassis_no_required_error": "حقل # القاعدة مطلوب",
-                "chassis_no_min_length_error": "يجب أن يكون # القاعدة أكبر من او يساوي 6",
-                "chassis_no_max_length_error": "يجب أن يكون # القاعدة أقل من 20",
-                "chassis_no_type_error": "# القاعدة يقبل فقط الأحرف والأرقام والرموز '-', '/', '\\\\' و'*'"
-            },
-            "motor_color": {
-                "color_required_error": "اللون مطلوب"
-            },
-            "expiry_date": {
-                "expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب",
-                "invalid_expiry_date": "تاريخ انتهاء الصلاحية غير صالح"
-            },
-            "qatarId_expiry_date": {
-                "qatarId_expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
-            },
-            "passport_expiry_date": {
-                "passport_expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
-            },
-            "nationality": {
-                "nationality_required_error": "الجنسية مطلوبة"
-            },
-            "patient": {
-                "patient_name_required_error": "اسم المريض مطلوب"
-            },
-            "claim_date": {
-                "claim_date_required_error": "تاريخ المطالبة مطلوب"
-            },
-            "amount_currency": {
-                "amount_currency_required_error": "العملة مطلوبة"
-            },
-            "reason": {
-                "reason_required_error": "السبب مطلوب"
-            },
-            "secondray_contact_no": {
-                "contact_number_type_error": "# الاتصال الثانوي يقبل ارقام فقط"
-            },
-            "home_landline_no": {
-                "contact_number_type_error": "# الهاتف للمنزل يقبل ارقام فقط"
-            },
-            "office_landline_no": {
-                "contact_number_type_error": "# الهاتف للمكتب يقبل ارقام فقط"
-            },
-            "unit_no": {
-                "unit_number_type_error": "# المنطقة يقبل ارقام فقط"
-            },
-            "street_no": {
-                "street_number_type_error": "# الشارع يقبل ارقام فقط"
-            },
-            "building_no": {
-                "building_number_type_error": "# المبنى يقبل ارقام فقط"
-            },
-            "accident_details": {
-                "accident_details_required": "تفاصيل الحادث مطلوبة"
-            },
-            "driver_name": {
-                "driver_name_required": "اسم السائق مطلوب",
-                "driver_name_char_type": "اسم السائق يقبل الأحرف الإنجليزية"
-            },
-            "manufacture_year": {
-                "manufacture_year_required": "سنة تصنيع السيارة مطلوب",
-                "manufacture_year_char_type": "سنة الصنع يقبل ارقام فقط",
-                "manufacture_year_min_length": "يجب أن تكون سنة التصنيع أكبر من 0",
-                "manufacture_year_digit_length": "يجب أن تكون سنة الصنع 4 أرقام",
-                "manufacture_year_max_length": "يجب أن تكون سنة التصنيع أقل من أو تساوي السنة الحالية"
-            },
-            "policy_report_no": {
-                "policy_report_no_required": "# تقرير الوثيقة مطلوب",
-                "policy_report_no_min_length": "يجب أن يكون # تقرير الشرطة 10 أرقام على الأكثر",
-                "policy_report_no_format": "# تقرير الوثيقة التنسيق غير صالح"
-            },
-            "promo_code": {
-                "promo_code_required": "الرمز الترويجي مطلوب",
-                "promo_code_max_length": "يجب أن يكون الرمز الترويجي من 6 أرقام",
-                "promo_code_min_length": "يجب أن يكون الرمز الترويجي من 6 أرقام"
-            }
-        }
     },
     "response": {
         "error": {
@@ -1847,7 +1821,6 @@
         "travel": {
             "header": "اختر خطة سفرك",
             "required_error": "خطة السفر مطلوبة",
-            "insurance_services": "تفاصيل الحزمة",
             "inbound_plan_subtitle": "صلاحية السياسة تصل إلى {}",
             "haya_plan_subtitle": "صلاحية السياسة تصل إلى {}",
             "PlansNetwork": "شبكة خطط السفر"
@@ -1856,11 +1829,7 @@
             "selectInsured": "اختر الباقة التأمينية للمؤمَّن ",
             "insurance_services": "الخدمات المضمنة",
             "required_error": "الخطة مطلوبة",
-            "sum_insured": "المؤمن عليهم: {}",
-            "min_age": "الحد الأدنى للعمر: {}",
-            "max_age": "الحد الأقصى للعمر: {}",
             "plan_benefit": "مزايا الخطة",
-            "insured_no": "{insuredNumber} مؤمن عليه",
             "PlansNetwork": "شبكة الخطط الطبية",
             "InsuredAge": "عمر المؤمن عليه: {}"
         }
