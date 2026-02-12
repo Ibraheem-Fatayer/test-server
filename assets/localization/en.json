@@ -721,7 +721,7 @@
             }
         },
         "AdditionalReason": {
-            "Lable": "Additional Reason (Optional)",
+            "Lable": "Reason Note (Optional)",
             "Validation": {}
         },
         "ClaimNotes": {
