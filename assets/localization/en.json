@@ -927,25 +927,6 @@
         }
     },
     "medical_group": {
-        "add_claim": {
-            "labels": {
-                "patient_name": "Patient Name",
-                "claim_date": "Claim Date (Treatment Date)",
-                "currency": "Amount Currency",
-                "claim_amount": "Claim Amount",
-                "claim_reason": "Claim Reason",
-                "additional_reason": "Additional Reason (Optional)",
-                "notes": "Notes (Optional)"
-            },
-            "hint": {
-                "patient": "Select Patient Name",
-                "currency": "Select Amount Currency",
-                "reason": "Select Reason"
-            },
-            "success_message": {
-                "create_success": "Claim Created Successfully"
-            }
-        },
         "no_image": "No Image Found",
         "no_card": "No Card Found",
         "no_medical_card": "No Medical Card Found",
@@ -1175,62 +1156,6 @@
             "outbound": "Travel Outside Qatar"
         },
         "steps": {
-            "labels": {
-                "qatar_id": "Qatar ID",
-                "qatari_id_expiry_date": "QID Expiry Date",
-                "passport_no": "Passport #",
-                "passport_expiry_date": "Passport Expiry Date",
-                "insured_name": "Insured Name (As per Passport)",
-                "nationality": "Select the visitor nationality.",
-                "destination": "Select the visitor Destination.",
-                "country": "Select the insured country of residence",
-                "insured_birthday": "Birthday",
-                "gender": "Select Gender",
-                "phone_number": "Phone #",
-                "email": "Email",
-                "insured_info_header": "How can we reach you?",
-                "travel_period_header": "Choose Policy Start Date",
-                "start_date": "Start Date",
-                "travel_type_header": "Select your custom period"
-            },
-            "form_validation": {
-                "error": {
-                    "passport_expiry": {
-                        "passport_expiry_required": "Passport Expiry Date Is Required"
-                    },
-                    "qatari_id_expiry": {
-                        "qatari_id_expiry_required": "Qatari ID Expiry Date Is Required"
-                    },
-                    "birthday": {
-                        "birthday_required": "Insured Birthday Is Required"
-                    },
-                    "gender": {
-                        "gender_required": "Insured Gender Is Required"
-                    },
-                    "phone": {
-                        "phone_invalid": "Phone Should Be Valid"
-                    },
-                    "start_date": {
-                        "start_date_required": "Start Date Is Required"
-                    },
-                    "end_date": {
-                        "end_date_required": "End Date Is Required",
-                        "end_date_error": "End Date Should Be Greater Than Start Date"
-                    },
-                    "travel_type": {
-                        "travel_type_required": "Custom Travel Period Is Required"
-                    },
-                    "destination": {
-                        "destination_required": "Destination Is Required"
-                    },
-                    "nationality": {
-                        "nationality_required": "Nationality Is Required"
-                    },
-                    "country": {
-                        "country_required": "Country Is Required"
-                    }
-                }
-            },
             "insured_list": {
                 "visitor_list_header": "List of Visitor People",
                 "new_visitor": "Add new visitor",
@@ -1241,36 +1166,6 @@
                     "birthday": "Birthday\n{}",
                     "passport_no": "{}: {}"
                 },
-                "label": {
-                    "passport_no": "Passport #",
-                    "passport_expiry_date": "Passport Expiry Date",
-                    "phone_number_label": "Phone #",
-                    "email_label": "Email",
-                    "full_name_label": "Full Name",
-                    "gender_label": "Gender",
-                    "nationality_label": "Nationality",
-                    "birthday_label": "Birthday"
-                },
-                "form_validation": {
-                    "error": {
-                        "passport_expiry_date": {
-                            "passport_expiry_date_required": "Passport Expiry Date Is Required"
-                        },
-                        "gender": {
-                            "gender_required": "Select Gender"
-                        },
-                        "nationality": {
-                            "nationality_required_error": "Select Nationality"
-                        },
-                        "birthday": {
-                            "birthday_required": "Visitor Birthday Is Required"
-                        }
-                    }
-                },
-                "hint": {
-                    "gender": "Select Gender",
-                    "nationality": "Select Nationality"
-                },
                 "delete_dialog": {
                     "title": "Info",
                     "description": "Are You Sure You Want To Delete This Visitor?"
@@ -1280,36 +1175,6 @@
     },
     "medical_create_quotation": {
         "steps": {
-            "labels": {
-                "qatar_id": "Qatar Id",
-                "qatari_id_expiry_date": "Qatari ID Expiry Date",
-                "insured_name": "Enter the Insured Name (As per Qatari Id)",
-                "nationality": "Select the insured Nationality",
-                "birthday": "Birthday",
-                "gender": "Select Insured Gender",
-                "insured_info_header": "How can we reach you?",
-                "phone_number": "Phone #",
-                "email": "Email",
-                "medical_period": "Period of Cover",
-                "start_date": "Start Date",
-                "end_date": "End Date: {}"
-            },
-            "form_validation": {
-                "error": {
-                    "birthday": {
-                        "birthday_required_error": "Birthday Is Required"
-                    },
-                    "gender": {
-                        "gender_required_error": "Insured Gender Is Required"
-                    },
-                    "phone": {
-                        "phone_invalid_error": "Phone Should Be Valid"
-                    },
-                    "start_date": {
-                        "start_date_required": "Start Date Is Required"
-                    }
-                }
-            },
             "insured_list": {
                 "insured_list_header": "List of Insured People",
                 "new_insured": "Add new insured",
@@ -1317,40 +1182,6 @@
                 "list_card": {
                     "birthday": "Birthday\n{}",
                     "qatari_id": "{}: {}"
-                },
-                "label": {
-                    "national_id_label": "Insured Qatari ID",
-                    "expiry_date_label": "Qatari ID Expiry Date",
-                    "phone_number_label": "Phone #",
-                    "email_label": "Email",
-                    "full_name_label": "Full Name",
-                    "gender_label": "Gender",
-                    "nationality_label": "Nationality",
-                    "birthday_label": "Date of birth",
-                    "passport_no_label": "Passport"
-                },
-                "form_validation": {
-                    "error": {
-                        "qatari_id": {
-                            "qatari_id_exists": "Insured Qatari ID Already Exists"
-                        },
-                        "qatari_id_expiry": {
-                            "qatari_id_expiry_required": "Qatari ID Expiry Date Is Required"
-                        },
-                        "gender": {
-                            "gender_required": "Select Gender"
-                        },
-                        "nationality": {
-                            "nationality_required_error": "Select Nationality"
-                        },
-                        "birthday": {
-                            "birthday_required": "Insured Birthday Is Required"
-                        }
-                    }
-                },
-                "hint": {
-                    "gender": "Select Gender",
-                    "nationality": "Select Nationality"
                 },
                 "delete_dialog": {
                     "title": "Info",
@@ -1576,91 +1407,10 @@
         "qatari_id_exist_error": "The Qatari ID should be distinct from the current owner's ID"
     },
     "motor_claim": {
-        "new_insured_claim": {
-            "labels": {
-                "policy_report_no": "Policy Report #",
-                "accident_date": "Accident Date",
-                "accident_time": "Accident Time",
-                "cause_of_loss": "Cause Of Loss",
-                "loss_nature": "Loss Nature",
-                "responsibility": "Responsibility",
-                "accident_details": "Accident Details"
-            },
-            "hint": {
-                "cause_of_loss": "Select Cause Of Loss",
-                "loss_nature": "Select Loss Nature",
-                "responsibility": "Select Responsibility"
-            }
-        },
         "claim_attachment": {
             "vehicle_label": "Car Image",
             "car_registration_id_lable": "Car Registration ID",
             "policy_report": "Policy Report"
-        },
-        "new_non_insured_claim": {
-            "labels": {
-                "qatar_id": "Qatari ID",
-                "expiry_date": "QID Expiry Date",
-                "insured_name": "Your Name",
-                "birthday": "Birthday",
-                "gender": "Gender",
-                "email": "Email",
-                "mobile": "Mobile",
-                "driver_name": "Driver Name",
-                "make": "Make",
-                "model": "Model",
-                "plate_number": "Plate #",
-                "chassis_number": "VIN (Chassis)",
-                "manufacture_year": "Year of Manufacture",
-                "policy_report_no": "Policy Report #",
-                "accident_date": "Accident Date",
-                "accident_time": "Accident Time",
-                "cause_of_loss": "Cause Of Loss",
-                "loss_nature": "Loss Nature",
-                "responsibility": "Responsibility",
-                "accident_details": "Accident Details"
-            },
-            "hint": {
-                "cause_of_loss": "Select Cause Of Loss",
-                "loss_nature": "Select Loss Nature",
-                "responsibility": "Select Responsibility",
-                "gender": "Select Gender",
-                "make": "Select Car Make",
-                "modle": "Select Model"
-            },
-            "form_validation": {
-                "expiry_date": {
-                    "expiry_date_required_error": "Expiry Date Is Required",
-                    "invalid_expiry_date": "Expiry Date Format Is Invalid"
-                },
-                "birthday": {
-                    "birthday_required_error": "Birthday Is Required"
-                },
-                "gender": {
-                    "gender_required_error": "Insured Gender Is Required"
-                },
-                "make": {
-                    "make_required_error": "Make Is Required"
-                },
-                "modle": {
-                    "model_required_error": "Model Is Required"
-                },
-                "accident_date": {
-                    "accident_date_required_error": "Accident Date Is Required"
-                },
-                "accident_time": {
-                    "accident_time_required_error": "Accident Time Is Required"
-                },
-                "cause_of_loss": {
-                    "cause_of_loss_required_error": "Cause Of Loss Is Required"
-                },
-                "loss_nature": {
-                    "loss_nature_required_error": "Loss Nature Is Required"
-                },
-                "resoonsibility": {
-                    "resoonsibility_required_error": "Resoonsibility Is Required"
-                }
-            }
         }
     },
     "BottomNavigationBar": {

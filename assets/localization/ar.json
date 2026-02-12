@@ -987,25 +987,6 @@
         }
     },
     "medical_group": {
-        "add_claim": {
-            "labels": {
-                "patient_name": "اسم المريض",
-                "claim_date": "تاريخ المطالبة",
-                "currency": "العُملة",
-                "claim_amount": "مبلغ المطالبة",
-                "claim_reason": "سبب المطالبة",
-                "additional_reason": "سبب إضافي (اختياري)",
-                "notes": "ملاحظات (اختياري)"
-            },
-            "hint": {
-                "patient": "إختر اسم المريض",
-                "currency": "إختر العملة ",
-                "reason": "إختر السبب"
-            },
-            "success_message": {
-                "create_success": "تم إنشاء المطالبة بنجاح"
-            }
-        },
         "no_image": "لم يتم العثور على صورة",
         "no_card": "لم يتم العثور على بطاقات",
         "no_medical_card": "لم يتم العثور على بطاقة صحية",
@@ -1173,72 +1154,11 @@
         }
     },
     "travel_create_quotation": {
-        "travel_dialog": {
-            "title": "استخدام معلومات تسجيل الدخول",
-            "important": "مهم!",
-            "description": "هل تريد استخدام معلومات تسجيل الدخول الخاصة بك؟"
-        },
         "travel_services": {
             "inbound": "زيارة قطر",
             "outbound": "السفر لخارج دول قطر"
         },
         "steps": {
-            "labels": {
-                "qatar_id": "الرقم الشخصي",
-                "qatari_id_expiry_date": "الصلاحية",
-                "passport_no": "# جواز السفر",
-                "passport_expiry_date": "الصلاحية",
-                "insured_name": "اسم المؤمن عليه (حسب جواز السفر)",
-                "nationality": "برجاء اختيار الجنسية",
-                "destination": "اختر وجهة السفر.",
-                "country": "برجاء اختيار بلد الإقامة الحالية",
-                "insured_birthday": "تاريخ الميلاد",
-                "gender": "إختر الجنس",
-                "phone_number": "الهاتف المحمول",
-                "email": "البريد الالكتروني",
-                "insured_info_header": "كيف يمكننا التواصل معك؟",
-                "travel_period_header": "مدة السفر",
-                "start_date": "تاريخ بدء الوثيقة",
-                "travel_type_header": "إختر الفترة المخصصة الخاصة بك"
-            },
-            "form_validation": {
-                "error": {
-                    "passport_expiry": {
-                        "passport_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
-                    },
-                    "qatari_id_expiry": {
-                        "qatari_id_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
-                    },
-                    "birthday": {
-                        "birthday_required": "تاريخ ميلاد المؤمن عليه مطلوب"
-                    },
-                    "gender": {
-                        "gender_required": "الجنس اللمؤمن عليه مطلوب"
-                    },
-                    "phone": {
-                        "phone_invalid": "يجب أن يكون الهاتف صحيح"
-                    },
-                    "start_date": {
-                        "start_date_required": "تاريخ البدء الوثيقة مطلوب"
-                    },
-                    "end_date": {
-                        "end_date_required": "تاريخ انتهاء الوثيقة مطلوب",
-                        "end_date_error": "يجب أن يكون تاريخ الانتهاء أكبر من تاريخ البدء"
-                    },
-                    "travel_type": {
-                        "travel_type_required": "فترة السفر المخصصة مطلوبة"
-                    },
-                    "destination": {
-                        "destination_required": "وجهة السفر مطلوبة"
-                    },
-                    "nationality": {
-                        "nationality_required": "الجنسية مطلوبة"
-                    },
-                    "country": {
-                        "country_required": "اختر الدولة"
-                    }
-                }
-            },
             "insured_list": {
                 "visitor_list_header": "قائمة الزوار",
                 "new_visitor": "اضافة زائر جديد",
@@ -1249,36 +1169,6 @@
                     "birthday": "تاريخ الميلاد\n{}",
                     "passport_no": "{}: {}"
                 },
-                "label": {
-                    "passport_no": "# جواز السفر",
-                    "passport_expiry_date": "الصلاحية",
-                    "phone_number_label": "الهاتف المحمول",
-                    "email_label": "عبر البريد الالكتروني",
-                    "full_name_label": "الإسم بالكامل",
-                    "gender_label": "الجنس",
-                    "nationality_label": "الجنسية",
-                    "birthday_label": "تاريخ الميلاد"
-                },
-                "form_validation": {
-                    "error": {
-                        "passport_expiry_date": {
-                            "passport_expiry_date_required": "تاريخ انتهاء الصلاحية مطلوب"
-                        },
-                        "gender": {
-                            "gender_required": "الجنس مطلوب"
-                        },
-                        "nationality": {
-                            "nationality_required_error": "الجنسية مطلوبة"
-                        },
-                        "birthday": {
-                            "birthday_required": "تاريخ ميلاد الزائر مطلوب"
-                        }
-                    }
-                },
-                "hint": {
-                    "gender": "برجاء الاختيار",
-                    "nationality": "برجاء الاختيار"
-                },
                 "delete_dialog": {
                     "title": "معلومات",
                     "description": "هل أنت متأكد أنك تريد حذف الزائر؟"
@@ -1288,36 +1178,6 @@
     },
     "medical_create_quotation": {
         "steps": {
-            "labels": {
-                "qatar_id": "الرقم الشخصي",
-                "qatari_id_expiry_date": "الصلاحية",
-                "insured_name": "أدخل اسم المؤمن عليه (حسب الهوية الشخصية)",
-                "nationality": "برجاء اختيار الجنسية",
-                "birthday": "تاريخ الميلاد",
-                "gender": "إختر الجنس",
-                "insured_info_header": "كيف يمكننا التواصل معك؟",
-                "phone_number": "الهاتف المحمول",
-                "email": "البريد الالكتروني",
-                "medical_period": "تاريخ بدء الوثيقة الخاصة بك",
-                "start_date": "تاريخ بدء الوثيقة",
-                "end_date": "تاريخ إنتهاء الوثيقة: {}"
-            },
-            "form_validation": {
-                "error": {
-                    "birthday": {
-                        "birthday_required_error": "عيد الميلاد مطلوب"
-                    },
-                    "gender": {
-                        "gender_required_error": "جنس المؤمن عليه مطلوب"
-                    },
-                    "phone": {
-                        "phone_invalid_error": "يجب أن يكون الهاتف صحيح"
-                    },
-                    "start_date": {
-                        "start_date_required": "تاريخ البدء مطلوب"
-                    }
-                }
-            },
             "insured_list": {
                 "insured_list_header": "قائمة المؤمن عليهم",
                 "new_insured": "مؤمن جديد",
@@ -1325,40 +1185,6 @@
                 "list_card": {
                     "birthday": "تاريخ الميلاد\n{}",
                     "qatari_id": "{}: {}"
-                },
-                "label": {
-                    "national_id_label": "الرقم الشخصي",
-                    "expiry_date_label": "الصلاحية",
-                    "phone_number_label": "الهاتف المحمول",
-                    "email_label": "عبر البريد الالكتروني",
-                    "full_name_label": "الإسم بالكامل",
-                    "gender_label": "الجنس",
-                    "nationality_label": "الجنسية",
-                    "birthday_label": "تاريخ الميلاد",
-                    "passport_no_label": "# جواز السفر"
-                },
-                "form_validation": {
-                    "error": {
-                        "qatari_id": {
-                            "qatari_id_exists": "البطاقة الشخصية القطرية اللمؤمن عليها موجودة"
-                        },
-                        "qatari_id_expiry": {
-                            "qatari_id_expiry_required": "تاريخ انتهاء الصلاحية مطلوب"
-                        },
-                        "gender": {
-                            "gender_required": "الجنس مطلوب"
-                        },
-                        "nationality": {
-                            "nationality_required_error": "الجنسية مطلوبة"
-                        },
-                        "birthday": {
-                            "birthday_required": "تاريخ ميلاد المؤمن عليه مطلوب"
-                        }
-                    }
-                },
-                "hint": {
-                    "gender": "برجاء الاختيار",
-                    "nationality": "برجاء الاختيار"
                 },
                 "delete_dialog": {
                     "title": "معلومات",
@@ -1587,90 +1413,10 @@
         "qatari_id_exist_error": "يجب أن تكون البطاقة الشخصية القطرية مختلفة عن هوية المالك الحالية"
     },
     "motor_claim": {
-        "new_insured_claim": {
-            "labels": {
-                "policy_report_no": "# التقرير للوثيقة",
-                "accident_date": "تاريخ الحادث",
-                "accident_time": "وقت الحادث",
-                "cause_of_loss": "سبب الخسارة",
-                "loss_nature": "طبيعة الخسارة",
-                "responsibility": "مسؤولية",
-                "accident_details": "تفاصيل الحادث"
-            },
-            "hint": {
-                "cause_of_loss": "برجاء الاختيار",
-                "loss_nature": "برجاء الاختيار",
-                "responsibility": "برجاء الاختيار"
-            }
-        },
         "claim_attachment": {
             "vehicle_label": "مركبة",
             "car_registration_id_lable": "استمارة السيارة",
             "policy_report": "تقرير الوثيقة"
-        },
-        "new_non_insured_claim": {
-            "labels": {
-                "qatar_id": "الرقم الشخصي",
-                "expiry_date": "الصلاحية",
-                "insured_name": "الاسم",
-                "birthday": "تاريخ الميلاد",
-                "gender": "الجنس",
-                "email": "البريد الإلكتروني",
-                "mobile": "# الهاتف",
-                "driver_name": "اسم السائق",
-                "make": "نوع السيارة",
-                "model": "طراز السيارة",
-                "plate_number": "# اللوحة",
-                "chassis_number": "# القاعدة (الشاصيه)",
-                "manufacture_year": "سنة الصنع",
-                "policy_report_no": "# التقرير للوثيقة",
-                "accident_date": "تاريخ الحادث",
-                "accident_time": "وقت الحادث",
-                "cause_of_loss": "سبب الخسارة",
-                "loss_nature": "طبيعة الخسارة",
-                "responsibility": "مسؤولية",
-                "accident_details": "تفاصيل الحادث"
-            },
-            "hint": {
-                "cause_of_loss": "برجاء الاختيار",
-                "loss_nature": "برجاء الاختيار",
-                "responsibility": "برجاء الاختيار",
-                "gender": "برجاء الاختيار",
-                "make": "برجاء الاختيار",
-                "modle": "برجاء الاختيار"
-            },
-            "form_validation": {
-                "expiry_date": {
-                    "expiry_date_required_error": "تاريخ انتهاء الصلاحية مطلوب"
-                },
-                "birthday": {
-                    "birthday_required_error": "عيد الميلاد مطلوب"
-                },
-                "gender": {
-                    "gender_required_error": "جنس المؤمن عليه مطلوب"
-                },
-                "make": {
-                    "make_required_error": "مطلوب نوع السيارة"
-                },
-                "modle": {
-                    "model_required_error": "مطلوب طراز السيارة"
-                },
-                "accident_date": {
-                    "accident_date_required_error": "تاريخ الحادث مطلوب"
-                },
-                "accident_time": {
-                    "accident_time_required_error": "وقت الحادث مطلوب"
-                },
-                "cause_of_loss": {
-                    "cause_of_loss_required_error": "مطلوب سبب الخسارة"
-                },
-                "loss_nature": {
-                    "loss_nature_required_error": "طبيعة الخسارة مطلوبة"
-                },
-                "resoonsibility": {
-                    "resoonsibility_required_error": "المسؤولية مطلوبة"
-                }
-            }
         }
     },
     "BottomNavigationBar": {
