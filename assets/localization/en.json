@@ -1499,16 +1499,6 @@
             "benefits_4": "Repatriation Of Mortal Remains"
         }
     },
-    "NewInsuredList": {
-        "worker_list_header": "List Of Domistic Helper",
-        "empty_list": "Domestic helper list is empty",
-        "new_worker": "Add New Worker",
-        "another_worker": "Add Another Worker",
-        "delete_dialog": {
-            "title": "Info",
-            "description": "Are You Sure You Want To Delete This Insured?"
-        }
-    },
     "Plans": {
         "SumInsured": "* Sum insured: {}",
         "Deductible": "* Deductible: {}",
@@ -1537,53 +1527,30 @@
             "InsuredAge": "Insured age: {}"
         }
     },
+    "NewInsuredList": {
+        "worker_list_header": "List Of Domistic Helper",
+        "empty_list": "Domestic helper list is empty",
+        "new_worker": "Add New Worker",
+        "another_worker": "Add Another Worker",
+        "beneficiaries_header": "List Of beneficiaries",
+        "empty_beneficiary_list": "Beneficiary list is empty",
+        "new_beneficiaries": "Add New Beneficiary",
+        "visitor_list_header": "List of Visitor People",
+        "new_visitor": "Add new visitor",
+        "insured_list_header": "List of Insured People",
+        "new_insured": "Add new insured",
+        "delete_dialog": {
+            "title": "Info",
+            "description": "Are You Sure You Want To Delete This Insured?",
+            "Beneficiarydescription": "Are You Sure You Want To Delete This Beneficiary?"
+        }
+    },
     "Quotatoin": {
-        "personal_accident": {
-            "beneficiaries_header": "List Of beneficiaries",
-            "empty_beneficiary_list": "Beneficiary list is empty",
-            "new_beneficiaries": "Add New Beneficiary",
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Beneficiary?"
-            }
-        },
-        "domestic": {
-            "worker_list_header": "List Of Domistic Helper",
-            "empty_worker_list": "Domestic helper list is empty",
-            "new_worker": "Add Domistic Helper",
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Insured?"
-            }
-        },
-        "travel": {
-            "InboundServices": "Inbound/Visiting Qatar",
-            "OutboundServices": "Travel Outside Qatar",
-            "visitor_list_header": "List of Visitor People",
-            "new_visitor": "Add new visitor",
-            "insured_list_header": "List of Insured People",
-            "new_insured": "Add new insured",
-            "list_card": {
-                "birthday": "Birthday\n{}",
-                "passport_no": "{}: {}"
-            },
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Visitor?"
-            }
-        },
-        "medical": {
-            "insured_list_header": "List of Insured People",
-            "new_insured": "Add new insured",
-            "save_button": "Save",
-            "list_card": {
-                "birthday": "Birthday\n{}",
-                "qatari_id": "{}: {}"
-            },
-            "delete_dialog": {
-                "title": "Info",
-                "description": "Are You Sure You Want To Delete This Insured?"
-            }
+        "InboundServices": "Inbound/Visiting Qatar",
+        "OutboundServices": "Travel Outside Qatar",
+        "list_card": {
+            "birthday": "Birthday\n{}",
+            "passport_no": "{}: {}"
         }
     },
     "health": {

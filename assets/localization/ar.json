@@ -1502,16 +1502,6 @@
             "benefits_4": "إعادة جثمان الموتى"
         }
     },
-    "NewInsuredList": {
-        "worker_list_header": "قائمة المساعدين المنزليين",
-        "empty_list": "قائمة المساعدين المنزليين فارغة ",
-        "new_worker": "إضافة مساعدة منزلية",
-        "another_worker": "إضافة مساعدة منزلية أخرى",
-        "delete_dialog": {
-            "title": "معلومات",
-            "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-        }
-    },
     "Plans": {
         "SumInsured": "* المبلغ المؤمن عليه: {}",
         "Deductible": "* اقتطاع: {}",
@@ -1540,53 +1530,30 @@
             "InsuredAge": "عمر المؤمن عليه: {}"
         }
     },
+    "NewInsuredList": {
+        "worker_list_header": "قائمة المساعدين المنزليين",
+        "empty_list": "قائمة المساعدين المنزليين فارغة ",
+        "new_worker": "إضافة مساعدة منزلية",
+        "another_worker": "إضافة مساعدة منزلية أخرى",
+        "beneficiaries_header": "الأشخاص المستفيدون",
+        "empty_beneficiary_list": "لم تقم بإضافة أي مستفيد بعد",
+        "new_beneficiaries": "أضف مستفيدًا جديدًا",
+        "visitor_list_header": "قائمة الزوار",
+        "new_visitor": "اضافة زائر جديد",
+        "insured_list_header": "قائمة المؤمن عليهم",
+        "new_insured": "إضافة مؤمن عليه جديد",
+        "delete_dialog": {
+            "title": "معلومات",
+            "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟",
+            "Beneficiarydescription": "هل أنت متأكد من حذف هذا المستفيد؟"
+        }
+    },
     "Quotatoin": {
-        "personal_accident": {
-            "beneficiaries_header": "الأشخاص المستفيدون",
-            "empty_beneficiary_list": "لم تقم بإضافة أي مستفيد بعد",
-            "new_beneficiaries": "أضف مستفيدًا جديدًا",
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد من حذف هذا المستفيد؟"
-            }
-        },
-        "domestic": {
-            "worker_list_header": "قائمة المساعدين المنزليين",
-            "empty_worker_list": "قائمة المساعدين المنزليين فارغة ",
-            "new_worker": "إضافة مساعدة منزلية",
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-            }
-        },
-        "travel": {
-            "InboundServices": "زيارة قطر",
-            "OutboundServices": "السفر لخارج دول قطر",
-            "visitor_list_header": "قائمة الزوار",
-            "new_visitor": "اضافة زائر جديد",
-            "insured_list_header": "قائمة المؤمن عليهم",
-            "new_insured": "إضافة مؤمن عليه جديد",
-            "list_card": {
-                "birthday": "تاريخ الميلاد\n{}",
-                "passport_no": "{}: {}"
-            },
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد أنك تريد حذف الزائر؟"
-            }
-        },
-        "medical": {
-            "insured_list_header": "قائمة المؤمن عليهم",
-            "new_insured": "مؤمن جديد",
-            "save_button": "حفظ",
-            "list_card": {
-                "birthday": "تاريخ الميلاد\n{}",
-                "qatari_id": "{}: {}"
-            },
-            "delete_dialog": {
-                "title": "معلومات",
-                "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟"
-            }
+        "InboundServices": "زيارة قطر",
+        "OutboundServices": "السفر لخارج دول قطر",
+        "list_card": {
+            "birthday": "تاريخ الميلاد\n{}",
+            "passport_no": "{}: {}"
         }
     },
     "health": {
