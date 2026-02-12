@@ -153,6 +153,7 @@
     },
     "Form": {
         "RequiredFieldsError": "All Fields Are Required",
+        "InsuredContactHeader": "How can we reach you?",
         "Make": {
             "Label": "Make",
             "Hint": "Select Car Make",
@@ -217,6 +218,7 @@
             }
         },
         "Destination": {
+            "Header": "Select the visitor Destination.",
             "Validation": {
                 "Required": "Destination Is Required"
             }
@@ -285,6 +287,7 @@
             "LabelAr": "Name (Arabic)",
             "TravelInLabel": "Visitor Name (As per passport)",
             "TravelOutLabel": "Insured Name (As per Passport)",
+            "InsuredName": "Enter the Insured Name (As per Qatari Id)",
             "Validation": {
                 "EN": "Name in English is required",
                 "NameENFormat": "Arabic Not Allowed",
@@ -550,6 +553,8 @@
         },
         "SelectNationality": {
             "Lable": "Nationality",
+            "Header": "Select the visitor nationality.",
+            "InsuredHeader": "Select the insured Nationality",
             "Hint": "Select Nationality",
             "Validation": {
                 "Required": "Nationality Is Required"
@@ -647,6 +652,8 @@
         },
         "StartDate": {
             "Lable": "Start Date",
+            "Header": "Choose Policy Start Date",
+            "MedicalPeriod": "Period of Cover",
             "Validation": {
                 "Required": "Start Date Is Required"
             }
@@ -1542,7 +1549,8 @@
         "delete_dialog": {
             "title": "Info",
             "description": "Are You Sure You Want To Delete This Insured?",
-            "Beneficiarydescription": "Are You Sure You Want To Delete This Beneficiary?"
+            "Beneficiarydescription": "Are You Sure You Want To Delete This Beneficiary?",
+            "Visitordescription": "Are You Sure You Want To Delete This Visitor?"
         }
     },
     "Quotatoin": {

@@ -153,6 +153,7 @@
     },
     "Form": {
         "RequiredFieldsError": "جميع الحقول مطلوبة",
+        "InsuredContactHeader": "كيف يمكننا التواصل معك؟",
         "Make": {
             "Label": "نوع السيارة",
             "Hint": "برجاء الاختيار",
@@ -217,6 +218,7 @@
             }
         },
         "Destination": {
+            "Header": "اختر وجهة السفر.",
             "Validation": {
                 "Required": "وجهة السفر مطلوبة"
             }
@@ -285,6 +287,7 @@
             "LabelAr": "الأسم (عربي)",
             "TravelInLabel": "اسم الزائر (كما هو في جواز السفر)",
             "TravelOutLabel": "اسم المؤمن عليه (حسب جواز السفر)",
+            "InsuredName": "أدخل اسم المؤمن عليه (حسب الهوية الشخصية)",
             "Validation": {
                 "EN": "الأسم بالأنجليزية مطلوب",
                 "NameENFormat": "العربية غير مسموح بها",
@@ -550,6 +553,8 @@
         },
         "SelectNationality": {
             "Lable": "الجنسية",
+            "Header": "Select the visitor nationality.",
+            "InsuredHeader": "برجاء اختيار الجنسية",
             "Hint": "برجاء الاختيار",
             "Validation": {
                 "Required": "يرجى إدخال جنسية المؤمن عليه"
@@ -647,6 +652,8 @@
         },
         "StartDate": {
             "Lable": "تاريخ بدء الوثيقة",
+            "Header": "مدة السفر",
+            "MedicalPeriod": "تاريخ بدء الوثيقة الخاصة بك",
             "Validation": {
                 "Required": "يرجى إدخال تاريخ بدء الوثيقة"
             }
@@ -1545,7 +1552,8 @@
         "delete_dialog": {
             "title": "معلومات",
             "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟",
-            "Beneficiarydescription": "هل أنت متأكد من حذف هذا المستفيد؟"
+            "Beneficiarydescription": "هل أنت متأكد من حذف هذا المستفيد؟",
+            "Visitordescription": "هل أنت متأكد من حذف هذا الزائر؟"
         }
     },
     "Quotatoin": {
