@@ -675,6 +675,30 @@
                 "Required": "تفاصيل الحادث مطلوبة"
             }
         },
+        "CauseOfLoss": {
+            "Lable": "سبب الخسارة",
+            "Validation": {
+                "Required": "مطلوب سبب الخسارة"
+            }
+        },
+        "LossNature": {
+            "Lable": "طبيعة الخسارة",
+            "Validation": {
+                "Required": "طبيعة الخسارة مطلوبة"
+            }
+        },
+        "AccidentTime": {
+            "Lable": "وقت الحادث",
+            "Validation": {
+                "Required": "وقت الحادث مطلوب"
+            }
+        },
+        "AccidentDate": {
+            "Lable": "تاريخ الحادث",
+            "Validation": {
+                "Required": "تاريخ الحادث مطلوب"
+            }
+        },
         "DriverName": {
             "Lable": "اسم السائق",
             "Validation": {

@@ -675,6 +675,30 @@
                 "Required": "Accident Details Is Required"
             }
         },
+        "CauseOfLoss": {
+            "Lable": "Cause Of Loss",
+            "Validation": {
+                "Required": "Cause Of Loss Is Required"
+            }
+        },
+        "LossNature": {
+            "Lable": "Loss Nature",
+            "Validation": {
+                "Required": "Loss Nature Is Required"
+            }
+        },
+        "AccidentTime": {
+            "Lable": "Accident Time",
+            "Validation": {
+                "Required": "Accident Time Is Required"
+            }
+        },
+        "AccidentDate": {
+            "Lable": "Accident Date",
+            "Validation": {
+                "Required": "Accident Date Is Required"
+            }
+        },
         "DriverName": {
             "Lable": "Driver Name",
             "Validation": {
