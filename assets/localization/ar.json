@@ -695,12 +695,6 @@
                 "Format": "مبلغ المطالبة يقبل الأرقام فقط"
             }
         },
-        "Nationality": {
-            "Lable": "",
-            "Validation": {
-                "Required": "الجنسية مطلوبة"
-            }
-        },
         "PatientName": {
             "Lable": "اسم المريض",
             "Hint": "",

@@ -695,12 +695,6 @@
                 "Format": "Claim Amount Accepts Numbers Only"
             }
         },
-        "Nationality": {
-            "Lable": "",
-            "Validation": {
-                "Required": "Nationality Is Required"
-            }
-        },
         "PatientName": {
             "Lable": "Patient Name",
             "Hint": "",
