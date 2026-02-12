@@ -1072,7 +1072,7 @@
         "reason": "Reason: {}",
         "additional_reason": "Additional Reason: {}",
         "receive_teatment_date": "Date of receive teatment: {}",
-        "submitted_date": "Submitted Date: {}",
+        "submitted_date": "Transaction date: {}",
         "notes": "Notes: {}",
         "date": "Date: {}",
         "latest_status": "Status: {}",
