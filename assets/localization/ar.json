@@ -153,6 +153,26 @@
     },
     "Form": {
         "RequiredFieldsError": "جميع الحقول مطلوبة",
+        "Country": {
+            "Label": "برجاء اختيار بلد الإقامة الحالية",
+            "Validation": {
+                "Required": "اختر الدولة"
+            }
+        },
+        "TravelType": {
+            "Validation": {
+                "Required": "فترة السفر المخصصة مطلوبة"
+            }
+        },
+        "Destination": {
+            "Validation": {
+                "Required": "وجهة السفر مطلوبة"
+            }
+        },
+        "TravelInboundPeriod": {
+            "Label": "إختر الفترة المخصصة الخاصة بك",
+            "Validation": {}
+        },
         "CarValue": {
             "Label": "القيمة التأمينية للمركبة",
             "ValidationError": {
@@ -206,6 +226,7 @@
             "LabelEn": "الأسم",
             "LabelAr": "الأسم (عربي)",
             "TravelInLabel": "اسم الزائر (كما هو في جواز السفر)",
+            "TravelOutLabel": "اسم المؤمن عليه (حسب جواز السفر)",
             "Validation": {
                 "EN": "الأسم بالأنجليزية مطلوب",
                 "NameENFormat": "العربية غير مسموح بها",
@@ -471,6 +492,7 @@
         },
         "SelectNationality": {
             "Lable": "الجنسية",
+            "Hint": "برجاء الاختيار",
             "Validation": {
                 "Required": "يرجى إدخال جنسية المؤمن عليه"
             }
@@ -483,6 +505,7 @@
         },
         "SelectGender": {
             "Lable": "الجنس",
+            "Hint": "برجاء الاختيار",
             "Validation": {
                 "Required": "يرجى إدخال جنس المؤمن عليه"
             }
@@ -572,8 +595,10 @@
         },
         "EndDate": {
             "Lable": "تاريخ الانتهاء",
+            "LableValue": "تاريخ الانتهاء: {}",
             "Validation": {
-                "Required": "تاريخ الانتهاء مطلوب"
+                "Required": "تاريخ الانتهاء مطلوب",
+                "EndDateError": "يجب أن يكون تاريخ الانتهاء أكبر من تاريخ البدء"
             }
         },
         "spike_update_profile": {
@@ -635,6 +660,14 @@
             "Validation": {
                 "Required": "السبب مطلوب"
             }
+        },
+        "AdditionalReason": {
+            "Lable": "سبب إضافي (اختياري)",
+            "Validation": {}
+        },
+        "ClaimNotes": {
+            "Lable": "ملاحظات (اختياري)",
+            "Validation": {}
         },
         "AccidentDetails": {
             "Lable": "تفاصيل الحادث",

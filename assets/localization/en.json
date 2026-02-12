@@ -153,6 +153,26 @@
     },
     "Form": {
         "RequiredFieldsError": "All Fields Are Required",
+        "Country": {
+            "Label": "Select the insured country of residence",
+            "Validation": {
+                "Required": "Country Is Required"
+            }
+        },
+        "TravelType": {
+            "Validation": {
+                "Required": "Custom Travel Period Is Required"
+            }
+        },
+        "Destination": {
+            "Validation": {
+                "Required": "Destination Is Required"
+            }
+        },
+        "TravelInboundPeriod": {
+            "Label": "Select your custom period",
+            "Validation": {}
+        },
         "CarValue": {
             "Label": "Car Value",
             "ValidationError": {
@@ -206,6 +226,7 @@
             "LabelEn": "Name",
             "LabelAr": "Name (Arabic)",
             "TravelInLabel": "Visitor Name (As per passport)",
+            "TravelOutLabel": "Insured Name (As per Passport)",
             "Validation": {
                 "EN": "Name in English is required",
                 "NameENFormat": "Arabic Not Allowed",
@@ -471,6 +492,7 @@
         },
         "SelectNationality": {
             "Lable": "Nationality",
+            "Hint": "Select Nationality",
             "Validation": {
                 "Required": "Nationality Is Required"
             }
@@ -483,6 +505,7 @@
         },
         "SelectGender": {
             "Lable": "Gender",
+            "Hint": "Select Gender",
             "Validation": {
                 "Required": "Gender Is Required"
             }
@@ -572,8 +595,10 @@
         },
         "EndDate": {
             "Lable": "End Date",
+            "LableValue": "End Date: {}",
             "Validation": {
-                "Required": "End Date Is Required"
+                "Required": "End Date Is Required",
+                "EndDateError": "End Date Should Be Greater Than Start Date"
             }
         },
         "spike_update_profile": {
@@ -635,6 +660,14 @@
             "Validation": {
                 "Required": "Reason Is Required"
             }
+        },
+        "AdditionalReason": {
+            "Lable": "Additional Reason (Optional)",
+            "Validation": {}
+        },
+        "ClaimNotes": {
+            "Lable": "Notes (Optional)",
+            "Validation": {}
         },
         "AccidentDetails": {
             "Lable": "Accident Details",
