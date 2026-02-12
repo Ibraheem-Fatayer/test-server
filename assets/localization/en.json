@@ -1067,7 +1067,7 @@
         "birthday": "Birthday",
         "expiry_date": "Expiry Date",
         "claim_date": "Claim Date",
-        "claim_no": "No.",
+        "claim_no": "Claim #:",
         "amount": "Claimed Amount: {}",
         "reason": "Reason: {}",
         "additional_reason": "Additional Reason: {}",
