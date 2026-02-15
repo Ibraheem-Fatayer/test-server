@@ -1,1733 +1,1730 @@
 {
-    "no_route_found": "لا توجد شاشة",
-    "or": "او",
-    "session_timeout": "انتهت صلاحية الجلسة، يرجى تسجيل الدخول مرة أخرى",
-    "DismissButton": "حسنا",
-    "CurrentVersion": "الاصدار الحالي: {}",
-    "best_offers": "أفضل العروض",
-    "quotation_information": "تفاصيل الطلب",
-    "Boat": "القارب",
-    "sorry": "للأسف",
-    "all": "الكل",
-    "InValid": "غير مفعّلة",
-    "valid": "فعال",
-    "expired": "منتهي",
-    "drop_down_hint": "البحث..",
-    "news_title": "ما هو الجديد؟",
-    "edit_chassis_note": "ملاحظة: يمكنك تغيير # لوحة الترخيص أو # الهيكل مرة واحدة فقط",
-    "create_new_quotation": "إنشاء عرض سعر جديد",
-    "visitor_link_empty": "لا يوجد شيء لعرضه في الوقت الحالي.",
-    "travel_empty_list": "قائمة وثائق تأمين السفر فارغة",
-    "medical_empty_list": "قائمة وثائق التأمين الطبي فارغة",
-    "CarNotSupportForInsurance": "عذراً، هذه السيارة غير مدعومة حالياً للتأمين",
-    "about_dig": "كيانات المجموعة",
-    "about_logo_history": "تاريخ الشعار",
-    "read_more": "اقرأ المزيد",
-    "read_less": "اقرأ أقل",
-    "Scan": "مسح",
-    "Camera": ":كاميرا",
-    "Gallery": "المعرض",
-    "SelectPlan": "أختيار الخطة",
-    "ShowPlanBenefit": "عرض مزايا الخطة",
-    "NationalID": "الرقم الشخصي : ",
-    "ExpiryOn": "تاريخ الانتهاء :",
-    "PolicyNO": "# الوثيقة : ",
+    "no_route_found": "No Route Found",
+    "or": "OR",
+    "session_timeout": "Session timeout please login again",
+    "DismissButton": "Dismiss",
+    "CurrentVersion": "Current Version: {}",
+    "best_offers": "Best Offers",
+    "quotation_information": "Quotation information",
+    "Boat": "Boat",
+    "sorry": "We'r Sorry",
+    "all": "All",
+    "InValid": "In-Valid",
+    "valid": "Valid",
+    "expired": "Expired",
+    "drop_down_hint": "Search..",
+    "news_title": "What's New?",
+    "edit_chassis_note": "*You can change the license plate # or chassis # only once.",
+    "create_new_quotation": "Create new quotation",
+    "visitor_link_empty": "There’s nothing to display right now.",
+    "travel_empty_list": "Travel Insurance list is empty",
+    "medical_empty_list": "Medical Insurance list is empty",
+    "CarNotSupportForInsurance": "Sorry, this car is currently not supported for insurance.",
+    "about_dig": "Group Entities",
+    "about_logo_history": "Logo History",
+    "read_more": "Read More",
+    "read_less": "Read Less",
+    "Scan": "Scan",
+    "Camera": "Camera",
+    "Gallery": "Gallery",
+    "SelectPlan": "Select Plan",
+    "ShowPlanBenefit": "Show Plan Benefit",
+    "NationalID": "National ID :",
+    "ExpiryOn": "Expire on :",
+    "PolicyNO": "Policy No :",
     "ContactUs": {
-        "title": "تواصل معنا",
-        "description": "نقدّر ملاحظاتك. يرجى مشاركة أفكارك أو اقتراحاتك أو مخاوفك معنا."
+        "title": "Contact Us",
+        "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
     },
     "SuggesstionAndComplaints": {
-        "title": "الاقتراحات والشكاوى",
-        "description": "نقدّر ملاحظاتك. يرجى مشاركة أفكارك أو اقتراحاتك أو مخاوفك معنا."
+        "title": "Suggesstion and complaints",
+        "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
     },
     "Profile": {
-        "Passport": "جواز السفر",
-        "QID_Passport": "الهوية القطرية / جواز السفر",
-        "QID_Details": "تفاصيل الهوية القطرية",
-        "Passport_Details": "تفاصيل جواز السفر",
-        "Personal_Contact": "البيانات الشخصية و وسائل التواصل",
-        "Personal": "القسم الشخصي",
-        "Contact": "قسم التواصل",
-        "Employment": "الوظيفة",
-        "EmploymentDetails": "تفاصيل الوظيفة",
-        "Resident": "مكان الإقامة / الدولة الأم",
-        "ResidentDetails": "تفاصيل العنوان داخل قطر",
-        "leave_profile": "لديك تغييرات غير محفوظة. هل أنت متأكد أنك تريد مغادرة الصفحة دون حفظ المعلومات؟",
-        "update_warning": "لتحديث ملفك الشخصي، يجب تعديل حقل واحد على الأقل",
-        "QatariIDImageError": "يجب إرفاق صورة الهوية القطرية لتحديث البيانات"
+        "Passport": "Passport",
+        "QID_Passport": "Qatari ID/Passport",
+        "QID_Details": "Qatari ID Details",
+        "Passport_Details": "Passport ID Details",
+        "Personal_Contact": "Personal and contact",
+        "Personal": "Personal Section",
+        "Contact": "Contact Section",
+        "Employment": "Employment",
+        "EmploymentDetails": "Employment Details",
+        "Resident": "Resident/Home Country",
+        "ResidentDetails": "Qatar local address details",
+        "leave_profile": "You have unsaved changes. Are you sure you want to leave this page without saving your information?",
+        "update_warning": "To update your profile you should change at least one field",
+        "QatariIDImageError": "Qatari ID image must be attached to update the information"
     },
     "theme": {
-        "title": "المظهر",
-        "dark": "الوضع الداكن",
-        "light": "الوضع الفاتح",
-        "system": "كما في النظام",
-        "note": "عند تحديد ”كما في النظام“، سيتبع التطبيق مظهر جهازك تلقائيًا."
+        "title": "Appearance",
+        "dark": "Dark mode",
+        "light": "Light mode",
+        "system": "As a system",
+        "note": "When 'As a system' is selected, DIG will follow your device theme automatically."
     },
     "TextSize": {
-        "title": "حجم الخط",
-        "small": "صغير",
-        "medium": "متوسط",
-        "large": "كبير",
-        "system": "كما في النظام",
-        "note": "عند اختيار ”كما في النظام“، سيقوم تطبيق DIG بضبط حجم النص تلقائيًا ليتوافق مع إعدادات جهازك."
+        "title": "Text Size",
+        "small": "Small",
+        "medium": "Medium",
+        "large": "Large",
+        "system": "As a system",
+        "note": "When 'As a system' is selected, DIG will follow your device text size automatically."
     },
     "error_state": {
-        "plans": "لم يتم العثور على خطة، يرجى المحاولة مرة أخرى.",
-        "review_order": "لم يتم العثور على تاريخ المراجعة، يرجى المحاولة مرة أخرى.",
-        "payment_provider": "لم يتم العثور على مزود الدفع، يرجى المحاولة مرة أخرى.",
-        "incomplete": "لم يتم العثور على عرض سعر",
-        "no_faqs_found": "لم يتم العثور على أسئلة شائعة",
-        "no_about_found": "لم يتم العثور على معلومات عنا",
-        "no_offers_found": "لم يتم العثور على عروض",
-        "no_news_found": "لم يتم العثور على الأخبار",
-        "no_offer_details_found": "لم يتم العثور على تفاصيل العرض",
-        "failed_load_policy": "فشل تحميل البوالص",
-        "failed_load_policy_information": "فشل تحميل معلومات البوليصة",
-        "no_result_found": "لم يتم العثور على نتائج",
-        "no_result_found_desc": "عذرًا، لم نتمكن من العثور على أي نتائج",
-        "no_medical_card": "ليس لديك أي بطاقة طبية",
-        "no_network_provider": "ليس لديك أي مزود شبكة",
-        "no_medical_document": "ليس لديك أي مستند طبي",
-        "couldnot_result_found": "لم نتمكن من العثور على أي نتائج",
-        "no_policies": "لم يتم العثور على وثائق",
-        "policies_empty_message": "ليس لديك أي وثائق حتى الآن. ابدأ بإصدار وثيقتك الأولى لرؤيتها هنا."
+        "plans": "No plan found, please try again.",
+        "review_order": "Review date not found, please try again.",
+        "payment_provider": "Payment provider not found, please try again.",
+        "incomplete": "No quotation found",
+        "no_faqs_found": "No FAQs found",
+        "no_about_found": "No About Us found",
+        "no_offers_found": "No offers found",
+        "no_news_found": "No News found",
+        "no_offer_details_found": "No offer details found",
+        "failed_load_policy": "Failed to load your policies",
+        "failed_load_policy_information": "Failed to load policy information",
+        "no_result_found": "No result found",
+        "no_result_found_desc": "Sorry, we could'nt find any result",
+        "no_medical_card": "You don't have any medical card",
+        "no_network_provider": "You don't have any network provider",
+        "no_medical_document": "You don't have any medical document",
+        "couldnot_result_found": "We could'nt find any result",
+        "no_policies": "No Policies Found",
+        "policies_empty_message": "You don't have any policies yet. Start by issuing your first policy to see it here."
     },
     "about_us": {
         "executive": {
-            "title": "الأعضاء التنفيذيين",
-            "description": "يضم فريق القيادة التنفيذية في مجموعة الدوحة للتأمين نخبة من الخبراء المخضرمين ذوي الخبرة الواسعة في التأمين والتمويل والإدارة الاستراتيجية. وتضمن قيادتهم استمرار نمو المجموعة وتميزها التشغيلي والتزامها الراسخ بتقديم قيمة مضافة لأصحاب المصلحة في الأسواق المحلية والدولية."
+            "title": "Executive Members",
+            "description": "The Executive Leadership Team at Doha Insurance Group comprises seasoned professionals with deep expertise in insurance, finance, and strategic management. Their leadership ensures the Group’s continued growth, operational excellence, and unwavering commitment to delivering value to stakeholders across local and international markets."
         },
         "board": {
-            "title": "أعضاء مجلس الإدارة",
-            "description": "يتولى مجلس إدارة مجموعة الدوحة للتأمين الإشراف الاستراتيجي والحوكمة، بما يضمن أعلى معايير المساءلة والشفافية والنزاهة المؤسسية. ويضم المجلس قادةً مرموقين ذوي خبرات متنوعة في مجالات المالية وإدارة المخاطر والأعمال الدولية، ويلعب دورًا محوريًا في توجيه رؤية المجموعة طويلة الأمد ونموها المستدام."
+            "title": "Board Members",
+            "description": "The Board of Directors at Doha Insurance Group provides strategic oversight and governance, ensuring the highest standards of accountability, transparency, and corporate integrity. Comprising respected leaders with diverse backgrounds in finance, risk management, and international business, the Board plays a vital role in guiding the Group’s long-term vision and sustainable growth."
         }
     },
     "Faq": {
-        "app_bar": "الأسئلة الشائعة",
-        "Title": "الأسئلة الشائعة",
-        "SearchHint": "ابحث في الأسئلة الشائعة...",
+        "app_bar": "FAQ",
+        "Title": "Frequently Asked Questions",
+        "SearchHint": "Search FAQs...",
         "Categories": {
-            "All": "الكل",
-            "Motor": "المركبات",
-            "Medical": "الطبية",
-            "Travel": "السفر"
+            "All": "All",
+            "Motor": "Motor",
+            "Medical": "Medical",
+            "Travel": "Travel"
         }
     },
     "SOSEmergency": {
-        "Title": "زر الطوارئ SOS",
-        "EmergencyNumbers": "الشرطة، الإسعاف، الإطفاء (الخط الرئيسي)",
-        "CivilOrFireDepartment": "الدفاع المدني / قسم الإطفاء",
-        "MobileWorldwideEmergency": "الاتصال الدولي للطوارئ",
-        "HukoomiGovernmentCallCenter": "مركز الاتصال الحكومي",
-        "GeneralElectricityandWaterCorporation": "طوارئ الكهرباء (كهرماء)"
+        "Title": "Emergency SOS",
+        "EmergencyNumbers": "Police, Ambulance, Fire (Main Line)",
+        "CivilOrFireDepartment": "Civil Defense / Fire Department",
+        "MobileWorldwideEmergency": "International GSM Emergency",
+        "HukoomiGovernmentCallCenter": "Government Services Support (Hukoomi)",
+        "GeneralElectricityandWaterCorporation": "Electricity Emergency (Kahramaa)"
     },
     "MainAppService": {
-        "Branches": "فروعنا",
-        "Offers": "عروض DIG",
-        "DefenseTactics": "تكتيكات الدفاع",
-        "TalkToSanad": "تحدث إلى سند"
+        "Branches": "Branches",
+        "Offers": "DIG Offers",
+        "DefenseTactics": "Defense Tactics",
+        "TalkToSanad": "Talk to sanad"
     },
     "DashBoard": {
-        "numbers": "العدد:",
-        "EmptyPolicies": "لا تملك وثيقة تأمين حتى الآن. أنشئ وثيقة جديدة للمتابعة",
-        "EmptyMotorPolicy": "لا تملك وثيقة تأمين مركبة حتى الآن. أنشئ وثيقة جديدة للمتابعة",
-        "EmptyTravelPolicy": "لا تملك وثيقة تأمين سفر حتى الآن. أنشئ وثيقة جديدة للمتابعة",
-        "EmptyMedicalPolicy": "لا تملك وثيقة تأمين صحي حتى الآن. أنشئ وثيقة جديدة للمتابعة",
-        "EmptyDomisticHelper": "ليس لديك تأمين للعمالة المنزلية بعد. أنشئ بوليصة جديدة للمتابعة.",
-        "EmptyPersonalAccedent": "لا يوجد لديك تأمين حوادث شخصية بعد. أنشئ بوليصة جديدة للمتابعة.",
-        "EmptyBoat": "لا يوجد لديك تأمين للقارب بعد. أنشئ بوليصة جديدة للمتابعة.",
-        "EmptyMedicalGroupPolicy": "بطاقة المجموعة الطبية الخاصة بك غير متوفرة."
+        "numbers": "Numbers:",
+        "EmptyPolicies": "You don’t have any insurance policy yet. create a new policy to continue.",
+        "EmptyMotorPolicy": "You don’t have a motor insurance policy yet. create a new policy to continue.",
+        "EmptyTravelPolicy": "You don’t have a travel insurance policy yet. create a new policy to continue.",
+        "EmptyMedicalPolicy": "You don’t have a medical insurance policy yet. create a new policy to continue.",
+        "EmptyDomisticHelper": "You don’t have a domistic helper policy yet. create a new policy to continue.",
+        "EmptyPersonalAccedent": "You don’t have a personal accedent policy yet. create a new policy to continue.",
+        "EmptyBoat": "You don’t have boat policy yet. create a new policy to continue.",
+        "EmptyMedicalGroupPolicy": "You don’t have a medical medical group card yet."
     },
     "Sos": {
-        "sos": "أرقام",
-        "emergency": "الطوارئ"
+        "sos": "SOS",
+        "emergency": "Emergency"
     },
     "Helpline": {
-        "Title": "مساعد تأمين+",
-        "CardSubTitle": "مساعدك التأميني على مدار 24/7",
-        "SubTitle": "مساعد التأمين الخاص بك",
-        "CallCenter": "مركز خدمة عملاء DIG 24/7",
-        "RoadsideAssistance": "مساعدة على الطريق 24/7",
-        "LiveChat": "الدردشة المباشرة مع أحد الموظفين",
-        "MedicalClaim": "تقديم مطالبة طبية على الفور",
-        "MotorClaim": "تقديم مطالبة تأمين المركبة على الفور"
+        "Title": "Helpline+",
+        "CardSubTitle": "Your 24/7 Insurance Assistant",
+        "SubTitle": "Your Insurance Assistant",
+        "CallCenter": "24/7 DIG Call Center",
+        "RoadsideAssistance": "24/7 Roadside Assistance",
+        "LiveChat": "Live Chat with an agent",
+        "MedicalClaim": "File a medical claim instantly",
+        "MotorClaim": "File a motor claim instantly"
     },
     "Form": {
-        "RequiredFieldsError": "جميع الحقول مطلوبة",
-        "InsuredContactHeader": "كيف يمكننا التواصل معك؟",
+        "RequiredFieldsError": "All Fields Are Required",
+        "InsuredContactHeader": "How can we reach you?",
         "Make": {
-            "Label": "نوع السيارة",
-            "Hint": "برجاء الاختيار",
-            "Header": "اختر نوع السيارة",
-            "ShowAll": "عرض الكل",
-            "ShowLess": "عرض أقل",
+            "Label": "Make",
+            "Hint": "Select Car Make",
+            "Header": "Choose Make",
+            "ShowAll": "Show All",
+            "ShowLess": "Show Less",
             "Validation": {
-                "Required": "مطلوب نوع السيارة"
+                "Required": "Make Is Required"
             }
         },
         "Model": {
-            "lLabell": "طراز السيارة",
-            "Hint": "برجاء الاختيار",
-            "Header": "اختر طراز السيارة",
+            "Label": "Model",
+            "Hint": "Select Model",
+            "Header": "Choose Model",
             "Validation": {
-                "Required": "مطلوب طراز السيارة"
+                "Required": "Model Is Required"
             }
         },
         "BodyType": {
-            "Header": "اختر شكل السيارة",
+            "Header": "Choose Body Type",
             "Validation": {
-                "Required": "شكل السيارة مطلوب"
+                "Required": "Body Type Is Required"
             }
         },
         "Usage": {
-            "Header": "اختر نوع لوحة مركبتك",
+            "Header": "Choose Vehicle Usage",
             "Validation": {
-                "Required": "نوع لوحة السيارة مطلوب"
+                "Required": "Usage Is Required"
             }
         },
         "Cylinder": {
-            "Header": "اختر عدد الأسطوانات",
+            "Header": "Choose Cylinder",
             "Validation": {
-                "Required": "عدد الاسطوانات مطلوب"
+                "Required": "Cylinder Is Required"
             }
         },
         "CarSeats": {
-            "Header": "عدد مقاعد السيارة",
-            "FromTo": "من: {} - الى: {}",
-            "AllowFromTo": "من: {} - الى: {}",
+            "Header": "Car Seats",
+            "FromTo": "From: {} - To: {}",
+            "AllowFromTo": "Allow From: {} - To: {}",
             "Validation": {
-                "Required": "حقل عدد مقاعد السيارة مطلوب",
-                "Format": "عدد مقاعد السيارة يقبل الأرقام فقط",
-                "NoData": "لم يتم العثور على بيانات لهذه المعايير"
+                "Required": "Seating Capacity is required",
+                "Format": "Seating Capacity Should Be Number Only",
+                "NoData": "No Data Found For This Criteria"
             }
         },
         "InsuranceType": {
-            "Header": "اختر نوع التأمين",
+            "Header": "Select Insurance Type",
             "Validation": {
-                "Required": "نوع التأمين مطلوب"
+                "Required": "Insurance Type Is Required"
             }
         },
         "Country": {
-            "Label": "برجاء اختيار بلد الإقامة الحالية",
+            "Label": "Select the insured country of residence",
             "Validation": {
-                "Required": "اختر الدولة"
+                "Required": "Country Is Required"
             }
         },
         "TravelType": {
             "Validation": {
-                "Required": "فترة السفر المخصصة مطلوبة"
+                "Required": "Custom Travel Period Is Required"
             }
         },
         "Destination": {
-            "Header": "اختر وجهة السفر.",
+            "Header": "Select the visitor Destination.",
             "Validation": {
-                "Required": "وجهة السفر مطلوبة"
+                "Required": "Destination Is Required"
             }
         },
         "TravelInboundPeriod": {
-            "Label": "إختر الفترة المخصصة الخاصة بك",
+            "Label": "Select your custom period",
             "Validation": {}
         },
         "CarValue": {
-            "Label": "القيمة التأمينية للمركبة",
+            "Label": "Car Value",
             "ValidationError": {
-                "Required": "حقل القيمة التأمينية للمركبة مطلوب",
-                "MinLength": "القيمة التأمينية للمركبة يجب أن تكون أكبر من أو تساوي {}",
-                "MaxLength": "القيمة التأمينية للمركبة يجب أن يكون أصغر من أو يساوي {}"
+                "Required": "Car Value Is Required",
+                "MinLength": "Car Value should be grater than or equal {}",
+                "MaxLength": "Car Value should be less than or equal {}"
             }
         },
         "Color": {
-            "Label": "اللون",
-            "Hint": "برجاء الاختيار",
-            "header": "اختر لون السيارة",
+            "Label": "Color",
+            "Hint": "Select Color",
+            "header": "Choose Car Color",
             "ValidationError": {
-                "Required": "اللون مطلوب"
+                "Required": "Color Is Required"
             }
         },
         "Chassis": {
-            "Label": "# القاعدة (الشاصيه)",
+            "Label": "VIN (Chassis)",
             "ValidationError": {
-                "Required": "حقل # القاعدة مطلوب",
-                "MinLength": "يجب أن يكون # القاعدة أكبر من او يساوي 6",
-                "MaxLength": "يجب أن يكون # القاعدة أقل من 20",
-                "Formate": "# القاعدة يقبل فقط الأحرف والأرقام والرموز '-', '/', '\\\\' و'*'"
+                "Required": "VIN (Chassis) Is Required",
+                "MinLength": "VIN (Chassis) Should Be Greater Than Or Equal 6",
+                "MaxLength": "VIN (Chassis) Should Be Less Than 20",
+                "Format": "VIN (Chassis) accepts letters, numbers, '-', '/', '\\', and '*' characters only"
             }
         },
         "PlateNo": {
-            "Label": "# اللوحة",
-            "HavePlate": "أريد إدخال # اللوحة",
-            "NotHavePlate": "مركبتي بدون # لوحة",
+            "Label": "Plate #",
+            "HavePlate": "I have a plate number",
+            "NotHavePlate": "I do not have a plate number",
             "ValidationError": {
-                "Required": "حقل # اللوحة مطلوب",
-                "Length": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
+                "Required": "Plate # Is Required",
+                "Length": "Plate # Should Be Less Than Or Equal 6",
                 "Format": "Plate number must be 6 digits only. R, T, or Q is allowed at the end."
             }
         },
         "InsuredRelations": {
-            "Label": "صلة القرابة بحامل الوثيقة",
+            "Label": "Relation to holder",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "This field is required"
             }
         },
         "SuggestionsOrComplaints": {
-            "Label": "مقتراحات او شكاوى",
+            "Label": "Suggestions Or Complaints",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب"
+                "Required": "This field is required"
             }
         },
         "ContactNote": {
-            "Label": "ملاحظات",
+            "Label": "Note",
             "ValidationError": {
-                "Required": "هذا الحقل مطلوب",
-                "MinLength": "الحد الأدنى 5 أحرف",
-                "MaxLength": "الحد الأقصى 500 حرف"
+                "Required": "This field is required",
+                "MinLength": "Minimum 5 characters",
+                "MaxLength": "Maximum 500 characters"
             }
         },
         "Name": {
-            "LabelEn": "الاسم الكامل (بالإنجليزية)",
-            "LabelAr": "الاسم الكامل (بالعربية)",
-            "TravelInLabel": "اسم الزائر (كما هو في جواز السفر)",
-            "TravelOutLabel": "اسم المؤمن عليه (حسب جواز السفر)",
-            "InsuredName": "أدخل اسم المؤمن عليه (حسب الهوية الشخصية)",
+            "LabelEn": "Full Name (English)",
+            "LabelAr": "Full Name (Arabic)",
+            "TravelInLabel": "Visitor Name (As per passport)",
+            "TravelOutLabel": "Insured Name (As per Passport)",
+            "InsuredName": "Enter the Insured Name (As per Qatari Id)",
             "Validation": {
-                "EN": "الأسم بالأنجليزية مطلوب",
-                "NameENFormat": "العربية غير مسموح بها",
-                "NameENSpecialCharFormat": "يجب أن يكون الاسم باللغة الإنجليزية فقط\nغير مسموح بالأحرف الخاصة",
-                "AR": "الأسم بالعربية مطلوب",
-                "NameARFormat": "يجب أن يحتوي الاسم على أحرف عربية",
+                "EN": "Name in English is required",
+                "NameENFormat": "Arabic Not Allowed",
+                "NameENSpecialCharFormat": "Name should be english only\nSpecial Character Not Allowed",
+                "AR": "Name in Arabic is required",
+                "NameARFormat": "Name Should Contains Arabic Caracters",
                 "NameARLength": "This field length must be from 3 to 50"
             }
         },
         "PaymentType": {
-            "Label": "طريقة الدفع",
+            "Label": "Payment Type",
             "ValidationError": {
-                "PaymentTypeRequired": "طريقة الدفع مطلوبة",
-                "PaymentValueRequired": "{} مطلوب"
+                "PaymentTypeRequired": "Payment type is required",
+                "PaymentValueRequired": "{} is required"
             }
         },
         "Birthday": {
-            "Lable": "تاريخ الميلاد",
+            "Lable": "Date of Birth",
             "Validation": {
-                "Required": "تاريخ الميلاد مطلوب"
+                "Required": "Date of Birth Is Required"
             }
         },
         "TitleName": {
-            "Lable": "اللقب",
+            "Lable": "Title Name",
             "Validation": {
-                "Required": "اللقب مطلوب"
+                "Required": "Title Name Is Required"
             }
         },
         "IBAN": {
-            "Lable": "# الآيبان",
+            "Lable": "IBAN",
             "Validation": {
-                "Required": "# الآيبان مطلوب"
+                "Required": "IBAN Is Required"
             }
         },
         "Mobile": {
-            "Lable": "رقم الهاتف",
+            "Lable": "Mobile Number",
             "Validation": {
-                "Required": "# رقم الهاتف مطلوب",
-                "Format": "يجب أن يكون الهاتف رقمًا فقط",
-                "Length": "# الهاتف يجب ان يكون 8 أرقام"
+                "Required": "Mobile Number Is Required",
+                "Format": "Phone Should Be Number Only",
+                "Length": "Phone Length Should Be 8 Digit"
             }
         },
         "SecoundryMobile": {
-            "Lable": "# الجوال الثانوي",
+            "Lable": "Secoundry Mobile",
             "Validation": {
-                "Required": "# الجوال الثانوي مطلوب",
-                "Format": "# الاتصال الثانوي يقبل ارقام فقط"
+                "Required": "Secoundry Mobile Is Required",
+                "Format": "Secondray Mobile Accept Number Only"
             }
         },
         "HomeMobile": {
-            "Lable": "# الهاتف المنزلي",
+            "Lable": "Home Mobile",
             "Validation": {
-                "Required": "# الهاتف المنزلي مطلوب",
-                "Format": "# الهاتف للمنزل يقبل ارقام فقط"
+                "Required": "Home Mobile Is Required",
+                "Format": "Home Mobile Accept Number Only"
             }
         },
         "OfficeMobile": {
-            "Lable": "# هاتف المكتب",
+            "Lable": "Office Mobile",
             "Validation": {
-                "Required": "# هاتف المكتب مطلوب",
-                "Format": "# الهاتف للمكتب يقبل ارقام فقط"
+                "Required": "Office Mobile Is Required",
+                "Format": "Office Mobile Accept Number Only"
             }
         },
         "CompanyName": {
-            "Lable": "اسم الشركة",
+            "Lable": "Company Name",
             "Validation": {
-                "Required": "اسم الشركة مطلوب",
-                "Format": "يجب أن يحتوي اسم الشركة على أحرف إنجليزية فقط"
+                "Required": "Company Name Is Required",
+                "Format": "Company Name Should Contain English Characters Only"
             }
         },
         "Zone": {
-            "Lable": "المنطقة",
+            "Lable": "Zone",
             "Validation": {
-                "Required": "المنطقة مطلوبة",
-                "Format": "# المنطقة يقبل ارقام فقط"
+                "Required": "Zone Is Required",
+                "Format": "Zone Accept # Only"
             }
         },
         "Street": {
-            "Lable": "عنوان الشارع",
+            "Lable": "Street Address",
             "Validation": {
-                "Required": "عنوان الشارع مطلوب",
-                "Format": "# الشارع يقبل ارقام فقط"
+                "Required": "Street Address Is Required",
+                "Format": ""
             }
         },
         "Builder": {
-            "Lable": "# المبنى",
+            "Lable": "Builder Number",
             "Validation": {
-                "Required": "# المبنى مطلوب",
-                "Format": "# المبنى يقبل ارقام فقط"
+                "Required": "Builder Number Is Required",
+                "Format": "Builder Number Accept Number Only"
             }
         },
         "POBox": {
-            "Lable": "صندوق البريد",
+            "Lable": "P.O.Box",
             "Validation": {
-                "Required": "صندوق البريد مطلوب"
+                "Required": "P.O.Box Is Required"
             }
         },
         "Address": {
-            "Lable": "العنوان",
+            "Lable": "Address",
             "Validation": {
-                "Required": "العنوان مطلوب",
-                "Format": "العنوان يجب أن يتضمن فقط الحروف، الأرقام، الفواصل، وعلامة '-'"
+                "Required": "Address Is Required",
+                "Format": "The address can only include letters, numbers, commas, and -"
             }
         },
         "BoatBodyType": {
-            "Lable": "نوع القارب",
+            "Lable": "Boat Type",
             "Validation": {
-                "Required": "نوع القارب مطلوب"
+                "Required": "Boat Type Is Required"
             }
         },
         "BoatMarineType": {
-            "Lable": "أسم المارينا",
+            "Lable": "Marine Types",
             "Validation": {
-                "Required": "أسم المارينا مطلوب"
+                "Required": "Marine Types Is Required"
             }
         },
         "BoatMaterialType": {
-            "Lable": "نوع مادة تصنيع القارب",
+            "Lable": "Material Types",
             "Validation": {
-                "Required": "نوع مادة تصنيع القارب مطلوبة"
+                "Required": "Material Types Is Required"
             }
         },
         "BoatEngineType": {
-            "Lable": "أنواع المحرك",
+            "Lable": "Engine Types",
             "Validation": {
-                "Required": "أنواع المحرك مطلوبة"
+                "Required": "Engine Types Is Required"
             }
         },
         "BoatMaterialValue": {
-            "Lable": "قيمة القارب",
+            "Lable": "Material Value",
             "Validation": {
-                "Required": "قيمة القارب مطلوبة"
+                "Required": "Material Value Is Required"
             }
         },
         "BoatYearManufacture": {
-            "Lable": "سنة الصنع",
+            "Lable": "Year Of Manufacture",
             "Validation": {
-                "Required": "سنة الصنع مطلوبة"
+                "Required": "Year Of Manufacture Is Required"
             }
         },
         "VesselName": {
-            "Lable": "اسم القارب",
+            "Lable": "Vessel Name",
             "Validation": {
-                "Required": "اسم القارب مطلوب",
-                "MinLength": "يجب أن يكون اسم القارب أكثر من 5 حروف",
-                "MaxLength": "يجب أن يكون اسم القارب أقل من 50 حرف"
+                "Required": "Vessel Name Is Required",
+                "MinLength": "Vessel name should be grater than 5 characters",
+                "MaxLength": "Vessel name should be less than 50 characters"
             }
         },
         "BoatRegistrationNo": {
-            "Lable": "# التسجيل",
+            "Lable": "Registration #",
             "Validation": {
-                "Required": "# التسجيل مطلوب",
-                "NumberOnly": "يجب أن يحتوي # التسجيل على أرقام فقط",
-                "format": "تنسيق # التسجيل غير صحيح"
+                "Required": "Registration # Is Required",
+                "NumberOnly": "Registration # should be numbers only",
+                "format": "Invalid registration number format"
             }
         },
         "BoatWidth": {
-            "Lable": "عرض القارب",
+            "Lable": "Boat Width",
             "Validation": {
-                "Required": "عرض القارب مطلوب",
-                "NumberOnly": "يجب أن يكون عرض القارب أرقام فقط",
-                "format": "تنسيق عرض القارب غير صالح"
+                "Required": "Boat Width is required",
+                "NumberOnly": "Boat Width should be numbers only",
+                "format": "Invalid boat width format"
             }
         },
         "BoatLength": {
-            "Lable": "طول القارب",
+            "Lable": "Boat Length",
             "Validation": {
-                "Required": "طول القارب مطلوب",
-                "NumberOnly": "يجب أن يكون طول القارب أرقام فقط",
-                "format": "تنسيق طول القارب غير صالح"
+                "Required": "Boat Length is required",
+                "NumberOnly": "Boat Length should be numbers only",
+                "format": "Invalid boat Length format"
             }
         },
         "BoatDepth": {
-            "Lable": "عمق القارب",
+            "Lable": "Boat Depth",
             "Validation": {
-                "Required": "عمق القارب مطلوب",
-                "NumberOnly": "يجب أن يكون عمق القارب أرقام فقط",
-                "format": "تنسيق عمق القارب غير صالح"
+                "Required": "Boat Depth is required",
+                "NumberOnly": "Boat Depth should be numbers only",
+                "format": "Invalid boat Depth format"
             }
         },
         "BoatKnot": {
-            "Lable": "سرعة القارب بالعُقد",
+            "Lable": "Knot",
             "Validation": {
-                "Required": "قيمة سرعة القارب بالعُقد مطلوبة",
-                "format": "يجب أن تكون قيمة السرعة بين 1 و 99.9"
+                "Required": "Knot is required",
+                "format": "Knot value should be between 1 and 99.9"
             }
         },
         "BoatEngineNo": {
-            "Lable": "# المحرك",
+            "Lable": "Engine No",
             "Validation": {
-                "Required": "# المحرك مطلوب",
-                "Char": "يجب أن يحتوي رقم المحرك على أحرف إنجليزية فقط مع رموز مثل - أو *",
-                "MinLength": "يجب أن لا يقل # المحرك عن 5 أحرف",
-                "MaxLength": "يجب أن لا يزيد # المحرك عن 20 حرفًا"
+                "Required": "Engine No Is Required",
+                "Char": "Engine No Should Contains English Character Only With Symbols Like - Or *",
+                "MinLength": "Engine No Should Be Greater Than Or Equal 5",
+                "MaxLength": "Engine No Should Be Less Than 20"
             }
         },
         "BoatNumberOfEngine": {
-            "Lable": "عدد المحركات",
+            "Lable": "# Of Engine",
             "Validation": {
-                "Required": "عدد المحركات مطلوب",
-                "NumOnly": "يجب أن يكون عدد المحركات أرقام فقط",
-                "format": "تنسيق عدد المحركات غير صالح"
+                "Required": "# Of Engine is required",
+                "NumOnly": "# Of Engine should be numbers only",
+                "format": "Invalid number of engine format"
             }
         },
         "BoatNumberOfPassenger": {
-            "Lable": "عدد الركاب",
+            "Lable": "# Of Passenger",
             "Validation": {
-                "Required": "عدد الركاب مطلوب",
-                "NumOnly": "يجب أن يكون عدد الركاب أرقام فقط",
-                "format": "تنسيق عدد الركاب غير صالح"
+                "Required": "# Of Passenger is required",
+                "NumOnly": "# Of Passenger should be numbers only",
+                "format": "Invalid # Of Passenger format"
             }
         },
         "BoatNumberOfCrew": {
-            "Lable": "عدد الطاقم",
+            "Lable": "# Of Crew",
             "Validation": {
-                "Required": "عدد الطاقم مطلوب",
-                "NumOnly": "يجب أن يكون عدد الطاقم أرقام فقط",
-                "format": "تنسيق عدد الطاقم غير صالح"
+                "Required": "# Of Crew is required",
+                "NumOnly": "# Of Crew should be numbers only",
+                "format": "Invalid # Of Crew format"
             }
         },
         "BoatMaxSpeed": {
-            "Lable": "السرعة القصوى",
+            "Lable": "Max Speed",
             "Validation": {
-                "Required": "السرعة القصوى مطلوبة",
-                "NumOnly": "يجب أن تكون السرعة القصوى أرقام فقط",
-                "format": "تنسيق السرعة القصوى غير صالح"
+                "Required": "Max Speed is required",
+                "NumOnly": "Max Speed should be numbers only",
+                "format": "Invalid Max Speed format"
             }
         },
         "BoatLossPayee": {
-            "Lable": "اسم الجهة الممولة",
+            "Lable": "Financed by (loss payee)",
             "Validation": {
-                "Required": "اسم الجهة الممولة مطلوب"
+                "Required": "Loss Payee is required"
             }
         },
         "QatariID": {
-            "Lable": "الرقم الشخصي",
-            "Lable2": "البطاقة الشخصية",
+            "Lable": "Qatari ID",
+            "Lable2": "Qatari ID",
             "Validation": {
-                "Required": "الرقم الشخصي مطلوب",
-                "NumberOnly": "يجب أن يحتوي الرقم الشخصي على أرقام فقط",
-                "MinLength": "يجب أن يتكون الرقم الشخصي من 11 رقم",
-                "MaxLength": "يجب أن يتكون الرقم الشخصي من 11 رقم"
+                "Required": "Qatari ID Is Required",
+                "NumberOnly": "Qatari ID Should Be Number Only",
+                "MinLength": "Qatari ID Should Be 11 Digit",
+                "MaxLength": "Qatari ID Should Be 11 Digit"
             }
         },
         "QatariIDExpiryDate": {
-            "Lable": "تاريخ انتهاء الصلاحية",
+            "Lable": "Qatari ID Expiry Date",
             "Validation": {
-                "Required": "تاريخ انتهاء الصلاحية مطلوب",
+                "Required": "Expiry Date Is Required",
                 "InvalidExpiryDate": "Invalid Expiry Date"
             }
         },
         "PassportExpiryDate": {
-            "Lable": "تاريخ انتهاء الصلاحية",
+            "Lable": "Passport Expiry Date",
             "Validation": {
-                "Required": "تاريخ انتهاء الصلاحية مطلوب"
+                "Required": "Passport Expiry Date Is Required"
             }
         },
         "SelectNationality": {
-            "Lable": "الجنسية",
+            "Lable": "Nationality",
             "Header": "Select the visitor nationality.",
-            "InsuredHeader": "برجاء اختيار الجنسية",
-            "Hint": "برجاء الاختيار",
+            "InsuredHeader": "Select the insured Nationality",
+            "Hint": "Select Nationality",
             "Validation": {
-                "Required": "يرجى إدخال جنسية المؤمن عليه"
+                "Required": "Nationality Is Required"
             }
         },
         "SelectOccupation": {
-            "Lable": "المهنة",
+            "Lable": "Occupation",
             "Validation": {
-                "Required": "يرجى إدخال مهنة المؤمن عليه"
+                "Required": "Occupation Is Required"
             }
         },
         "SelectGender": {
-            "Lable": "الجنس",
-            "Hint": "برجاء الاختيار",
+            "Lable": "Gender",
+            "Hint": "Select Gender",
             "Validation": {
-                "Required": "يرجى إدخال جنس المؤمن عليه"
+                "Required": "Gender Is Required"
             }
         },
         "Period": {
-            "Lable": "الفترة",
+            "Lable": "Period",
             "Validation": {
-                "Required": "يرجى إدخال الفترة"
+                "Required": "Period Is Required"
             }
         },
         "personal_accident_coverage": {
-            "Lable": "التغطية التأمينية",
+            "Lable": "Coverage",
             "Validation": {
-                "Required": "يرجى إدخال نوع التغطية التأمينية"
+                "Required": "Coverage Is Required"
             }
         },
         "Validate": {
             "TitleName": {
-                "Required": "يرجى إدخال اسم العنوان"
+                "Required": "Title Name Is Required"
             },
             "AllRequired": {
-                "Required": "جميع الحقول مطلوبة"
+                "Required": "All Fields Are Required"
             }
         },
         "motor_claim_attachment": {
             "front_left": {
-                "Required": "صورة مقدمة السيارة اليسرى مطلوبة"
+                "Required": "Car Front Left Image is required"
             },
             "front_right": {
-                "Required": "صورة مقدمة السيارة اليمنى مطلوبة"
+                "Required": "Car Front Right Image is required"
             },
             "back_left": {
-                "Required": "صورة الجزء الخلفي الأيسر من السيارة مطلوبة"
+                "Required": "Car Back Left Image is required"
             },
             "back_right": {
-                "Required": "صورة الجزء الخلفي الأيمن من السيارة مطلوبة"
+                "Required": "Car Back Right Image is required"
             }
         },
-        "HolderInfo": "معلومات المالك",
-        "DomesticInfo": "معلومات المساعدة المنزلية",
+        "HolderInfo": "Holder Information",
+        "DomesticInfo": "Domestic Information",
         "ID_Front": {
-            "Lable": "البطاقة الشخصية من الأمام",
+            "Lable": "Qatari ID Front Image",
             "Validation": {
-                "Required": "البطاقة الشخصية من الأمام مطلوبة"
+                "Required": "Qatari ID Front Image Is Required"
             }
         },
         "ID_Back": {
-            "Lable": "البطاقة الشخصية من الخلف",
+            "Lable": "Qatari ID Back Image",
             "Validation": {
-                "Required": "البطاقة الشخصية من الخلف مطلوبة"
+                "Required": "Qatari ID Back Image Is Required"
             }
         },
         "Passport": {
-            "Lable": "جواز السفر",
+            "Lable": "Passport",
             "Validation": {
-                "Required": "جواز السفر مطلوب",
-                "MinLength": "يجب أن يكون # جواز السفر أكبر من أو يساوي 5",
-                "MaxLength": "يجب أن يكون # جواز السفر أقل من أو يساوي 13",
-                "Format": "يجب أن يحتوي # جواز السفر على أحرف إنجليزية فقط مع رموز مثل - أو *"
+                "Required": "Passport Is Required",
+                "MinLength": "Passport Should Be Grater Than Or Equal 5",
+                "MaxLength": "Passport Should Be Less Than Or Equal 13",
+                "Format": "Passport Should Contains English Character Only with symbols like - or *"
             }
         },
         "ExpiryDate": {
-            "Lable": "تاريخ الانتهاء",
+            "Lable": "Expiry Date",
             "Validation": {
-                "Required": "تاريخ الانتهاء مطلوب"
+                "Required": "Expiry Date Is Required"
             }
         },
         "Passport_front": {
-            "Lable": "الصفحة الأمامية لجواز السفر",
+            "Lable": "Passport Front Page",
             "Validation": {
-                "Required": "صورة الصفحة الأمامية لجواز السفر مطلوبة"
+                "Required": "Passport Front Page is Required"
             }
         },
         "Attachment": {
-            "Passport": "جواز السفر",
-            "Qatari_ID": "البطاقة الشخصية",
+            "Passport": "Passport Image",
+            "Qatari_ID": "Qatari ID Image",
             "Validation": {
-                "Required": "قم بتحميل مرفق واحد على الأقل (بطاقة هوية قطرية أو جواز سفر)",
-                "PassportImageRequired": "صورة جواز السفر مطلوبة"
+                "Required": "Upload at least one attachment (Qatari ID or Passport)",
+                "PassportImageRequired": "Passport Image Is Required"
             }
         },
         "StartDate": {
-            "Lable": "تاريخ بدء الوثيقة",
-            "Header": "مدة السفر",
-            "MedicalPeriod": "تاريخ بدء الوثيقة الخاصة بك",
+            "Lable": "Start Date",
+            "Header": "Choose Policy Start Date",
+            "MedicalPeriod": "Period of Cover",
             "Validation": {
-                "Required": "يرجى إدخال تاريخ بدء الوثيقة"
+                "Required": "Start Date Is Required"
             }
         },
         "EndDate": {
-            "Lable": "تاريخ الانتهاء",
-            "LableValue": "تاريخ الانتهاء: {}",
+            "Lable": "End Date",
+            "LableValue": "End Date: {}",
             "Validation": {
-                "Required": "تاريخ الانتهاء مطلوب",
-                "EndDateError": "يجب أن يكون تاريخ الانتهاء أكبر من تاريخ البدء"
+                "Required": "End Date Is Required",
+                "EndDateError": "End Date Should Be Greater Than Start Date"
             }
         },
         "spike_update_profile": {
-            "weight_required": "يرجى إدخال الوزن",
-            "height_required": "يرجى إدخال الطول",
-            "weight_invalid": "يرجى إدخال وزن صحيح",
-            "height_invalid": "يرجى إدخال طول صحيح",
-            "weight_too_high": "يجب أن يكون الوزن أقل من 200 كغ",
-            "height_too_high": "يجب أن يكون الطول أقل من 250 سم"
+            "weight_required": "Please enter your weight",
+            "height_required": "Please enter your height",
+            "weight_invalid": "Please enter a valid weight",
+            "height_invalid": "Please enter a valid height",
+            "weight_too_high": "Weight must be less than 200 kg",
+            "height_too_high": "Height must be less than 250 cm"
         },
         "Email": {
-            "Lable": "البريد الإلكتروني",
+            "Lable": "Email",
             "Validation": {
-                "Required": "البريد الإلكتروني مطلوب",
-                "Email": "البريد الإلكتروني غير صالح"
+                "Required": "Email Is Required",
+                "Format": "Invalid Email Address"
             }
         },
         "ClaimAmount": {
-            "Lable": "المبلغ المطالب به",
+            "Lable": "Claimed Amount",
             "Validation": {
-                "Required": "مبلغ المطالبة مطلوب",
-                "Format": "مبلغ المطالبة يقبل الأرقام فقط"
+                "Required": "Claimed Amount Is Required",
+                "Format": "Claimed Amount Accepts Numbers Only"
             }
         },
         "PatientName": {
-            "Lable": "اسم المريض",
+            "Lable": "Patient Name",
             "Hint": "",
             "Validation": {
-                "Required": "اسم المريض مطلوب"
+                "Required": "Patient Name Is Required"
             }
         },
         "ClaimDate": {
             "Lable": "Claim Date (Treatment Date)",
             "Validation": {
-                "Required": "تاريخ المطالبة مطلوب"
+                "Required": "Claim Date Is Required"
             }
         },
         "AmountCurrency": {
             "Lable": "Amount Currency",
             "Validation": {
-                "Required": "العملة مطلوبة"
+                "Required": "Amount Currency Is Required"
             }
         },
         "ClaimReason": {
             "Lable": "Claim Reason",
             "Validation": {
-                "Required": "السبب مطلوب"
+                "Required": "Reason Is Required"
             }
         },
         "AdditionalReason": {
-            "Lable": "سبب الملاحظة (اختياري)",
+            "Lable": "Reason Note (Optional)",
             "Validation": {}
         },
         "ClaimNotes": {
-            "Lable": "ملاحظات (اختياري)",
+            "Lable": "Notes (Optional)",
             "Validation": {}
         },
         "AccidentDetails": {
-            "Lable": "تفاصيل الحادث",
+            "Lable": "Accident Details",
             "Validation": {
-                "Required": "تفاصيل الحادث مطلوبة"
+                "Required": "Accident Details Is Required"
             }
         },
         "CauseOfLoss": {
-            "Lable": "سبب الخسارة",
+            "Lable": "Cause Of Loss",
             "Validation": {
-                "Required": "مطلوب سبب الخسارة"
+                "Required": "Cause Of Loss Is Required"
             }
         },
         "LossNature": {
-            "Lable": "طبيعة الخسارة",
+            "Lable": "Loss Nature",
             "Validation": {
-                "Required": "طبيعة الخسارة مطلوبة"
+                "Required": "Loss Nature Is Required"
             }
         },
         "AccidentTime": {
-            "Lable": "وقت الحادث",
+            "Lable": "Accident Time",
             "Validation": {
-                "Required": "وقت الحادث مطلوب"
+                "Required": "Accident Time Is Required"
             }
         },
         "AccidentDate": {
-            "Lable": "تاريخ الحادث",
+            "Lable": "Accident Date",
             "Validation": {
-                "Required": "تاريخ الحادث مطلوب"
+                "Required": "Accident Date Is Required"
             }
         },
         "DriverName": {
-            "Lable": "اسم السائق",
+            "Lable": "Driver Name",
             "Validation": {
-                "Required": "اسم السائق مطلوب",
-                "Format": "اسم السائق يقبل الأحرف الإنجليزية"
+                "Required": "Driver Name Is Required",
+                "Format": "Driver Name Accept English Character"
             }
         },
         "ManufactureYear": {
-            "Lable": "سنة الصنع",
+            "Lable": "Year of Manufacture",
             "Validation": {
-                "Required": "سنة تصنيع السيارة مطلوب",
-                "Format": "سنة الصنع يقبل ارقام فقط",
-                "MinLength": "يجب أن تكون سنة التصنيع أكبر من 0",
-                "DigitLength": "يجب أن تكون سنة الصنع 4 أرقام",
-                "MaxLength": "يجب أن تكون سنة التصنيع أقل من أو تساوي السنة الحالية"
+                "Required": "Manufacture Year Is Required",
+                "Format": "Manufacture Year Accept Number Only",
+                "MinLength": "Manufacture Year Should Be Greater Than 0",
+                "DigitLength": "Manufacture Year Should Be 4 Digits",
+                "MaxLength": "Manufacture Year Should Be Less Than Or Equal to Current Year"
             }
         },
         "PolicyReportNo": {
             "Lable": "Policy Report #",
             "Validation": {
-                "Required": "# تقرير الوثيقة مطلوب",
-                "MinLength": "يجب أن يكون # تقرير الشرطة 10 أرقام على الأكثر",
-                "Format": "# تقرير الوثيقة التنسيق غير صالح"
+                "Required": "Policy Report # Is Required",
+                "MinLength": "Policy Report # Should Be At Most 10 Digits",
+                "Format": "Invalid Format Policy Report #"
             }
         },
         "PromoCode": {
             "Lable": "Promo Code",
             "Validation": {
-                "Required": "الرمز الترويجي مطلوب",
-                "MaxLength": "يجب أن يكون الرمز الترويجي من 6 أرقام",
-                "MinLength": "يجب أن يكون الرمز الترويجي من 6 أرقام"
+                "Required": "Promo Cade Field Is Required",
+                "MaxLength": "The Promo Code Value length must be 6 digits",
+                "MinLength": "The Promo Code Value length must be 6 digits"
             }
         }
     },
     "insurance": {
         "cars_insurance": {
-            "txt": "تأمين",
-            "subtxt": "السيارات"
+            "txt": "Car",
+            "subtxt": "Insurance"
         },
         "travel_insurance": {
-            "txt": "تأمين",
-            "subtxt": "السفر"
+            "txt": "Travel",
+            "subtxt": "Insurance"
         },
         "medical_insurance": {
-            "txt": "التأمين",
-            "subtxt": "الصحي"
+            "txt": "Medical",
+            "subtxt": "Insurance"
         },
         "domestic_insurance": {
-            "txt": "تأمين",
-            "subtxt": "خدامات"
+            "txt": "Domestic\nHelper",
+            "subtxt": "Insurance"
         },
         "boat_insurance": {
-            "txt": "تأمين",
-            "subtxt": "قوارب"
+            "txt": "Boat",
+            "subtxt": "Insurance"
         },
         "personal_accident_insurance": {
-            "txt": "تأمين",
-            "subtxt": "الحوادث الشخصية"
+            "txt": "Personal\nAccident",
+            "subtxt": "Insurance"
         }
     },
     "NewUpdate": {
-        "Title": "تحديث جديد متاح",
-        "SubTitle": "يوجد إصدار أحدث جاهز للتنزيل. يرجى تحديث التطبيق من خلال متجر {} للحصول على أفضل تجربة.",
-        "Button": "تحديث"
+        "Title": "New Version Available",
+        "SubTitle": "There is a newer version available for download! Please update the app by visiting the {}",
+        "Button": "Update"
     },
     "PaymentType": {
-        "UseIBANMessage": "# IBAN الخاص بك هو (TESTIBAN)، هل ترغب في استخدامه الآن؟",
-        "UpdateTheIBAN": "هل ترغب في تحديث # IBAN في ملفك الشخصي؟",
-        "Yes": "نعم",
-        "No": "لا"
+        "UseIBANMessage": "Your saved IBAN is ({}) would you like to use it?",
+        "UpdateTheIBAN": "Would you like to update the IBAN in your profile?",
+        "Yes": "Yes",
+        "No": "No"
     },
     "PDFViewer": {
-        "AppBar": "ملف PDF",
-        "Error": "عذرًا، لم نتمكن من تحميل ملف PDF"
+        "AppBar": "PDF Document",
+        "Error": "Failed to load pdf document"
     },
     "wearing": {
-        "log_out_wearing": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+        "log_out_wearing": "Are You Sure You Want To Logout?"
     },
     "permission": {
         "camera": {
-            "title": "السماح بقراءة الملفات",
-            "description": "يجب منح هذا الإذن من إعدادات النظام"
+            "title": "Read files permission",
+            "description": "You need to give this permission from the system settings"
         }
     },
     "CoachMark": {
-        "TotalPolicy": "قم بإدارة جميع وثائق التأمين الخاصة بك على السيارات والسفر والتأمين الطبي بسهولة وفي مكان واحد. تابع الوثائق السارية والمنتهية بكل بساطة.",
-        "InsuredPolicies": "يمكنك متابعة جميع وثائق التأمين الخاصة بك بكل سهولة, اضغط على الخدمة لعرض الوثائق السارية والمنتهية.",
-        "DIGHelpline": "اضغط على هذا الزر للوصول إلى الدعم السريع. يمكنك الاتصال بمركز اتصالات DIG في أي وقت، الحصول على المساعدة على الطريق، الدردشة مباشرة مع وكيل، أو تقديم مطالبات طبية ومطالبات سيارات فورًا. يمكنك أيضًا تصفح الأسئلة الشائعة (FAQ) للحصول على الإرشادات.",
-        "SOSEmergency": "اضغط على هذا الزر للاتصال بسرعة بخدمات الطوارئ في قطر للحصول على المساعدة العاجلة.",
-        "PlusButton": "إنشاء عروض تأمين بسهولة من خلال تبسيط العملية، والوصول إلى خدمات تغطية شاملة بضغطة بسيطة.",
-        "Home": "قم بإدارة التأمين الخاص بك بسهولة — عرض وثائقك، إنشاء عروض جديدة، ومتابعة العروض غير المكتملة، كل ذلك في تجربة تطبيق سلسة.",
-        "Policy": "عرض الوثائق النشطة والمنتهية، مع تفاصيل.",
-        "Profile": "إدارة وتحديث معلومات حسابك بسهولة.",
-        "Others": "اتصل بنا للحصول على المساعدة أو تحكم في إعدادات التطبيق (تغيير اللغات، تمكين أو تعطيل الإشعارات وبصمة الإصبع)",
-        "MedicalCard": "إدارة بطاقاتك الطبية العائلية أو الجماعية بسلاسة, اسحب إلى اليسار لإظهار المزيد من البطاقات.",
-        "MedicalPolicyCard": "بسهولة يمكنك الوصول إلى المطالبة الطبية الخاصة بك وبأفراد عائلتك",
-        "ClaimCard": "عرض قائمة المطالبات الطبية (النشطة، المرفوضة، الموافق عليها). لعرض معلومات المطالبة، اضغط على البطاقة أو اسحب إلى اليسار.",
-        "TravelHolderScanButton": "بكل سهولة، قم بمسح جواز سفرك لإنشاء عرض سفر جديد (خارج قطر)، مما يبسط إدخال معلومات حامل الوثيقة اللازمة.",
-        "TravelNewInsuredButton": "أضف أعضاء جدد مؤمنين بسهولة بلمسة بسيطة، مما يعزز بسهولة تغطية التأمين الخاصة بعائلتك أو مجموعتك للسفر (خارج قطر)..",
-        "TravelNewInsuredCard": "الوصول إلى تفاصيل التأمين وإدارتها لجميع المؤمن عليهم، بالإضافة إلى وظيفة السحب لليسار للتعديل أو الحذف السريع،",
-        "TravelScanNewInsuredButton": "بسهولة، أضف أعضاء مؤمنين جدد عن طريق مسح جوازات السفر، مما يبسط عملية إدراج الوثيقة.",
-        "MedicalHolderScanButton": "مسح بطاقة الهوية القطرية بسهولة لانشاء عرض طبي فردي جديد مع إدخال سهل للمعلومات المطلوبة.",
-        "MedicalNewInsuredButton": "قم بتوسيع تغطيتك الطبية الفردية بسهولة عن طريق إضافة أفراد مؤمنين جدد بنقرة واحدة في تطبيقنا سهل الاستخدام.",
-        "MedicalNewInsuredCard": "الوصول وإدارة تفاصيل التأمين لجميع المؤمن عليهم، بالإضافة إلى وظيفة التمرير السريعة لليسار للحذف السريع.",
-        "MedicalScanNewInsuredButton": "قم بإضافة أعضاء مؤمن عليهم جدد بسهولة عن طريق مسح بطاقة الهوية القطرية، مما يسهل عملية إضافة الأعضاء إلى الوثيقة.",
-        "IncompleteQuot": "استكمال عروض السعر الأخيرة بسهولة وإكمالها دون عناء"
+        "TotalPolicy": "Effortlessly manage all your motor, travel, and medical insurance policies in one place. Keep track of both active and expired ones with ease.",
+        "InsuredPolicies": "Stay organized with a clear view of all your insurance policies, Tap on any service to instantly view your active and expired policies.",
+        "DIGHelpline": "Tap this button to access quick support. You can contact the DIG Call Center anytime, get roadside assistance, chat live with an agent, or file medical and motor claims instantly. You can also browse frequently asked questions (FAQ) for guidance.",
+        "SOSEmergency": "Tap this button to quickly call the emergency services in Qatar for urgent help.",
+        "PlusButton": "Explore our app to easily generate insurance quotes by streamlining the process, and access services for comprehensive coverage with a simple tap.",
+        "Home": "Manage your insurance with ease — view your policies, create new quotes, and track incomplete ones, all in one seamless app experience.",
+        "Policy": "Easily view all your active and expired policies, including details.",
+        "Profile": "Easily manage and update your account information for smooth insurance management.",
+        "Others": "Contact us for help or customize your app settings, including language, notifications, and fingerprint authentication.",
+        "MedicalCard": "Smoothly manage your family or group medical cards with a simple left swipe for easy access and navigation.",
+        "MedicalPolicyCard": "Easily access Medical Claim of yourself and your family members, offering a clear representation of details for easy reference.",
+        "ClaimCard": "View list of medical claim (active, rejected, approved). To view claim information tap on the card or Swipe to the left.",
+        "TravelHolderScanButton": "Effortlessly scan your passport to create a new Travel (Outside Qatar) quotation thereby simplifying the input of necessary holder information.",
+        "TravelNewInsuredButton": "Easily add new insured members with a simple tap, effortlessly enhancing your family or group insurance coverage for Travel (Outside Qatar) policy.",
+        "TravelNewInsuredCard": "Access and manage insurance details for all insured, and in addition left-swipe functionality for quick editing or deletion, ensuring total control and flexibility.",
+        "TravelScanNewInsuredButton": "Effortlessly add new insured members by scanning passports thereby simplifying the policy inclusion process.",
+        "MedicalHolderScanButton": "Easily scan your Qatari ID to generate a new Individual Medical quote with easy input of required information.",
+        "MedicalNewInsuredButton": "Easily expand your Individual Medical coverage by adding new insured individuals with a simple tap in our user-friendly application.",
+        "MedicalNewInsuredCard": "Access and manage insurance details for all insured, and in addition left-swipe functionality for quick deletion, ensuring total control and flexibility.",
+        "MedicalScanNewInsuredButton": "Effortlessly add new insured members by scanning qatari id thereby simplifying the policy inclusion process.",
+        "IncompleteQuot": "Effortlessly resume and complete your latest quotation without hassle, ensuring seamless coverage selection."
     },
     "button": {
-        "reload": "إعادة تحميل",
-        "next_button": "متابعة",
-        "submit_button": "اتمام العملية",
-        "see_all": "عرض الكل",
-        "download": "تحميل",
-        "login_button": "تسجيل الدخول",
-        "promo_code": "هل لديك رمز ترويجي؟",
-        "pay_now": "ادفع الآن",
-        "upload_button": "ارفاق الملف",
-        "done": "منتهي",
-        "select": "اختيار",
-        "update": "تعديل",
-        "edit_button": "تعديل",
-        "extend_button": "تمديد",
-        "add_claim_button": "إضافة مطالبة",
-        "renewal_button": "التجديد",
-        "save_button": "حفظ",
-        "cancel_button": "الغاء",
-        "ok_button": "موافق",
-        "accep_buttont": "نعم",
-        "reject_button": "لا",
-        "logout": "تسجيل الخروج",
-        "try_again": "محاولة مرة أخرى",
-        "send_btn": "ارسال",
-        "more_btn": "المزيد",
-        "start_new_policy_btn": "ابدأ وثيقة جديدة",
-        "download_invoice": "الفاتورة",
-        "download_policy": "الوثيقة",
-        "download_benefit": "المزايا",
-        "share_btn": "مشاركة",
-        "change_insured_btn": "تغيير المؤمن",
-        "edit_btn": "تعديل",
-        "extend_btn": "تمديد",
-        "add_claim_btn": "أضف مطالبة",
-        "renewal_btn": "تجديد",
-        "on_damage_btn": "عن الضرر",
-        "download_card_btn": "تحميل البطاقة",
-        "tearms_and_conditions_btn": "الشروط والأحكام",
-        "claims_btn": "المطالبات",
-        "medical_certificate_btn": "الشهادة",
-        "remaining_limt_btn": "الرصيد الصحي المتبقي",
-        "new_policy_bnt": "إنشاء وثيقة جديدة"
+        "reload": "Reload",
+        "next_button": "Continue",
+        "submit_button": "Submit",
+        "see_all": "See All",
+        "download": "Download",
+        "login_button": "Login",
+        "promo_code": "Do you have promo code?",
+        "pay_now": "Pay Now",
+        "upload_button": "Upload",
+        "done": "Done",
+        "select": "Select",
+        "update": "Update",
+        "edit_button": "Edit",
+        "extend_button": "Extend",
+        "add_claim_button": "Add Claim",
+        "renewal_button": "Renewal",
+        "save_button": "Save",
+        "cancel_button": "Cancel",
+        "ok_button": "Ok",
+        "accep_buttont": "Yes",
+        "reject_button": "No",
+        "logout": "LOGOUT",
+        "try_again": "Try Again",
+        "send_btn": "Send",
+        "more_btn": "More",
+        "start_new_policy_btn": "Start New Policy",
+        "download_invoice": "Invoice",
+        "download_policy": "Policy",
+        "download_benefit": "Benefits",
+        "share_btn": "Share",
+        "change_insured_btn": "Change Insured",
+        "edit_btn": "Endorsement",
+        "extend_btn": "Extend",
+        "add_claim_btn": "Add Claim",
+        "renewal_btn": "Renewal",
+        "on_damage_btn": "On damage",
+        "download_card_btn": "Download Card",
+        "tearms_and_conditions_btn": "Terms & Conditions",
+        "claims_btn": "Claims",
+        "medical_certificate_btn": "Certificate",
+        "remaining_limt_btn": "Remaining Limit",
+        "new_policy_bnt": "Create New Policy"
     },
     "response": {
         "error": {
-            "no_data_found": "لاتوجد بيانات",
-            "failed_process": "فشلت العملية، يرجى المحاولة مرة أخرى",
-            "failed_process2": "عذراً، الخدمة غير متوفرة حالياً. يرجى المحاولة مرة أخرى قريباً",
-            "no_insured": "لم يتم العثور على المؤمن عليه",
-            "network_connection": "لا يوجد اتصال شبكة",
-            "un_authorized": "غير مصرح",
-            "empty_attachment": "الملف غير موجود",
-            "create_claim": "فشلت العملية، لم يتم إنشاء المطالبة",
-            "validation_error": "حدث خطأ أثناء التحقق",
-            "download_attachment": "فشل في تنزيل الملف",
-            "failed_changed_insured": "لم يتم تغيير المؤمن عليه",
-            "wrong_insured": "الرقم الوطني أو تاريخ الانتهاء غير صحيح. يرجى التحقق من بياناتك والمحاولة مرة أخرى."
+            "no_data_found": "No Data Found",
+            "failed_process": "Failed Process, Please Try Again",
+            "failed_process2": "Sorry, the service isn't available right now. Please try again",
+            "no_insured": "No Insured Found",
+            "network_connection": "No Network Connection",
+            "un_authorized": "UnAuthorized",
+            "empty_attachment": "Attachment Not Found",
+            "create_claim": "Failed process, Claim Had Not Been Created",
+            "validation_error": "Validation Error",
+            "download_attachment": "Failed to Download Attachment",
+            "failed_changed_insured": "Insured Has Not Been Changed",
+            "wrong_insured": "Invalid National ID or Expiry Date. Please verify your information and try again."
         },
         "success": {
-            "update_plan": "تم تحديث الباقة بنجاح",
-            "create_quotation": "تم إنشاء عرض السعر بنجاح",
-            "upload_attachment": "تم تحميل المرفقات بنجاح",
-            "insurance_changed": "تم تغيير المؤمن بنجاح",
-            "create_claim": "تم إنشاء المطالبة بنجاح",
-            "upload_data": "تم تحميل البيانات بنجاح",
-            "update_date": "تم تحديث البيانات بنجاح",
-            "successful_operation": "تمت العملية بنجاح"
+            "update_plan": "Plan Updated Successfully",
+            "create_quotation": "Quotation Created Successfully",
+            "upload_attachment": "Attachment Uploaded Successfully",
+            "insurance_changed": "Insurance Changed Successfully",
+            "create_claim": "Claim Created Successfully",
+            "upload_data": "Data Updated Successfully",
+            "update_date": "Data Updated Successfully",
+            "successful_operation": "Successful Operation"
         }
     },
     "request": {
-        "loading": "يرجى الانتظار يتم جلب البيانات...",
-        "updating": "يرجى الانتظار يتم تحديث البيانات...",
-        "validate": "يرجى الانتظار يتم التحقق من صحة البيانات..."
+        "loading": "Loading...",
+        "updating": "Updating...",
+        "validate": "Validating..."
     },
     "fetching_messages": {
-        "fetching_policy": "يرجى الانتظار ريثما يتم جلب الوثائق (البيانات) الخاصة بك",
-        "fetching_moi": "يرجى الانتظار ريثما يتم جلب معلوماتك من وزارة الداخلية",
-        "load_qatari_id_scan": "يرجى الانتظار ريثما يتم تحميل معلومات البطاقة الشخصية",
-        "changeing_insured": "يرجى الانتظار ريثما يتم تغير معلوماتك",
-        "fetching_existing_policy_data": "يرجى الانتظار ريثما يتم تحميل بيانات الوثيقة",
-        "updating_existing_policy_data": "يرجى الانتظار ريثما يتم تحديث بيانات الوثيقة",
-        "load_passport_scan": "يرجى الانتظار ريثما يتم تحميل بيانات جواز السفر",
-        "fetching_required_data": "يرجى الانتظار ريثما يتم تحميل البيانات المطلوبة",
-        "upload_attachment": "يرجى الانتظار ريثما يتم تحميل الملفات",
-        "fetching_car_model": "يرجى الانتظار ريثما يتم تحميل طراز السيارة",
-        "update_plane": "يرجى الانتظار ريثما يتم تحديث الباقة",
-        "fetching_dashboard_data": "يرجى الانتظار يتم جلب البيانات..."
+        "fetching_policy": "Please Wait, We Are Fetching Your Policies",
+        "fetching_moi": "Please Wait, We are Fetching Your Info From MOI",
+        "load_qatari_id_scan": "Please Wait, We are Load Qatari ID Scan",
+        "changeing_insured": "Please Wait, We are Changeing Your Information",
+        "fetching_existing_policy_data": "Please Wait, We're Getting Your Data From Existing Policy",
+        "updating_existing_policy_data": "Please Wait, We're Updating Your Data From Existing Policy",
+        "load_passport_scan": "Please Wait, We are Load Passport Scan",
+        "fetching_required_data": "Please Wait, We're Getting Required Data",
+        "upload_attachment": "Upload Attachment In-Process",
+        "fetching_car_model": "Please Wait, We are Fetching Car Model",
+        "update_plane": "Please Wait, We are Updating The Plan",
+        "fetching_dashboard_data": "Please wait, we are fetching your data"
     },
     "authorization": {
-        "LoginToNewAccount": "تسجيل الدخول باستخدام حساب آخر",
+        "LoginToNewAccount": "Login using another account",
         "face_recognition": {
-            "success_message": "تم التحقق بنجاح من بطاقتك الشخصية القطرية والتعرف على الوجه! لضمان تواصل سلس، يرجى تحديث # هاتفك المحمول الآن."
+            "success_message": "Your Qatar ID and face recognition have been successfully verified! To ensure seamless communication, please update your mobile number now."
         },
-        "authorize_login": "تخويل تسجيل الدخول الخاص بك",
+        "authorize_login": "Authorize your login",
         "verification_code_description": {
             "description": {
-                "text_1": "بالاضافة لرقمك الشخصي,\nسيتعين عليك ادخال رمز التحقق",
-                "text_2": "او",
-                "text_3": "لتسجيل الدخول الى حسابك."
+                "text_1": "In addition to your ID, you’ll have to enter a verification ",
+                "text_2": "or ",
+                "text_3": "to log into your account."
             },
             "supdescription": {
-                "text_1": "(يتم تسليمه عبر الرسائل القصيرة {provider})",
-                "text_2": "(استخدم التعرف على الوجه)"
+                "text_1": "code(delivered via {provider}) ",
+                "text_2": "(Use Face Recognition) "
             }
         },
-        "chassis_no_verification": "آخر 6 أرقام من # القاعدة (الشاصيه)",
-        "individual_number": "# البطاقة الصحية",
-        "otp_verification": "رسالة قصيرة",
-        "facial_recognition": "التعرف على الوجه",
-        "facial_recognition_warning": "يرجى التحقق من هويتك باستخدام تقنية التعرف على الوجه قبل تحديث # هاتفك المحمول",
-        "you_can": "يمكنك",
+        "chassis_no_verification": "Last 6 digits of VIN (Chassis)",
+        "individual_number": "Medical Individual #",
+        "otp_verification": "OTP",
+        "facial_recognition": "Facial Recognition",
+        "you_can": "you can",
+        "facial_recognition_warning": "Before updating your mobile number, we need to verify your identity using face recognition.",
         "otp": {
-            "header": "التحقق بخطوتين",
-            "description": "الرجاء إدخال رمز التحقق المرسل إلى {provider}",
+            "header": "Two Step Verification",
+            "description": "Please enter the verification code sent to your registered {provider}",
             "request": {
-                "sending": "يتم ارسال رمز التحقق..."
+                "sending": "Sending OTP..."
             },
             "response": {
                 "error": {
-                    "wrong_value": "رمز التحقق غير صالح، يرجى المحاولة مرة أخرى",
-                    "frequently_request": "تم طلب رمز التحقق عدة مرات. الرجاء الانتظار دقيقة واحدة قبل طلب رمز جديد.",
-                    "frequently_attempts": "لقد قمت بعدد كبير من المحاولات. يرجى الانتظار لمدة 30 دقيقة قبل المحاولة مرة أخرى."
+                    "wrong_value": "Wrong OTP, Please try again",
+                    "frequently_request": "Too many OTP requests. Please wait a minute before requesting a new code.",
+                    "frequently_attempts": "You've made too many attempts. Please wait 30 minutes before trying again."
                 }
             },
             "footer": {
-                "text_1": "لم تتلق أي رمز؟ ",
-                "text_2": "إعادة إرسال الرمز",
-                "text_3": "\n أو \n",
-                "text_4": "# الجوال غير صحيح؟ ",
-                "incorrect_email": "البرية الالكتروني غير صحيح؟ ",
-                "text_5": "قم بتحديثه"
+                "text_1": "Didn't receive any code? ",
+                "text_2": "Resend New Code",
+                "text_3": "\n or \n",
+                "text_4": "incorrect mobile number? ",
+                "incorrect_email": "incorrect email? ",
+                "text_5": "Update it."
             }
         },
         "chassis_no": {
-            "header": "التحقق بخطوتين",
-            "description1": "أدخل آخر 6 أرقام من القاعدة (الشاصيه)",
-            "description2": "يمكنك العثور عليها في وثيقتك أو بطاقة تسجيل السيارة",
+            "header": "Two Step Verification",
+            "description1": "Enter the Last 6 digits of your car VIN (Chassis)",
+            "description2": "You can find them in your policy or your car registration card",
             "response": {
                 "error": {
-                    "wrong_value": "# القاعدة (الشاصيه) غير صالح. يرجى المحاولة مرة أخرى"
+                    "wrong_value": "Wrong VIN (Chassis), Please try again"
                 }
             },
             "footer": {
-                "text_1": "ليس لديك # القاعدة؟ بإمكانك المتابعة باستخدام ",
-                "text_2": " خيار آخر "
+                "text_1": "Didn't get the VIN (Chassis)? You can continue using ",
+                "text_2": "another option"
             }
         },
         "individual_no": {
-            "header": "التحقق بخطوتين",
-            "description": "الرجاء إدخال # البطاقة الصحية",
+            "header": "Two Step Verification",
+            "description": "Please enter your Individual #",
             "response": {
                 "error": {
-                    "wrong_value": "# البطاقة الصحية غير صالح، يرجى المحاولة مرة أخرى"
+                    "wrong_value": "Wrong Individual #, Please try again"
                 }
             },
             "footer": {
-                "text_1": "ليس لديك # بطاقة صحية؟ ",
-                "text_2": "بإمكانك المتابعة باستخدام ",
-                "text_3": "خيار آخر"
+                "text_1": "Didn't have individual #?\n",
+                "text_2": "You can continue using ",
+                "text_3": "another option"
             }
-        }
-    },
-    "authentication": {
-        "activate_fingerprint": {
-            "title": "تفعيل التوثيق باستخدام بصمة الأصبع",
-            "sub_title": "هل ترغب في تفعيل التعرف على بصمة الإصبع لتسجيل الدخول بسرعة أكبر في المرة القادمة؟",
-            "active_btn": "تفعيل",
-            "later_btn": "سأقوم بذلك لاحقًا"
-        },
-        "authentication_type": {
-            "title": "مجموعة الدوحة للتامين",
-            "subtitle": "روح الريادة",
-            "qatari_id_login": {
-                "subText": "للمقيمين",
-                "text1": "تسجيل الدخول ",
-                "text2": "باستخدام البطاقة الشخصية"
-            },
-            "passport_login": {
-                "subText": "لغير المقيمين",
-                "text1": "تسجيل الدخول ",
-                "text2": "باستخدام جواز السفر"
-            },
-            "tp_claim": {
-                "subText": "لغير المؤمن عليهم",
-                "text1": "مطالبة ",
-                "text2": "لغير المؤمن له"
-            }
-        },
-        "authentication_quick_actions": {
-            "welcome_text": "أهلاً وسهلاً بعودتك",
-            "otp": {
-                "text1": "تسجيل الدخول ",
-                "text2": "باستخدام رمز التحقق"
-            },
-            "biometrics": {
-                "text1": "تسجيل الدخول ",
-                "text2": "بالبصمة"
-            }
-        },
-        "main_login": {
-            "labels": {
-                "national_id_label": "الرقم الشخصي",
-                "expiry_date_label": "الصلاحية",
-                "passport_expiry_date_label": "تاريخ الصلاحية"
-            },
-            "scan_qatari_id": "مسح بطاقة البطاقة الشخصية",
-            "manual_login": "البطاقة الشخصية",
-            "response": {
-                "error": {
-                    "wronge_data": "الرقم الشخصي أو تاريخ الصلاحية خاطئ"
-                }
-            }
-        },
-        "travel_inbound_login": {
-            "labels": {
-                "passport_number_label": "# جواز السفر",
-                "nationality_label": "الجنسية"
-            },
-            "scan_passport_no": "مسح جواز سفر",
-            "manual_login": "جواز السفر"
         }
     },
     "choices": {
         "app_service": {
-            "insurance_type_lable": "شراء وثيقة جديدة",
-            "auto_insurance": "تأمين السيارات",
-            "travel_insurance": "تأمين السفر",
-            "medical_insurance": "التأمين الصحي",
-            "domestic_insurance": "تأمين الخدمات المنزلية",
-            "boat_insurance": "تأمين قوارب",
-            "personal_accident_insurance": "تأمين الحوادث الشخصية"
+            "insurance_type_lable": "Buy New Policy",
+            "auto_insurance": "Car Insurance",
+            "travel_insurance": "Travel Insurance",
+            "medical_insurance": "Medical Insurance",
+            "domestic_insurance": "Domestic Insurance",
+            "boat_insurance": "Boat Insurance",
+            "personal_accident_insurance": "Personal Accident Insurance"
         },
         "travel_service": {
-            "travel_inbound": "تأمين القادمين إلى قطر",
-            "travel_outbound": "تأمين السفر الى خارج قطر"
+            "travel_inbound": "Inbound/Visiting Qatar",
+            "travel_outbound": "Outbound"
         }
     },
     "medical_group": {
-        "no_image": "لم يتم العثور على صورة",
-        "no_card": "لم يتم العثور على بطاقات",
-        "no_medical_card": "لم يتم العثور على بطاقة صحية",
-        "MedicalCardsHeader": "البطاقات الصحية",
-        "MedicalForms": "النماذج الطبية",
-        "my_network": "شبكتي",
-        "in_valid_location_error": "تعذر العثور على أي نتيجة للعنوان المقدم",
-        "medical_claims": "المطالبات الصحية",
-        "claims_header": "مطالبات, {}",
-        "claim_summary": "ملخص المطالبة",
-        "claim_tracking": "تتبع المطالبات",
-        "claim_history": "سجل الطالبات",
-        "claim_attachment": "الملفات المرفقة للمطالبة",
-        "paymant_type": "نوع الدفع",
-        "browse": "عرض ",
-        "location": "الموقع",
-        "qatari_id": "الرقم الشخصي",
-        "contract_no": "# العقد",
-        "gender": "الجنس",
-        "individual_no": "# الفرد",
-        "birthday": "تاريخ الميلاد",
-        "expiry_date": "الصلاحية",
-        "claim_no": "# المطالبة",
-        "claim_date": "تاريخ المطالبة",
-        "amount": "المبلغ: {}",
-        "reason": "السبب: {}",
-        "additional_reason": "سبب إضافي: {}",
-        "receive_teatment_date": "تاريخ تلقي العلاج: {}",
-        "submitted_date": "تاريخ المعاملة: {}",
-        "notes": "ملاحظات: {}",
-        "date": "التاريخ: {}",
-        "latest_status": "الحالة: {}",
-        "empty_active": "لم يتم العثور على مطالبات مفعلة",
-        "empty_rejected": "لم يتم العثور على مطالبات مرفوضة",
-        "empty_approved": "لم يتم العثور على مطالبات موافقة",
-        "active": "الحالية",
-        "rejected": "المرفوضة",
-        "approved": "الموافق عليها",
+        "no_image": "No Image Found",
+        "no_card": "No Card Found",
+        "no_medical_card": "No Medical Card Found",
+        "MedicalCardsHeader": "Medical Cards",
+        "MedicalForms": "Medical Forms",
+        "my_network": "My Network",
+        "in_valid_location_error": "Could not find any result for the supplied address",
+        "medical_claims": "Medical Claims",
+        "claims_header": "Claims, {}",
+        "claim_summary": "Claim Summary",
+        "claim_tracking": "Tracking",
+        "claim_history": "Claim History",
+        "claim_attachment": "Claim Attachments",
+        "paymant_type": "Paymant Type",
+        "browse": "Browse ",
+        "location": "Location",
+        "qatari_id": "Qatari ID",
+        "contract_no": "Contract No",
+        "gender": "Gender",
+        "individual_no": "Individual No",
+        "birthday": "Birthday",
+        "expiry_date": "Expiry Date",
+        "claim_date": "Claim Date",
+        "claim_no": "Claim #:",
+        "amount": "Claimed Amount: {}",
+        "reason": "Reason: {}",
+        "additional_reason": "Additional Reason: {}",
+        "receive_teatment_date": "Date of receive teatment: {}",
+        "submitted_date": "Transaction date: {}",
+        "notes": "Notes: {}",
+        "date": "Date: {}",
+        "latest_status": "Status: {}",
+        "empty_active": "No Active Claim Found",
+        "empty_rejected": "No Rejected Claim Found",
+        "empty_approved": "No Approved Claim Found",
+        "active": "Active",
+        "rejected": "Rejected",
+        "approved": "Approved",
         "add_claim_choice": {
-            "title": "إضافة مطالبة صحية",
-            "add_claim_lable": "إضافة مطالبة"
-        },
-        "medical_claim": {
-            "add_claim": {}
+            "title": "Add Medical Claim",
+            "add_claim_lable": "Add Claim"
         }
     },
     "others": {
         "company_info": {
             "title": {
-                "news": "اخبارنا",
-                "branches": "فروعنا",
-                "contact_us": "اكتب لنا"
+                "news": "News",
+                "branches": "Branches",
+                "contact_us": "Write To Us"
             },
             "branches": {
                 "mobile": {
-                    "in_valid_mobile_error": "# الهاتف غير صحيح",
-                    "empty_mobile_error": "# الهاتف فارغ"
+                    "in_valid_mobile_error": "In-valid Mobile",
+                    "empty_mobile_error": "Mobile Is Empty"
                 },
                 "email": {
-                    "in_valid_email_error": "البريد الإلكتروني غير صحيح",
-                    "empty_email_error": "البريد الإلكتروني فارغ"
+                    "in_valid_email_error": "In-valid Email",
+                    "empty_email_error": "Email Is Empty"
                 },
                 "dayes": {
-                    "day_1": "الأحد - الخميس",
-                    "day_2": "السبت"
+                    "day_1": "Sunday - Thursday",
+                    "day_2": "Saturday"
                 },
-                "time": "يفتح: {open} - يغلق: {close}",
-                "browse_location": "تصفح ",
-                "location": "الموقع"
+                "time": "Open: {open} - Close: {close}",
+                "browse": "Browse ",
+                "location": "Location"
             }
         },
         "language": {
-            "section_title": "اللغات",
+            "section_title": "Languages",
             "arabic": "العربية",
             "english": "English"
         },
         "settings": {
-            "release_note": "تفاصيل الإصدار",
-            "section_title": "إعدادات",
-            "app_settings": "إعدادات التطبيق",
-            "darkmode": "المظهر",
-            "notification_label": "تفعيل الإشعارات",
-            "notification_body": "نوصي بتمكين الإشعارات لمعرفة آخر التحديثات المهمة لحسابك.",
-            "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
-            "text_size": "حجم الخط"
+            "release_note": "Release Note",
+            "section_title": "Settings",
+            "app_settings": "App Settings",
+            "darkmode": "Appearance",
+            "notification_label": "Activate Notification",
+            "notification_body": "We highly recommend enabling notifications so you know the latest important updates to your account.",
+            "fingerprint_label": "Register Biometrics For Login",
+            "text_size": "Text Size"
         },
         "insured_opinion": {
-            "section_title": "شارك رأيك معنا",
-            "report_problem": "أبلغ عن مشكلة",
-            "rate_app": "قيمنا على متجر التطبيقات",
-            "complaint": "تقديم شكوى"
+            "section_title": "Share Your Opinion With Us",
+            "report_problem": "Report Problem",
+            "rate_app": "Rate Us On App Store",
+            "complaint": "Make A Complaint"
+        }
+    },
+    "authentication": {
+        "activate_fingerprint": {
+            "title": "Activate fingerprint\nauthentication",
+            "sub_title": "Do you want to activate your fingerprint recognition to log in faster next time?",
+            "active_btn": "Activate",
+            "later_btn": "I'll do this later"
+        },
+        "authentication_type": {
+            "title": "Doha Insurance Group",
+            "subtitle": "Pioneering spirit",
+            "qatari_id_login": {
+                "subText": "For Residents",
+                "text1": "Login ",
+                "text2": "by QID"
+            },
+            "passport_login": {
+                "subText": "For Non-Residents",
+                "text1": "Login ",
+                "text2": "by passport"
+            },
+            "tp_claim": {
+                "subText": "For Non-Insured",
+                "text1": "TP ",
+                "text2": "claim"
+            }
+        },
+        "authentication_quick_actions": {
+            "welcome_text": "Welcome Back",
+            "otp": {
+                "text1": "OTP ",
+                "text2": "login"
+            },
+            "biometrics": {
+                "text1": "Biometrics ",
+                "text2": "login"
+            }
+        },
+        "main_login": {
+            "labels": {
+                "national_id_label": "Insured Qatari ID",
+                "expiry_date_label": "Qatari ID Expiry Date",
+                "passport_expiry_date_label": "Passport Expiry Date"
+            },
+            "scan_qatari_id": "Scan Your Qatari ID to Login",
+            "manual_login": "Qatari ID",
+            "response": {
+                "error": {
+                    "wronge_data": "Wronge Qatari ID Or Expiry Date"
+                }
+            }
+        },
+        "travel_inbound_login": {
+            "labels": {
+                "passport_number_label": "Passport #",
+                "nationality_label": "Nationality"
+            },
+            "scan_passport_no": "Scan Your Passport to Login",
+            "manual_login": "Passport"
         }
     },
     "new_insured": {
         "mobile": {
-            "label": "الهاتف المحمول"
+            "label": "Mobile"
         },
         "otp_auth": {
-            "header": "التحقق بخطوتين",
-            "description": "الرجاء إدخال رمز التحقق المرسل إلى هاتفك المحمول #",
+            "header": "Two Step Verification",
+            "description": "Please enter the verification code sent to your registered mobile #",
             "footer": {
-                "text_1": "لم تتلق أي رمز؟ ",
-                "text_2": "إعادة إرسال الرمز"
+                "text_1": "Didn't receive any code? ",
+                "text_2": "Resend New Code"
             }
         }
     },
     "upload_image": {
-        "vehicle_label": "صور السيارة",
-        "qatari_id_label": "البطاقة الشخصية",
-        "car_registration_id_lable": "استمارة السيارة",
-        "registration_id_lable": "الاستمارة",
-        "no_of_image": "{uploadTypeName} {} من {}",
-        "header_message": "في الطلب الأخير يرجى تحميل الملفات المطلوبة, يتم قبول .png, jpg or jpeg",
+        "vehicle_label": "Car Image",
+        "qatari_id_label": "Qatar ID",
+        "car_registration_id_lable": "Car Registration ID",
+        "registration_id_lable": "Registration Id",
+        "no_of_image": "Upload {uploadTypeName} {} out of {}",
+        "header_message": "Please upload the required images .png, jpg or jpeg is accepted only.",
         "image_validation": {
             "error": {
-                "image_required_error": "جميع الصور مطلوبة",
-                "image_no_error": "يجب أن يكون عدد الصور {}",
-                "image_format_ error": "يجب أن يكون نوع الملف .png أو .jpg",
-                "image_required_one_error": "يجب تحميل صورة واحدة على الأقل",
-                "max_images_error": "يجب أن يكون عدد الصور اقل من او يساوي {}"
+                "image_required_error": "All Images Are Required",
+                "image_no_error": "The Number Of Images Should Be {}",
+                "image_format_ error": "File Type Should Be .png or .jpg",
+                "image_required_one_error": "You Should Upload At Least One Image",
+                "max_images_error": "The Number Of Images Should Be Less Than Or Equal {}"
             }
         },
         "medical_claim": {
-            "header_message": "تحميل الملفات ({}) يتم قبول PDF, .png, jpg or jpeg:"
+            "header_message": "Upload Attachments({}) PDF, .png, jpg or jpeg is accepted only:"
         },
         "delete_dialog": {
-            "description": "هل أنت متأكد أنك تريد حذف الملف؟"
+            "description": "Are You Sure You Want To Delete Attachment?"
         }
     },
     "app_bar": {
         "title": {
-            "upload_attachment": "تحميل الصور",
-            "order_summary": "ملخص الطلب",
-            "home": "الرئيسية",
-            "others": "المزيد",
-            "profile": "الملف الشخصي",
-            "policies": "الوثائق",
-            "total_policy": "اجمالي الوثائق",
-            "active_policy": "الوثائق",
-            "welcome": "مرحباً",
-            "motor": "تأمين السيارات",
-            "travel": "تأمين السفر",
-            "domistic_helper": "تأمين الخادمات",
-            "boat": "تأمين قوارب",
-            "personal_accident": "تأمين الحوادث الشخصية",
-            "motor_renewal": "تجديد تامين السيارة",
-            "motor_edit": "تعديل المعلومات",
-            "change_insured": "تغيير المؤمن",
-            "new_insured_motor_claim": "سيارات",
-            "new_non_insured_motor_claim": "السيارات - غير مؤمنة",
-            "ordering_confirmation": "تأكيد الطلب",
-            "notification": "إشعارات",
-            "claims": "المطالبات",
-            "network": "شبكة طبية",
-            "offers": "العروض",
-            "offer_details": "تفاصيل العرض",
-            "incomplete_quot": "عروض السعر الغير مكتملة",
-            "medical_document": "النماذج",
-            "checkout": "إتمام الدفع",
-            "app_release": "تفاصيل الأصدار",
-            "review_order": "مراجعة الطلب",
-            "new_insured": "مؤمن جديد",
-            "edit_email": "تعديل البريد الإلكتروني",
+            "upload_attachment": "Upload Attachment",
+            "order_summary": "Order Summary",
+            "home": "Home",
+            "others": "Others",
+            "profile": "Profile",
+            "policies": "Policies",
+            "total_policy": "Total of Policies",
+            "active_policy": "Policies",
+            "welcome": "Welcome",
+            "motor": "Car Insurance",
+            "travel": "Travel Insurance",
+            "domistic_helper": "Domistic Helper Insurance",
+            "boat": "Boat Insurance",
+            "personal_accident": "Personal Accident Insurance",
+            "motor_renewal": "Car Renewal",
+            "motor_edit": "Edit information",
+            "change_insured": "Change Insured",
+            "new_insured_motor_claim": "Car",
+            "new_non_insured_motor_claim": "Car - Non-Insured",
+            "ordering_confirmation": "Ordering Confirmation",
+            "notification": "Notifications",
+            "claims": "Claims",
+            "network": "Network of Providers",
+            "incomplete_quot": "Incomplete Quotations",
+            "offers": "Offers",
+            "offer_details": "Offer Details",
+            "medical_document": "Forms",
+            "checkout": "Checkout",
+            "app_release": "App Release",
+            "review_order": "Review Order",
+            "new_insured": "New Insured",
+            "edit_email": "Edit Email",
             "medcial": {
-                "individual": "التأمين الصحي للأفراد",
-                "group": "التأمين الصحي الجماعي"
+                "individual": "Individual Medical",
+                "group": "Group Medical"
             }
         },
         "subtitle": {
             "travel": {
-                "inbound": "زوار قطر",
-                "outbound": "السفر خارج قطر"
+                "inbound": "Visiting Qatar",
+                "outbound": "Travel Outside Qatar"
             },
             "medcial": {
-                "individual": "التأمين الصحي للأفراد"
+                "individual": "Individual Medical"
             },
-            "add_claim": "إضافة مطالبة"
+            "add_claim": "Add Claim"
         }
     },
     "profile": {
         "response_message": {
-            "success": "تم تحديث الملف الشخصي بنجاح"
+            "success": "Profile Updated Successfully"
         }
     },
     "home": {
         "renewal": {
-            "title": "مميز",
-            "btn": "جدد الآن",
-            "policyNo": "# اللوحة. {}"
+            "title": "Highlight",
+            "btn": "Renew now",
+            "policyNo": "Plate $: {}"
         },
         "title": {
-            "quotation": "غير مكتمل",
-            "quotation_quot": "عروض الطلب الغير مكتملة",
-            "insurance_policy": "عرض أو تجديد وثيقتك"
+            "quotation": "Incomplete",
+            "quotation_quot": "Incomplete Quotations",
+            "insurance_policy": "View or renew your policy"
         }
     },
     "in_complete_quot": {
-        "MotorTabLabel": "السيارات",
-        "TravelTabLabel": "السفر",
-        "MedcialTabLabel": "الصحي",
-        "empty_list": "لا يوجد طلبات غير مكتملة",
-        "steps_done": "عدد الخطوات المنتهية {}",
-        "chassis": "# القاعدة: {}"
+        "MotorTabLabel": "Car",
+        "TravelTabLabel": "Travel",
+        "MedcialTabLabel": "Medical",
+        "empty_list": "No Quotation Found",
+        "steps_done": "Steps done {}",
+        "chassis": "VIN (Chassis): {}"
     },
     "policies": {
-        "title": "الوثائق الخاصة بك",
-        "policyStartsAfterDays": "سوف تبدأ بعد {} يوم",
-        "total_policy": "اجمالي الوثائق",
-        "active_motor_policy": "وثائق السيارات المفعلة",
-        "active_travel_policy": "وثائق السفر المفعلة",
-        "active_medical_policy": "التأمين الصحي للافراد ",
-        "group_medical": "التأمين الصحي",
-        "domestic_helper_policy": "تأمين العمالة المنزلية",
-        "boat_policy": "تأمين القوارب",
-        "personal_accident_policy": "تأمين الحوادث الشخصية",
-        "expired_policy": "تنتهي الصلاحية يوم\n{}",
-        "policyNo": "رقم الوثيقة #: {}",
-        "chassis_no": "رقم تعريف المركبة (VIN): {}",
-        "extend_policy_request_message": "يرجى الانتظار ريثما يتم\nتجهيز طلبك",
-        "EmptyPolicyAttachment": "الملف فارغ",
-        "EmptyChassisNo": "رقم تعريف المركبة (VIN)",
-        "EmptyPolicyKey": "مفتاح الوثيقة فارغ",
-        "EmptyColorName": "اسم اللون فارغ",
-        "EmptyInsuredName": "اسم المؤمن عليه فارغ",
-        "StartOn": "تاريخ البدء:",
-        "ValidUntil": "صالحة حتى:",
-        "ExpireOn": "تنتهي بتاريخ",
-        "Expired": "منتهية:",
-        "ExtendRequestMessage": "يرجى الانتظار ريثما يتم\nتجهيز طلبك"
+        "title": "{} Policies",
+        "policyStartsAfterDays": "Will Start After {} Days",
+        "total_policy": "All Policies",
+        "active_motor_policy": "Active Car Policy",
+        "active_travel_policy": "Active Travel Policy",
+        "active_medical_policy": "Individual Medical Policy",
+        "group_medical": "Group Medical",
+        "domestic_helper_policy": "Domestic Helper Policy",
+        "boat_policy": "Boat Policy",
+        "personal_accident_policy": "Personal Accident Policy",
+        "expired_policy": "Expire on {}",
+        "policyNo": "Policy # {}",
+        "chassis_no": "VIN (Chassis): {}",
+        "extend_policy_request_message": "Please Wait Until\nPrepare Your Request",
+        "EmptyPolicyAttachment": "Policy Attachment Is Empty, Failed Process",
+        "EmptyChassisNo": "VIN (Chassis) Is Empty, Failed Process",
+        "EmptyPolicyKey": "Policy Key Is Empty, Failed Process",
+        "EmptyColorName": "Color Name Is Empty, Failed Process",
+        "EmptyInsuredName": "Insured Name Is Empty, Failed Process",
+        "StartOn": "Start on",
+        "ValidUntil": "Valid until:",
+        "ExpireOn": "Expire on:",
+        "Expired": "Expired:",
+        "ExtendRequestMessage": "Please Wait Until\nPrepare Your Request"
     },
     "travel_inbound": {
         "travel_policy": {
-            "EntryBefore": "تاريخ الدخول: {}",
-            "EntryBefore1": "تاريخ الدخول: ",
-            "ExpiryOn": "تاريخ الانتهاء: {}",
-            "ExpiryOn1": "تاريخ الانتهاء: ",
-            "CheckStatusWithMOI": "التحقق من الحالة",
-            "StatusResult": "الحالة",
-            "PassportNumber": "# جواز السفر: {}",
-            "PassportNumber1": "# جواز السفر: ",
-            "FullName": "الاسم بالكامل: {}",
-            "TransferedDate": "تاريخ التحويل: {}",
-            "IsTransfered": "وصلت البيانات إلى وزارة الداخلية: {}",
-            "NewPolicy": "وثيقة جديده",
-            "download_policy": "تحميل الوثيقة",
-            "download_card": "تحميل البطاقة",
-            "extend_policy_button": "تمديد البوليصة",
-            "empty_policy_list": "لم يتم العثور على وثائق",
+            "EntryBefore": "Entry Before: {}",
+            "EntryBefore1": "Entry Before: ",
+            "ExpiryOn": "Expiry on: {}",
+            "ExpiryOn1": "Expiry on: ",
+            "CheckStatusWithMOI": "Check MOI Status",
+            "StatusResult": "Status Result",
+            "PassportNumber": "Passport #: {}",
+            "PassportNumber1": "Passport #: ",
+            "FullName": "Full name: {}",
+            "TransferedDate": "Transfered date: {}",
+            "IsTransfered": "Transfered to MOI: {}",
+            "NewPolicy": "New Policy",
+            "download_policy": "Download Policy",
+            "download_card": "Download Card",
+            "extend_policy_button": "Extend Your Policy",
+            "empty_policy_list": "No Policy Found",
             "header_section": {
-                "header1": "وثائق السفر"
+                "header1": "Inbound Travel Policies"
             }
         }
     },
     "change_insured": {
-        "old_insured_information": "معلومات المؤمن عليه القديمة",
-        "new_insured_information": "معلومات المؤمن عليه الجديدة",
-        "nationalid": "# البطاقة الشخصية: {}",
-        "expiry_date": "الصلاحية: {}",
-        "email": "البريد الإلكتروني: {}",
-        "mobile": "# الهاتف: {}",
-        "new_insured_nameAR": "الاسم (عربي): {}",
-        "new_insured_nameEN": "الاسم (إنجليزية): {}",
-        "new_insured": "المؤمن الجديد",
-        "important_dialog": "مهم! ",
-        "dialog_description": "هل أنت متأكد أنك تريد تغير المؤمن؟",
-        "delete_attachment": "هل أنت متأكد أنك تريد حذف الملف؟",
-        "qatari_id_exist_error": "يجب أن تكون البطاقة الشخصية القطرية مختلفة عن هوية المالك الحالية"
+        "old_insured_information": "Old insured information",
+        "new_insured_information": "New insured information",
+        "nationalid": "Qatari ID: {}",
+        "expiry_date": "Expiry Date: {}",
+        "email": "Email: {}",
+        "mobile": "Mobile: {}",
+        "new_insured_nameAR": "Name (Arabic): {}",
+        "new_insured_nameEN": "Name (English): {}",
+        "new_insured": "New Insured",
+        "important_dialog": "Important! ",
+        "dialog_description": "Are you sure you want to change the insured information?",
+        "delete_attachment": "Are you sure you want to delete the attachment?",
+        "qatari_id_exist_error": "The Qatari ID should be distinct from the current owner's ID"
     },
     "motor_claim": {
         "claim_attachment": {
-            "vehicle_label": "مركبة",
-            "car_registration_id_lable": "استمارة السيارة",
-            "policy_report": "تقرير الوثيقة"
+            "vehicle_label": "Car Image",
+            "car_registration_id_lable": "Car Registration ID",
+            "policy_report": "Policy Report"
         }
     },
     "BottomNavigationBar": {
-        "HomeLabel": "الرئيسية",
-        "PoliciesLabel": "الوثائق",
-        "ProfileLabel": "الحساب الشخصي",
-        "OthersLabel": "المزيد",
-        "FitnessLabel": "اللياقة البدنية"
+        "HomeLabel": "Home",
+        "PoliciesLabel": "Policies",
+        "ProfileLabel": "Profile",
+        "OthersLabel": "Others",
+        "FitnessLabel": "Fitness"
     },
     "payment": {
-        "cancel_operation": "تم إلغاء العملية",
-        "TransactionNo": "رقم الدفعة: {}",
-        "PolicyKey": "رقم الوثيقة: {}",
-        "Date": "التاريخ: {}",
-        "DownloadPolicyBtn": "تحميل الوثيقة",
-        "TransactionSuccess": "تمت العملية بنجاح",
-        "TransactionFailure": "فشلت العملية",
-        "done": "الرجوع الى الصفحة الرئيسية"
+        "cancel_operation": "Cancel Operation",
+        "TransactionNo": "Transaction No: {}",
+        "PolicyKey": "Policies: {}",
+        "Date": "Date: {}",
+        "DownloadPolicyBtn": "Download Policy",
+        "TransactionSuccess": "Transaction Completed Successfully",
+        "TransactionFailure": "Transaction Response Failure",
+        "done": "Back To Home Page"
     },
     "notification_screen": {
-        "NotificationTabLabel": "إشعارات",
-        "NotificationEmptyListMessage": "لا توجد إشعارات",
-        "AnnouncementsTabLabel": "الإعلانات",
-        "AnnouncementsEmptyListMessage": "لا توجد إعلانات",
-        "OffersTabLabel": "العروض",
-        "OffersEmptyListMessage": "لا توجد عروض"
+        "NotificationTabLabel": "Notifications",
+        "NotificationEmptyListMessage": "No Notification Found",
+        "AnnouncementsTabLabel": "Announcements",
+        "AnnouncementsEmptyListMessage": "No Announcement Found",
+        "OffersTabLabel": "Offers",
+        "OffersEmptyListMessage": "No Offers Found"
     },
     "InternationalPhoneNumberInput": {
-        "label": "البحث حسب اسم البلد أو رمز البلد",
+        "label": "Search by country name or dial code",
         "error": {
-            "invalid": "# الهاتف غير صحيح"
+            "invalid": "Invalid Phone #"
         }
     },
     "PromoCode": {
-        "Title": "رمز الخصم",
-        "CancelBtn": " الغاء",
-        "ApplyBtn": "استخدم الرمز"
+        "Title": "Promo code",
+        "CancelBtn": "Cancel",
+        "ApplyBtn": "Apply"
     },
     "offers": {
-        "our_offers": "عروضنا",
-        "see_offers": "رؤية العروض",
-        "offers_card": "العروض"
+        "our_offers": "Our Offers",
+        "see_offers": "See Offers",
+        "offers_card": "Offers"
     },
     "QuickActions": {
-        "Title": "الأوامر السريعة",
-        "Benefits": "المميزات",
-        "Network": "شبكة طبية",
-        "Hotline": "الدعم الفني",
-        "Claims": "المطالبات",
-        "MedicalDocument": "نماذج",
-        "GolbalNetworkProvider": "الشبكة العالمية لمقدمي الخدمات",
-        "News": "اخبارنا",
-        "Branches": "فروعنا",
-        "AboutUs": "عن المجموعة",
-        "ContactUs": "اكتب لنا",
-        "CallUs": "اتصل بنا",
-        "ContactWhatsApp": "تواصل عبر الواتس اب",
-        "gGeneralConditionss": "شروط عامة"
+        "Title": "Quick Actions",
+        "Benefits": "Benefits",
+        "Network": "Network of Providers",
+        "Hotline": "24/7 Hotline and Contacts",
+        "Claims": "Claims",
+        "MedicalDocument": "Forms",
+        "GolbalNetworkProvider": "Network of Global Providers",
+        "News": "News",
+        "Branches": "Branches",
+        "AboutUs": "About Us",
+        "ContactUs": "Write To Us",
+        "CallUs": "Call Us",
+        "ContactWhatsApp": "WhatsApp us",
+        "GeneralConditions": "General Conditions"
     },
     "Reviews": {
-        "periodValue": "الفترة: {}",
-        "holder_section": "المالك",
-        "aaccountNoValueo": "# الحساب: {}",
-        "passportNoValue": "# جواز السفر: {}",
-        "birthdayValue": "تاريخ الميلاد: {}",
-        "ageValue": "العمر: {}",
-        "domistic_helper_section": "المساعدة المنزلية",
-        "nationalIdValue": "الرقم الشخصي: {}",
-        "fullNameValue": "الاسم: {}",
-        "genderValue": "الجنس: {}",
-        "natinationalityValueonality": "الجنسية: {}",
-        "emailValue": "البريد الإلكتروني: {}",
-        "mobileValue": "الهاتف: {}",
-        "occupationValue": "المهنة: {}",
-        "individual_medical": "التأمين الصحي للأفراد",
-        "ClaimInformation": "معلومات المطالبة",
-        "claimAmountValue": "المبلغ المطالب به: {}",
-        "rateValue": "سعر الصرف: {}",
-        "reasonValue": "السبب: {}",
-        "reasonNoteValue": "ملاحظة السبب {}",
-        "receiveTreatmentDateValue": "تاريخ تلقي العلاج: {}",
-        "submittedDateValue": "تاريخ التقديم: {}",
-        "amountCurrencyValue": "العُملة: {}",
-        "notesValue": "ملاحظات: {}",
-        "ReffidValue": "الرقم المرجعي: {}",
-        "payment_method": "طريقة الدفع",
-        "plateValue": "# اللوحة: {}",
-        "new_plate": "لوحة جديدة",
-        "chassisValue": "# القاعدة: {}",
-        "colorValue": "اللون: {}",
-        "bodyTypeValue": "شكل السيارة: {}",
-        "cylinderValue": "عدد الأسطوانات: {}",
-        "uusageValuee": "الاستخدام: {}",
-        "carValue": "القيمة التأمينية: {}",
-        "insuredList": "قائمة المؤمن عليهم",
-        "quotationInformation": "تفاصيل الطلب",
-        "planNameValue": "الباقة التأمينية: {}",
-        "ddestinationValuen": "الوجهة: {}",
-        "premium": "صافي القسط",
-        "premiumValue": "صافي القسط: {} QR",
-        "plan_benifits": "مميزات الباقة",
-        "basicAmountValue": "المبلغ الأساسي: {}",
-        "cardFeesValue": "رسوم البطاقة: {}",
-        "totalAmountValue": "المبلغ الإجمالي: {}",
-        "discountValue": "تخفيض: {}",
-        "promo_code": "رمز الخصم",
-        "pay_button": "ادفع الآن",
-        "agree": "أنا أوافق على ",
-        "terms&conditons": "الشروط والأحكام",
-        "apply_promo_code": "هل لديك رمز خصم؟",
-        "rest_promo_code": "الغاء رمز خصم",
-        "planName": "الباقة: {}",
+        "periodValue": "Period: {}",
+        "holder_section": "Holder",
+        "accountNoValue": "Account No: {}",
+        "passportNoValue": "Passport #: {}",
+        "birthdayValue": "Birthday: {}",
+        "ageValue": "Age: {}",
+        "domistic_helper_section": "Domistic Helper",
+        "nationalIdValue": "Qatari ID: {}",
+        "fullNameValue": "Full Name: {}",
+        "genderValue": "Gender: {}",
+        "nationalityValue": "Nationality: {}",
+        "emailValue": "Email: {}",
+        "mobileValue": "Mobile: {}",
+        "occupationValue": "Occupation: {}",
+        "individual_medical": "Individual Medical",
+        "ClaimInformation": "Claim Information",
+        "claimAmountValue": "Claimed Amount: {}",
+        "rateValue": "Rate: {}",
+        "reasonValue": "ٌReason: {}",
+        "reasonNoteValue": "Reason Note: {}",
+        "receiveTreatmentDateValue": "Date Of Receive Treatment: {}",
+        "submittedDateValue": "Submitted Date: {}",
+        "amountCurrencyValue": "Amount Currency: {}",
+        "notesValue": "Notes: {}",
+        "ReffidValue": "Reference: {}",
+        "payment_method": "Payment Method",
+        "plateValue": "Plate: {}",
+        "new_plate": "New Plate",
+        "chassisValue": "VIN (Chassis): {}",
+        "colorValue": "Color: {}",
+        "bodyTypeValue": "Body Type: {}",
+        "cylinderValue": "Cylinder: {}",
+        "usageValue": "Usage: {}",
+        "carValue": "Car Value: {}",
+        "insuredList": "List of insured",
+        "quotationInformation": "Quotation information",
+        "planNameValue": "Plan: {}",
+        "destinationValue": "Destination: {}",
+        "premium": "Premium",
+        "premiumValue": "Premium: {} QR",
+        "plan_benifits": "Plan Benefit",
+        "basicAmountValue": "Basic Amount: {}",
+        "cardFeesValue": "Card Fees: {} QR.",
+        "totalAmountValue": "Total Amount: {}",
+        "discountValue": "Discount: {}",
+        "promo_code": "Promo Code",
+        "pay_button": "Pay Now",
+        "agree": "I Agree With The ",
+        "terms&conditons": "Terms & Conditons",
+        "apply_promo_code": "Do you have a promo code?",
+        "rest_promo_code": "Rest promo code",
+        "planName": "plan name: {}",
         "originalPremium": "Original Premium: {} QR",
-        "reffNoValue": "# المرجع {}",
-        "policyKeyValue": "مفتاح الوثيقة: {}",
-        "policy_key1": "مفتاح الوثيقة: ",
-        "plateNoValue": "# اللوحة: {}",
-        "makeValue": "اسم نوع السيارة: {}",
-        "modelValue": "اسم طراز السيارة: {}",
+        "reffNoValue": "Reff.No. {}",
+        "policyKeyValue": "Policy Key: {}",
+        "policy_key1": "Policy Key: ",
+        "plateNoValue": "Plate #: {}",
+        "makeValue": "Make Name: {}",
+        "modelValue": "Model Name: {}",
         "TravelPlanBenefits": {
-            "section_title": "مميزات الباقة",
-            "benefits_1": "العلاج الطبي للحوادث والطوارئ",
-            "benefits_2": "كوفيد-19 مصاريف العلاج والحجر الصحي",
-            "benefits_3": "المساعدة الطبية الطارئة والإخلاء",
-            "benefits_4": "إعادة جثمان الموتى"
+            "section_title": "Plan benefits",
+            "benefits_1": "Accident & Emergency Medical Treatment",
+            "benefits_2": "Covid-19 Treatment & Quarantine Expenses",
+            "benefits_3": "Emergency Medical Assistance And Evacuation",
+            "benefits_4": "Repatriation Of Mortal Remains"
         }
     },
     "Plans": {
-        "SumInsured": "* المبلغ المؤمن عليه: {}",
-        "Deductible": "* اقتطاع: {}",
-        "PassengerValue": "* قيمة الركاب: {}",
-        "discountDescription": "احصل على خصم {}%",
-        "discountTip": "خصم خاص لأفراد التأمين الطبي الجماعي",
-        "MostPolular": "الاكثر مبيعا",
+        "SumInsured": "* Sum insured: {}",
+        "Deductible": "* Deductible: {}",
+        "PassengerValue": "* Passenger Value: {}",
+        "discountDescription": "You’re getting {}% off",
+        "discountTip": "Special discount for group medical insurance person",
+        "MostPolular": "Most Polular",
         "motor": {
-            "required_error": "مطلوب خطة السيارة",
-            "note1": "توفر هذه الوثيقة تغطيةً لمسؤوليتك القانونية وأي ضرر محتمل قد يلحق بمركبتك.",
-            "note2": "يمكنك إضافة تغطيات إضافية في الخطوة التالية."
+            "required_error": "Car Plan Is Required",
+            "note1": "This policy provides coverage for both your liability and any potential damage to your vehicle.",
+            "note2": "Additional coverages can be added in the next step."
         },
         "travel": {
-            "header": "اختر خطة سفرك",
-            "required_error": "خطة السفر مطلوبة",
-            "inbound_plan_subtitle": "صلاحية السياسة تصل إلى {}",
-            "haya_plan_subtitle": "صلاحية السياسة تصل إلى {}",
-            "PlansNetwork": "شبكة خطط السفر"
+            "header": "Choose your travel plan",
+            "required_error": "Travel Plan Is Required",
+            "inbound_plan_subtitle": "Policy validity up to {}",
+            "haya_plan_subtitle": "Policy validity up to {}",
+            "PlansNetwork": "Travel Plans Network"
         },
         "medical": {
-            "selectInsured": "اختر الباقة التأمينية للمؤمَّن ",
-            "insurance_services": "الخدمات المضمنة",
-            "required_error": "الخطة مطلوبة",
-            "plan_benefit": "مزايا الخطة",
-            "PlansNetwork": "شبكة الخطط الطبية",
-            "InsuredAge": "عمر المؤمن عليه: {}"
+            "selectInsured": "Choose the insurance package for the insured",
+            "insurance_services": "Included Services",
+            "required_error": "Plan Is Required",
+            "plan_benefit": "Plan Benefit",
+            "PlansNetwork": "Medical Plans Network",
+            "InsuredAge": "Insured age: {}"
         }
     },
     "NewInsuredList": {
-        "worker_list_header": "قائمة المساعدين المنزليين",
-        "empty_list": "قائمة المساعدين المنزليين فارغة ",
-        "new_worker": "إضافة مساعدة منزلية",
-        "another_worker": "إضافة مساعدة منزلية أخرى",
-        "beneficiaries_header": "الأشخاص المستفيدون",
-        "empty_beneficiary_list": "لم تقم بإضافة أي مستفيد بعد",
-        "new_beneficiaries": "أضف مستفيدًا جديدًا",
-        "visitor_list_header": "قائمة الزوار",
-        "new_visitor": "اضافة زائر جديد",
-        "insured_list_header": "قائمة المؤمن عليهم",
-        "new_insured": "إضافة مؤمن عليه جديد",
+        "worker_list_header": "List Of Domistic Helper",
+        "empty_list": "Domestic helper list is empty",
+        "new_worker": "Add New Worker",
+        "another_worker": "Add Another Worker",
+        "beneficiaries_header": "List Of beneficiaries",
+        "empty_beneficiary_list": "Beneficiary list is empty",
+        "new_beneficiaries": "Add New Beneficiary",
+        "visitor_list_header": "List of Visitor People",
+        "new_visitor": "Add new visitor",
+        "insured_list_header": "List of Insured People",
+        "new_insured": "Add new insured",
         "delete_dialog": {
-            "title": "معلومات",
-            "description": "هل أنت متأكد أنك تريد حذف المؤمن عليه؟",
-            "Beneficiarydescription": "هل أنت متأكد من حذف هذا المستفيد؟",
-            "Visitordescription": "هل أنت متأكد من حذف هذا الزائر؟"
+            "title": "Info",
+            "description": "Are You Sure You Want To Delete This Insured?",
+            "Beneficiarydescription": "Are You Sure You Want To Delete This Beneficiary?",
+            "Visitordescription": "Are You Sure You Want To Delete This Visitor?"
         }
     },
     "Quotatoin": {
-        "InboundServices": "زيارة قطر",
-        "OutboundServices": "السفر لخارج دول قطر",
+        "InboundServices": "Inbound/Visiting Qatar",
+        "OutboundServices": "Travel Outside Qatar",
         "list_card": {
-            "birthday": "تاريخ الميلاد\n{}",
+            "birthday": "Birthday\n{}",
             "passport_no": "{}: {}"
         }
     },
     "health": {
-        "home": "الرئيسية",
+        "home": "Home",
         "dig": "DIG",
-        "profile": "الملف الشخصي",
-        "more": "المزيد",
-        "try_again": "محاولة مرة أخرى",
-        "hello": "مرحباً!",
-        "something_went_wrong": "حدث خطأ ما",
-        "loading": "جاري التحميل...",
-        "syncing": "جاري مزامنة البيانات...",
-        "no_sleep_data": "لا توجد بيانات نوم لليوم المحدد",
-        "day": "اليوم",
-        "month": "الشهر",
-        "year": "السنة",
-        "y": "سنة",
-        "cancel": "إلغاء",
-        "continue": "متابعة",
-        "kg": "كغ",
-        "cm": "سم",
-        "you_can_change_provider_later": "يمكنك تغيير هذا لاحقاً من الإعدادات",
-        "no_meals": "لا توجد لديك وجبات تم مسحها مؤخراَ.",
-        "not_installed": "غير مثبت",
-        "daily_goal": "الهدف اليومي",
-        "scan": "اضغط لمسح الصورة",
-        "step": "خطوة",
-        "target": "الهدف",
-        "choose_data_source": "اختر مصدر البيانات الصحية الخاصة بك",
-        "choose_data_source_description": "يعتمد تطبيقنا على هذه الخدمات لجمع بيانات الخطوات. يرجى السماح بالوصول عند الطلب حسب المصدر أو الجهاز الذي اخترته.",
-        "apps": "تطبيقات",
-        "devices": "أجهزة",
-        "connected": "مرتبط",
-        "choose": "أختيار",
-        "height": "الطول",
-        "weight": "الوزن",
-        "Jan": "يناير",
-        "Feb": "فبراير",
-        "Mar": "مارس",
-        "Apr": "أبريل",
-        "May": "مايو",
-        "Jun": "يونيو",
-        "Jul": "يوليو",
-        "Aug": "أغسطس",
-        "Sep": "سبتمبر",
-        "Oct": "أكتوبر",
-        "Nov": "نوفمبر",
-        "Dec": "ديسمبر",
-        "recovery": "التعافي",
-        "activity": "النشاط",
-        "heartrate": "معدل ضربات القلب",
-        "stress": "التوتر",
-        "steps_tap": "الخطوات",
-        "meals_tap": "الوجبات",
-        "sleep_tap": "النوم",
+        "profile": "Profile",
+        "more": "More",
+        "try_again": "Try Again",
+        "hello": "Hello!",
+        "something_went_wrong": "Something went wrong",
+        "loading": "Loading...",
+        "syncing": "Syncing Data...",
+        "no_sleep_data": "No sleep data available for the selected day",
+        "day": "Day",
+        "month": "Month",
+        "year": "Year",
+        "y": "Y",
+        "cancel": "CANCEL",
+        "continue": "CONTINUE",
+        "kg": "kg",
+        "cm": "cm",
+        "you_can_change_provider_later": "You can change this later in settings",
+        "no_meals": "You have no meals history data yet.",
+        "not_installed": "Not Installed",
+        "daily_goal": "Daily Goal",
+        "scan": "Tap Button to Scan",
+        "step": "Step",
+        "target": "Target",
+        "choose_data_source": "Choose data source for your Health Data",
+        "choose_data_source_description": "DIG app imports steps data from these services. Please give access when requested for the chosen source app or device provider.",
+        "apps": "Apps",
+        "devices": "Devices",
+        "connected": "Connected",
+        "choose": "Choose",
+        "height": "Height",
+        "weight": "Weight",
+        "Jan": "Jan",
+        "Feb": "Feb",
+        "Mar": "Mar",
+        "Apr": "Apr",
+        "May": "May",
+        "Jun": "Jun",
+        "Jul": "Jul",
+        "Aug": "Aug",
+        "Sep": "Sep",
+        "Oct": "Oct",
+        "Nov": "Nov",
+        "Dec": "Dec",
+        "recovery": "Recovery",
+        "activity": "Activity",
+        "heartrate": "Heartrate",
+        "stress": "Stress",
+        "steps_tap": "Steps",
+        "meals_tap": "Meals",
+        "sleep_tap": "Sleep",
         "bmi_tips": {
-            "underweight_1": "حاول تناول أطعمة غنية بالبروتين مثل البيض واللحوم والبقوليات.",
-            "underweight_2": "أضف وجبات خفيفة صحية بين الوجبات لزيادة السعرات.",
-            "underweight_3": "اشرب الحليب كامل الدسم أو العصائر لزيادة السعرات بطريقة صحية.",
-            "underweight_4": "ركز على تمارين القوة لبناء الكتلة العضلية.",
-            "underweight_5": "تناول وجبات منتظمة وتجنب تفويت أي وجبة.",
-            "normal_1": "حافظ على نظام غذائي متوازن يشمل الخضروات والفواكه والبروتين والكربوهيدرات.",
-            "normal_2": "مارس التمارين بانتظام: كارديو، قوة، ومرونة.",
-            "normal_3": "اشرب كمية كافية من الماء يوميًا.",
-            "normal_4": "نم 7–9 ساعات كل ليلة.",
-            "normal_5": "راقب وزنك من وقت لآخر للبقاء على المسار الصحي.",
-            "overweight_1": "امشِ 30 دقيقة يوميًا على الأقل للمساعدة في حرق السعرات.",
-            "overweight_2": "قلل من المشروبات السكرية والأطعمة عالية السعرات.",
-            "overweight_3": "أضف تمارين القوة 2–3 مرات أسبوعيًا.",
-            "overweight_4": "تناول المزيد من الخضروات والألياف للشعور بالشبع.",
-            "overweight_5": "نم بشكل كافٍ لدعم فقدان الوزن.",
-            "overweight_6": "قلل حجم الوجبات تدريجيًا، لا تتخطى أي وجبة.",
-            "overweight_7": "حافظ على الاستمرارية؛ الخطوات الصغيرة تؤدي لنتائج طويلة الأمد.",
-            "obese_1": "استشر أخصائي صحي للحصول على توجيهات شخصية.",
-            "obese_2": "ركز على تغييرات غذائية تدريجية ونشاط بدني منتظم.",
-            "obese_3": "راقب وزنك ومؤشر كتلة الجسم بانتظام.",
-            "obese_4": "أدرج تمارين الكارديو والقوة ضمن روتينك.",
-            "obese_5": "تجنب الحميات القاسية؛ البطء والثبات أكثر أمانًا."
+            "underweight_1": "Try to include more protein-rich foods like eggs, meat, and legumes.",
+            "underweight_2": "Add healthy snacks between meals to increase calorie intake.",
+            "underweight_3": "Drink full-fat milk or smoothies to gain calories healthily.",
+            "underweight_4": "Focus on strength training to build muscle mass.",
+            "underweight_5": "Eat meals regularly and avoid skipping any.",
+            "normal_1": "Maintain a balanced diet with vegetables, fruits, protein, and carbs.",
+            "normal_2": "Exercise regularly: cardio, strength, and flexibility.",
+            "normal_3": "Stay hydrated by drinking enough water daily.",
+            "normal_4": "Get 7–9 hours of sleep every night.",
+            "normal_5": "Track your weight occasionally to stay on track.",
+            "overweight_1": "Walk at least 30 minutes daily to help burn calories.",
+            "overweight_2": "Reduce sugary drinks and high-calorie foods.",
+            "overweight_3": "Incorporate strength training 2–3 times per week.",
+            "overweight_4": "Eat more vegetables and fiber to feel full.",
+            "overweight_5": "Get enough sleep to support weight loss.",
+            "overweight_6": "Reduce portion sizes gradually, don’t skip meals.",
+            "overweight_7": "Stay consistent; small steps lead to long-term results.",
+            "obese_1": "Consult a healthcare professional for personalized guidance.",
+            "obese_2": "Focus on gradual dietary changes and consistent physical activity.",
+            "obese_3": "Track your weight and BMI regularly.",
+            "obese_4": "Incorporate both cardio and strength training into your routine.",
+            "obese_5": "Avoid crash diets; slow and steady is safer."
         },
         "sleep": {
-            "today_sleep": "إحصائيات النوم لليوم",
-            "yesterday_sleep": "إحصائيات النوم ليوم أمس",
-            "sleep_statistics_for_the_day": "إحصائيات النوم ليوم {day}/{month}/{year}",
-            "heart_rate": "معدل ضربات القلب (نبضة/دقيقة)",
-            "breathing_rate": "معدل التنفس (نفس/دقيقة)",
-            "spo2": "تشبع الأكسجين (٪)",
-            "sleep_quality": "جودة النوم",
-            "sleep_awake": "استيقاظ",
-            "sleep_light": "نوم خفيف",
-            "sleep_deep": "نوم عميق",
-            "sleep_rem": "نوم REM",
-            "time_in_bed": "الوقت في السرير",
-            "hrs": "س",
-            "mins": "د",
-            "2h": "ساعتان",
-            "4h": "4 ساعات",
-            "6h": "6 ساعات",
-            "bad": "سيئ",
-            "average": "متوسط",
-            "good": "جيد",
-            "excellent": "ممتاز",
-            "max": "أقصى",
-            "min": "أدنى"
+            "today_sleep": "Sleep statistics for the day",
+            "yesterday_sleep": "Sleep statistics for yesterday",
+            "sleep_statistics_for_the_day": "Sleep statistics for the day {day}/{month}/{year}",
+            "heart_rate": "Heart Rate (bpm)",
+            "breathing_rate": "Breathing (br/m)",
+            "spo2": "SpO2 (%)",
+            "sleep_quality": "Sleep Quality",
+            "sleep_awake": "Awake",
+            "sleep_light": "Light",
+            "sleep_deep": "Deep",
+            "sleep_rem": "REM",
+            "time_in_bed": "Time in Bed",
+            "hrs": "hrs",
+            "mins": "mins",
+            "2h": "2h",
+            "4h": "4h",
+            "6h": "6h",
+            "bad": "Bad",
+            "average": "Average",
+            "good": "Good",
+            "excellent": "Excellent",
+            "max": "Max",
+            "min": "Min"
         },
         "select_main_provider": {
-            "title": "اختر مصدر\nالبيانات الصحية",
+            "title": "Choose Your\nHealth Data Source",
             "health_connect": "Health Connect",
-            "health_connect_description": "منصة موحدة لجميع بيانات الصحة واللياقة على أندرويد",
+            "health_connect_description": "Unified Platform for all health & fitness data on Android",
             "google_fit": "Google Fit",
-            "google_fit_connect_description": "امنح التطبيق الإذونات المطلوبة لتزويدك بالبيانات الصحية.",
-            "install_health_connect": "اضغط هنا لتنزيل تطبيق Health Connect",
+            "google_fit_connect_description": "Grant permission to the Google Fit app to provide you with health data.",
+            "install_health_connect": "Click here to Download Health Connect App",
             "samsung_health": "Samsung Health",
-            "samsung_health_description": "منصة سامسونج للبيانات الصحية لأجهزة سامسونج",
+            "samsung_health_description": "Samsung's health data platform for Samsung devices",
             "apple_health": "Apple Health",
-            "apple_health_description": "منصة آبل للبيانات الصحية لأجهزة iOS",
-            "no_provider_selected": "يرجى اختيار مصدر البيانات للمتابعة"
+            "apple_health_description": "Apple's health data platform for iOS devices",
+            "no_provider_selected": "Please select Provider to continue"
         },
         "scan_food": {
-            "title": "امسح وجبتك",
-            "processing": "لحظة من فضلك...",
-            "processing_desc": "يقوم الذكاء الاصطناعي بتحليل الصورة",
-            "loading_camera": "جاري فتح الكاميرا...",
-            "instruction": "لمساعدة التطبيق على التعرف على وجبتك، تأكد من أن الوجبة موضوعة على سطح مستوٍ، والإضاءة جيدة، والصورة داخل الإطار، والكاميرا ثابتة وواضحة."
+            "title": "Scan Your Meal",
+            "processing": "Just a second...",
+            "processing_desc": "Our AI is processing your photo",
+            "loading_camera": "Opening Camera...",
+            "instruction": "To help our app detect your meal make sure the meal is on a flat surface and well lit, within the frame, and the camera is steady and focused."
         },
         "meals": {
-            "loading": "جاري تحميل بيانات الوجبات...",
-            "failed": "فشل في تحميل بيانات الوجبات",
-            "burned": "تم حرق",
-            "eaten": "تم تناولها",
-            "kcal_left": "سعرات متبقية"
+            "loading": "Loading your meals data...",
+            "failed": "Failed to load Meals Data.",
+            "burned": "Burned",
+            "eaten": "Eaten",
+            "kcal_left": "Kcal left"
         },
         "meals_categories": {
-            "title": "اختر فئة الطعام",
-            "loading": "جاري تحميل فئات الطعام..."
+            "title": "Choose Food Category",
+            "loading": "Loading food categories..."
         },
         "meals_scanned_recently": {
-            "title": "الوجبات الممسوحة مؤخراً"
+            "title": "Meals Scanned Recently"
         },
         "food_information": {
-            "calories_unit": "سعرة حرارية",
-            "serving_size": "حجم الحصة",
-            "g": "غ",
-            "protein": "بروتين",
-            "carbs": "كربوهيدرات",
-            "fat": "دهون"
+            "calories_unit": "kcal",
+            "serving_size": "Serving Size",
+            "g": "g",
+            "protein": "Protein",
+            "carbs": "Carbs",
+            "fat": "Fat"
         },
         "health_profile": {
-            "loading": "جاري تحميل بيانات الملف الشخصي...",
-            "failed_to_load": "فشل في تحميل بيانات الملف الشخصي",
-            "title": "ملفك الشخصي",
-            "age": "العمر",
-            "gender": "الجنس",
-            "bmi": "مؤشر كتلة الجسم",
-            "bmi_score": "تقييم مؤشر كتلة الجسم",
-            "health_level": "المستوى الصحي",
-            "weight_hint": "أدخل وزنك بالكيلوغرام",
-            "height_hint": "أدخل طولك بالسنتيمتر",
-            "complete_your_profile": "ساعدنا على تخصيص رحلتك الصحية",
-            "complete_your_profile_desc": "أضف طولك ووزنك للحصول على نصائح وتوصيات أدق.",
-            "update_information": "تحديث المعلومات",
-            "update_information_desc": "تحديث الوزن والطول يساعدنا على تقديم أفضل نصائح لك.",
-            "last_updated": "آخر تحديث",
-            "update_btn": "تحديث",
-            "body_metrics": "مقاييس الجسم",
-            "weight_gain_needed": "تحتاج إلى زيادة حوالي {} كغ للوصول إلى النطاق الصحي.",
-            "weight_loss_needed": "تحتاج إلى خسارة حوالي {} كغ للوصول إلى النطاق الصحي.",
-            "weight_healthy": "وزنك ضمن النطاق الصحي.",
-            "low": "منخفض",
-            "normal": "طبيعي",
-            "high": "مرتفع",
-            "above_range": "أعلى من المعدل الصحي",
-            "body_composition_goal": "هدف تكوين الجسم",
-            "suggested_weight": "الوزن الصحي المقترح"
+            "loading": "Loading profile data...",
+            "failed_to_load": "Failed to load profile data",
+            "title": "Your Profile",
+            "age": "Age",
+            "gender": "Gender",
+            "bmi": "BMI",
+            "bmi_score": "BMI Score",
+            "health_level": "Health Level",
+            "weight_hint": "Enter your weight in (kg)",
+            "height_hint": "Enter your height in (cm)",
+            "complete_your_profile": "Help us personalize your fitness journey",
+            "complete_your_profile_desc": "Add your height and weight to get accurate advice and recommendations.",
+            "update_information": "Update Information",
+            "update_information_desc": "Keeping your weight and height current helps us give you the best advice.",
+            "last_updated": "Last Updated",
+            "update_btn": "Update",
+            "body_metrics": "Body Metrics",
+            "weight_gain_needed": "You need to gain about {} kg to reach a healthy range.",
+            "weight_loss_needed": "You need to lose about {} kg to reach a healthy range.",
+            "weight_healthy": "Your weight is within the healthy range.",
+            "low": "Low",
+            "normal": "Normal",
+            "high": "High",
+            "above_range": "Above Healthy Range",
+            "body_composition_goal": "Body Composition Goal",
+            "suggested_weight": "Suggested Healthy Weight"
         },
         "health_others": {
-            "title": "المزيد",
-            "welcome": "مرحباً",
-            "notification": "الإشعارات",
-            "general": "عام",
-            "help": "المساعدة",
-            "data_providers": "مصادر البيانات",
-            "logout": "فصل الحساب"
+            "title": "More",
+            "welcome": "Welcome",
+            "notification": "Notification",
+            "general": "General",
+            "help": "Help",
+            "data_providers": "Data Providers",
+            "logout": "Disconnect Account"
         }
     },
-    "closeAppWearing": "هل أنت متأكد أنك تريد الخروج من التطبيق؟"
+    "closeAppWearing": "Are you sure you want to exit the app?"
 }
