@@ -179,7 +179,7 @@
             }
         },
         "Usage": {
-            "Header": "Choose Usage Type",
+            "Header": "Choose Vehicle Usage",
             "Validation": {
                 "Required": "Usage Is Required"
             }
