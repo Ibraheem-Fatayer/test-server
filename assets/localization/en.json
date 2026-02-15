@@ -907,7 +907,8 @@
         "tearms_and_conditions_btn": "Terms & Conditions",
         "claims_btn": "Claims",
         "medical_certificate_btn": "Certificate",
-        "remaining_limt_btn": "Remaining Limit"
+        "remaining_limt_btn": "Remaining Limit",
+        "new_policy_bnt": "Create New Policy"
     },
     "response": {
         "error": {

@@ -907,7 +907,8 @@
         "tearms_and_conditions_btn": "الشروط والأحكام",
         "claims_btn": "المطالبات",
         "medical_certificate_btn": "الشهادة",
-        "remaining_limt_btn": "الرصيد الصحي المتبقي"
+        "remaining_limt_btn": "الرصيد الصحي المتبقي",
+        "new_policy_bnt": "إنشاء وثيقة جديدة"
     },
     "response": {
         "error": {
