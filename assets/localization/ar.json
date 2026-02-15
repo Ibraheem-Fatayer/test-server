@@ -675,13 +675,6 @@
                 "Email": "البريد الإلكتروني غير صالح"
             }
         },
-        "Capacity": {
-            "Lable": "",
-            "Validation": {
-                "Required": "حقل عدد مقاعد السيارة مطلوب",
-                "Format": "عدد مقاعد السيارة يقبل الأرقام فقط"
-            }
-        },
         "ClaimAmount": {
             "Lable": "",
             "Validation": {

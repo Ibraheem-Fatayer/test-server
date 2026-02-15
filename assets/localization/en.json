@@ -675,13 +675,6 @@
                 "Format": "Invalid Email Address"
             }
         },
-        "Capacity": {
-            "Lable": "",
-            "Validation": {
-                "Required": "Seating Capacity is required",
-                "Format": "Seating Capacity Should Be Number Only"
-            }
-        },
         "ClaimAmount": {
             "Lable": "",
             "Validation": {
