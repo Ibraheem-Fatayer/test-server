@@ -766,8 +766,7 @@
             }
         },
         "ManufactureYear": {
-            "Lable": "",
-            "Header": "Choose Manufacture Year",
+            "Lable": "Year of Manufacture",
             "Validation": {
                 "Required": "Manufacture Year Is Required",
                 "Format": "Manufacture Year Accept Number Only",

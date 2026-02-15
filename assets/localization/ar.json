@@ -766,8 +766,7 @@
             }
         },
         "ManufactureYear": {
-            "Lable": "",
-            "Header": "اختر سنة الصنع",
+            "Lable": "سنة الصنع",
             "Validation": {
                 "Required": "سنة تصنيع السيارة مطلوب",
                 "Format": "سنة الصنع يقبل ارقام فقط",
