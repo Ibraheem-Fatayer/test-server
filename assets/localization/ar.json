@@ -545,12 +545,6 @@
                 "Required": "تاريخ انتهاء الصلاحية مطلوب"
             }
         },
-        "Validity": {
-            "Lable": "مدة صلاحية البطاقة الشخصية",
-            "Validation": {
-                "Required": "يرجى إدخال مدة صلاحية البطاقة الشخصية"
-            }
-        },
         "SelectNationality": {
             "Lable": "الجنسية",
             "Header": "Select the visitor nationality.",

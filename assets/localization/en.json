@@ -535,7 +535,7 @@
         "QatariIDExpiryDate": {
             "Lable": "Qatari ID Expiry Date",
             "Validation": {
-                "Required": "Qatari ID Expiry Date Is Required",
+                "Required": "Expiry Date Is Required",
                 "InvalidExpiryDate": "Invalid Expiry Date"
             }
         },
@@ -543,12 +543,6 @@
             "Lable": "Passport Expiry Date",
             "Validation": {
                 "Required": "Passport Expiry Date Is Required"
-            }
-        },
-        "Validity": {
-            "Lable": "Qatari ID Expiry Date",
-            "Validation": {
-                "Required": "Qatari ID Expiry Date Is Required"
             }
         },
         "SelectNationality": {
