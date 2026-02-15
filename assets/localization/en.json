@@ -676,10 +676,10 @@
             }
         },
         "ClaimAmount": {
-            "Lable": "",
+            "Lable": "Claimed Amount",
             "Validation": {
-                "Required": "Claim Amount Is Required",
-                "Format": "Claim Amount Accepts Numbers Only"
+                "Required": "Claimed Amount Is Required",
+                "Format": "Claimed Amount Accepts Numbers Only"
             }
         },
         "PatientName": {
