@@ -691,9 +691,9 @@
             }
         },
         "ClaimDate": {
-            "Lable": "Claim Date (Treatment Date)",
+            "Lable": "Transaction date",
             "Validation": {
-                "Required": "Claim Date Is Required"
+                "Required": "Transaction date Is Required"
             }
         },
         "AmountCurrency": {

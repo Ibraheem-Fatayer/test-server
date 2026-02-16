@@ -260,7 +260,7 @@
             "ValidationError": {
                 "Required": "حقل # اللوحة مطلوب",
                 "Length": "يجب أن يكون # اللوحة أقل من أو يساوي 6",
-                "Format": "Plate number must be 6 digits only. R, T, or Q is allowed at the end."
+                "Format": "يجب أن يتكون رقم اللوحة من 6 أرقام فقط، ويُسمح بالحروف R أو T أو Q في النهاية."
             }
         },
         "InsuredRelations": {
@@ -548,7 +548,7 @@
         },
         "SelectNationality": {
             "Lable": "الجنسية",
-            "Header": "Select the visitor nationality.",
+            "Header": "يرجى اختيار جنسية الزائر",
             "InsuredHeader": "برجاء اختيار الجنسية",
             "Hint": "برجاء الاختيار",
             "Validation": {
@@ -691,19 +691,19 @@
             }
         },
         "ClaimDate": {
-            "Lable": "Claim Date (Treatment Date)",
+            "Lable": "تاريخ المعاملة",
             "Validation": {
-                "Required": "تاريخ المطالبة مطلوب"
+                "Required": "تاريخ المعاملة مطلوب"
             }
         },
         "AmountCurrency": {
-            "Lable": "Amount Currency",
+            "Lable": "العملة المطالب بها",
             "Validation": {
                 "Required": "العملة مطلوبة"
             }
         },
         "ClaimReason": {
-            "Lable": "Claim Reason",
+            "Lable": "السبب",
             "Validation": {
                 "Required": "السبب مطلوب"
             }
