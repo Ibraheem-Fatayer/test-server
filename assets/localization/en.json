@@ -208,7 +208,7 @@
             }
         },
         "Country": {
-            "Label": "Select the insured country of residence",
+            "Label": "Select Country Of Residence",
             "Validation": {
                 "Required": "Country Is Required"
             }
