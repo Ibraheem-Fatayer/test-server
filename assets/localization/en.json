@@ -548,8 +548,8 @@
         },
         "SelectNationality": {
             "Lable": "Nationality",
-            "Header": "Select the visitor nationality.",
-            "InsuredHeader": "Select the insured Nationality",
+            "Header": "Select Visitor Nationality.",
+            "InsuredHeader": "Select Insured Nationality",
             "Hint": "Select Nationality",
             "Validation": {
                 "Required": "Nationality Is Required"
