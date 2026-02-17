@@ -942,12 +942,40 @@
         "update_plane": "Please Wait, We are Updating The Plan",
         "fetching_dashboard_data": "Please wait, we are fetching your data"
     },
+    "ChassisNoVerification": {
+        "ChassisVerificationDigits": "Enter the Last 6 digits of your car VIN (Chassis)",
+        "description": "You can find them in your policy or your car registration card",
+        "WrongValue": "Wrong VIN (Chassis), Please try again",
+        "AlternativeMethod": "Didn't get the VIN (Chassis)? You can continue using ",
+        "AnotherOption": "another option"
+    },
+    "OTPVerification": {
+        "Label": "OTP",
+        "Description": "Please enter the verification code sent to your registered {provider}",
+        "Sending": "Sending OTP...",
+        "WrongValue": "Wrong OTP, Please try again",
+        "FrequentlyRequest": "Too many OTP requests. Please wait a minute before requesting a new code.",
+        "FrequentlyAttempts": "You've made too many attempts. Please wait 30 minutes before trying again.",
+        "NotReceived": "Didn't receive any code? ",
+        "ResendNewCode": "Resend New Code",
+        "Or": "\n or \n",
+        "IncorrectMobile": "incorrect mobile number? ",
+        "IncorrectEmail": "incorrect email? ",
+        "UpdateIt": "Update it."
+    },
+    "IndividualNoVerification": {
+        "Label": "Medical Individual #",
+        "Description": "Please enter your Individual #",
+        "WrongValue": "Wrong Individual #, Please try again",
+        "NotHaveIndividualNo": "Didn't have individual #?\n",
+        "AlternativeMethod": "You can continue using ",
+        "AnotherOption": "another option"
+    },
     "authorization": {
         "LoginToNewAccount": "Login using another account",
-        "face_recognition": {
-            "success_message": "Your Qatar ID and face recognition have been successfully verified! To ensure seamless communication, please update your mobile number now."
-        },
+        "VerificationSuccessUpdateMobile": "Your Qatar ID and face recognition have been successfully verified! To ensure seamless communication, please update your mobile number now.",
         "authorize_login": "Authorize your login",
+        "TwoStepVerification": "Two Step Verification",
         "verification_code_description": {
             "description": {
                 "text_1": "In addition to your ID, you’ll have to enter a verification ",
@@ -959,60 +987,14 @@
                 "text_2": "(Use Face Recognition) "
             }
         },
-        "chassis_no_verification": "Last 6 digits of VIN (Chassis)",
-        "individual_number": "Medical Individual #",
-        "otp_verification": "OTP",
-        "facial_recognition": "Facial Recognition",
-        "you_can": "you can",
         "facial_recognition_warning": "Before updating your mobile number, we need to verify your identity using face recognition.",
         "otp": {
-            "header": "Two Step Verification",
-            "description": "Please enter the verification code sent to your registered {provider}",
-            "request": {
-                "sending": "Sending OTP..."
-            },
             "response": {
                 "error": {
                     "wrong_value": "Wrong OTP, Please try again",
                     "frequently_request": "Too many OTP requests. Please wait a minute before requesting a new code.",
                     "frequently_attempts": "You've made too many attempts. Please wait 30 minutes before trying again."
                 }
-            },
-            "footer": {
-                "text_1": "Didn't receive any code? ",
-                "text_2": "Resend New Code",
-                "text_3": "\n or \n",
-                "text_4": "incorrect mobile number? ",
-                "incorrect_email": "incorrect email? ",
-                "text_5": "Update it."
-            }
-        },
-        "chassis_no": {
-            "header": "Two Step Verification",
-            "description1": "Enter the Last 6 digits of your car VIN (Chassis)",
-            "description2": "You can find them in your policy or your car registration card",
-            "response": {
-                "error": {
-                    "wrong_value": "Wrong VIN (Chassis), Please try again"
-                }
-            },
-            "footer": {
-                "text_1": "Didn't get the VIN (Chassis)? You can continue using ",
-                "text_2": "another option"
-            }
-        },
-        "individual_no": {
-            "header": "Two Step Verification",
-            "description": "Please enter your Individual #",
-            "response": {
-                "error": {
-                    "wrong_value": "Wrong Individual #, Please try again"
-                }
-            },
-            "footer": {
-                "text_1": "Didn't have individual #?\n",
-                "text_2": "You can continue using ",
-                "text_3": "another option"
             }
         }
     },
