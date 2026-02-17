@@ -943,6 +943,7 @@
         "fetching_dashboard_data": "Please wait, we are fetching your data"
     },
     "ChassisNoVerification": {
+        "Label": "Last 6 digits of VIN (Chassis)",
         "ChassisVerificationDigits": "Enter the Last 6 digits of your car VIN (Chassis)",
         "description": "You can find them in your policy or your car registration card",
         "WrongValue": "Wrong VIN (Chassis), Please try again",
