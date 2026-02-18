@@ -1303,7 +1303,8 @@
         "ValidUntil": "صالحة حتى:",
         "ExpireOn": "تنتهي بتاريخ",
         "Expired": "منتهية:",
-        "ExtendRequestMessage": "يرجى الانتظار ريثما يتم\nتجهيز طلبك"
+        "ExtendRequestMessage": "يرجى الانتظار ريثما يتم\nتجهيز طلبك",
+        "VesselName": "اسم القارب: {}"
     },
     "travel_inbound": {
         "travel_policy": {
@@ -1405,7 +1406,7 @@
         "ContactUs": "اكتب لنا",
         "CallUs": "اتصل بنا",
         "ContactWhatsApp": "تواصل عبر الواتس اب",
-        "GeneralConditionss": "شروط عامة"
+        "gGeneralConditionss": "شروط عامة"
     },
     "Reviews": {
         "periodValue": "الفترة: {}",

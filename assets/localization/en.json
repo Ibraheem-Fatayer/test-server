@@ -1300,7 +1300,8 @@
         "ValidUntil": "Valid until:",
         "ExpireOn": "Expire on:",
         "Expired": "Expired:",
-        "ExtendRequestMessage": "Please Wait Until\nPrepare Your Request"
+        "ExtendRequestMessage": "Please Wait Until\nPrepare Your Request",
+        "VesselName": "Vessel name: {}"
     },
     "travel_inbound": {
         "travel_policy": {
