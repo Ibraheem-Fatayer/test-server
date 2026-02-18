@@ -1257,15 +1257,11 @@
         }
     },
     "home": {
+        "quotation": "Incomplete",
         "renewal": {
             "title": "Highlight",
             "btn": "Renew now",
             "policyNo": "Plate $: {}"
-        },
-        "title": {
-            "quotation": "Incomplete",
-            "quotation_quot": "Incomplete Quotations",
-            "insurance_policy": "View or renew your policy"
         }
     },
     "in_complete_quot": {

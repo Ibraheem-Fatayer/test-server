@@ -1260,15 +1260,11 @@
         }
     },
     "home": {
+        "quotation": "غير مكتمل",
         "renewal": {
             "title": "مميز",
             "btn": "جدد الآن",
             "policyNo": "# اللوحة. {}"
-        },
-        "title": {
-            "quotation": "غير مكتمل",
-            "quotation_quot": "عروض الطلب الغير مكتملة",
-            "insurance_policy": "عرض أو تجديد وثيقتك"
         }
     },
     "in_complete_quot": {
