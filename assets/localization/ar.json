@@ -1277,7 +1277,9 @@
         "MedcialTabLabel": "الصحي",
         "empty_list": "لا يوجد طلبات غير مكتملة",
         "steps_done": "عدد الخطوات المنتهية {}",
-        "chassis": "# القاعدة: {}"
+        "chassis": "# القاعدة: {}",
+        "Quotation": "رقم الطلب: {}",
+        "CreationDate": "تاريخ إنشاء الطلب: {}"
     },
     "policies": {
         "title": "الوثائق الخاصة بك",

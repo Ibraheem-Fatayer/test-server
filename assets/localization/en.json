@@ -1274,7 +1274,9 @@
         "MedcialTabLabel": "Medical",
         "empty_list": "No Quotation Found",
         "steps_done": "Steps done {}",
-        "chassis": "VIN (Chassis): {}"
+        "chassis": "VIN (Chassis): {}",
+        "Quotation": "Quotation #: {}",
+        "CreationDate": "Draft creation date: {}"
     },
     "policies": {
         "title": "{} Policies",
