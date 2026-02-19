@@ -1150,13 +1150,6 @@
         "rate_app": "قيمنا على متجر التطبيقات {}"
     },
     "others": {
-        "company_info": {
-            "title": {
-                "news": "اخبارنا",
-                "branches": "فروعنا",
-                "contact_us": "اكتب لنا"
-            }
-        },
         "language": {
             "section_title": "اللغات",
             "arabic": "العربية",

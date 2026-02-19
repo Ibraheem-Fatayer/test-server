@@ -1087,13 +1087,6 @@
         "rate_app": "Rate Us On {}"
     },
     "others": {
-        "company_info": {
-            "title": {
-                "news": "News",
-                "branches": "Branches",
-                "contact_us": "Write To Us"
-            }
-        },
         "language": {
             "section_title": "Languages",
             "arabic": "العربية",
