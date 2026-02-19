@@ -999,6 +999,15 @@
             }
         }
     },
+    "app_service": {
+        "insurance_type_lable": "Buy New Policy",
+        "auto_insurance": "Car Insurance",
+        "travel_insurance": "Travel Insurance",
+        "medical_insurance": "Medical Insurance",
+        "domestic_insurance": "Domestic Insurance",
+        "boat_insurance": "Boat Insurance",
+        "personal_accident_insurance": "Personal Accident Insurance"
+    },
     "choices": {
         "app_service": {
             "insurance_type_lable": "Buy New Policy",

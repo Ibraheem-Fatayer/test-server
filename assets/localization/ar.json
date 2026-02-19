@@ -1059,6 +1059,15 @@
             "manual_login": "جواز السفر"
         }
     },
+    "app_service": {
+        "insurance_type_lable": "شراء وثيقة جديدة",
+        "auto_insurance": "تأمين السيارات",
+        "travel_insurance": "تأمين السفر",
+        "medical_insurance": "التأمين الصحي",
+        "domestic_insurance": "تأمين الخدمات المنزلية",
+        "boat_insurance": "تأمين قوارب",
+        "personal_accident_insurance": "تأمين الحوادث الشخصية"
+    },
     "choices": {
         "app_service": {
             "insurance_type_lable": "شراء وثيقة جديدة",
