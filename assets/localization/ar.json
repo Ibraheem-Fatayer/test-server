@@ -1130,6 +1130,25 @@
             "add_claim": {}
         }
     },
+    "language": {
+        "section_title": "اللغات",
+        "arabic": "العربية",
+        "english": "English"
+    },
+    "settings": {
+        "release_note": "تفاصيل الإصدار",
+        "section_title": "إعدادات",
+        "app_settings": "إعدادات التطبيق",
+        "darkmode": "المظهر",
+        "notification_label": "تفعيل الإشعارات",
+        "notification_body": "نوصي بتمكين الإشعارات لمعرفة آخر التحديثات المهمة لحسابك.",
+        "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
+        "text_size": "حجم الخط"
+    },
+    "insured_opinion": {
+        "section_title": "شارك رأيك معنا",
+        "rate_app": "قيمنا على متجر التطبيقات"
+    },
     "others": {
         "company_info": {
             "title": {

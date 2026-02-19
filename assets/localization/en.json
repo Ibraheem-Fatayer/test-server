@@ -1067,6 +1067,25 @@
             "add_claim_lable": "Add Claim"
         }
     },
+    "language": {
+        "section_title": "Languages",
+        "arabic": "العربية",
+        "english": "English"
+    },
+    "settings": {
+        "release_note": "Release Note",
+        "section_title": "Settings",
+        "app_settings": "App Settings",
+        "darkmode": "Appearance",
+        "notification_label": "Activate Notification",
+        "notification_body": "We highly recommend enabling notifications so you know the latest important updates to your account.",
+        "fingerprint_label": "Register Biometrics For Login",
+        "text_size": "Text Size"
+    },
+    "insured_opinion": {
+        "section_title": "Share Your Opinion With Us",
+        "rate_app": "Rate Us On {}"
+    },
     "others": {
         "company_info": {
             "title": {
