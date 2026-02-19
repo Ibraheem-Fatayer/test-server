@@ -1155,23 +1155,6 @@
                 "news": "اخبارنا",
                 "branches": "فروعنا",
                 "contact_us": "اكتب لنا"
-            },
-            "branches": {
-                "mobile": {
-                    "in_valid_mobile_error": "# الهاتف غير صحيح",
-                    "empty_mobile_error": "# الهاتف فارغ"
-                },
-                "email": {
-                    "in_valid_email_error": "البريد الإلكتروني غير صحيح",
-                    "empty_email_error": "البريد الإلكتروني فارغ"
-                },
-                "dayes": {
-                    "day_1": "الأحد - الخميس",
-                    "day_2": "السبت"
-                },
-                "time": "يفتح: {open} - يغلق: {close}",
-                "browse_location": "تصفح ",
-                "location": "الموقع"
             }
         },
         "language": {

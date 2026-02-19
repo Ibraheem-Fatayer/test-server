@@ -1092,23 +1092,6 @@
                 "news": "News",
                 "branches": "Branches",
                 "contact_us": "Write To Us"
-            },
-            "branches": {
-                "mobile": {
-                    "in_valid_mobile_error": "In-valid Mobile",
-                    "empty_mobile_error": "Mobile Is Empty"
-                },
-                "email": {
-                    "in_valid_email_error": "In-valid Email",
-                    "empty_email_error": "Email Is Empty"
-                },
-                "dayes": {
-                    "day_1": "Sunday - Thursday",
-                    "day_2": "Saturday"
-                },
-                "time": "Open: {open} - Close: {close}",
-                "browse": "Browse ",
-                "location": "Location"
             }
         },
         "language": {
