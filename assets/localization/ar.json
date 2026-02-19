@@ -1147,7 +1147,7 @@
     },
     "insured_opinion": {
         "section_title": "شارك رأيك معنا",
-        "rate_app": "قيمنا على متجر التطبيقات"
+        "rate_app": "قيمنا على متجر التطبيقات {}"
     },
     "others": {
         "company_info": {
