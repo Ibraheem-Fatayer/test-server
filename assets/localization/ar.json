@@ -900,7 +900,7 @@
     "response": {
         "error": {
             "no_data_found": "لاتوجد بيانات",
-            "failed_process": "فشلت العملية، يرجى المحاولة مرة أخرى",
+            "failed_process": "حدث خطأ أثناء العملية. الرجاء المحاولة مرة أخرى.",
             "failed_process2": "عذراً، الخدمة غير متوفرة حالياً. يرجى المحاولة مرة أخرى قريباً",
             "no_insured": "لم يتم العثور على المؤمن عليه",
             "network_connection": "لا يوجد اتصال شبكة",
@@ -1068,21 +1068,6 @@
         "boat_insurance": "تأمين قوارب",
         "personal_accident_insurance": "تأمين الحوادث الشخصية"
     },
-    "choices": {
-        "app_service": {
-            "insurance_type_lable": "شراء وثيقة جديدة",
-            "auto_insurance": "تأمين السيارات",
-            "travel_insurance": "تأمين السفر",
-            "medical_insurance": "التأمين الصحي",
-            "domestic_insurance": "تأمين الخدمات المنزلية",
-            "boat_insurance": "تأمين قوارب",
-            "personal_accident_insurance": "تأمين الحوادث الشخصية"
-        },
-        "travel_service": {
-            "travel_inbound": "تأمين القادمين إلى قطر",
-            "travel_outbound": "تأمين السفر الى خارج قطر"
-        }
-    },
     "medical_group": {
         "no_image": "لم يتم العثور على صورة",
         "no_card": "لم يتم العثور على بطاقات",
@@ -1125,9 +1110,6 @@
         "add_claim_choice": {
             "title": "إضافة مطالبة صحية",
             "add_claim_lable": "إضافة مطالبة"
-        },
-        "medical_claim": {
-            "add_claim": {}
         }
     },
     "language": {
@@ -1148,29 +1130,6 @@
     "insured_opinion": {
         "section_title": "شارك رأيك معنا",
         "rate_app": "قيمنا على متجر التطبيقات {}"
-    },
-    "others": {
-        "language": {
-            "section_title": "اللغات",
-            "arabic": "العربية",
-            "english": "English"
-        },
-        "settings": {
-            "release_note": "تفاصيل الإصدار",
-            "section_title": "إعدادات",
-            "app_settings": "إعدادات التطبيق",
-            "darkmode": "المظهر",
-            "notification_label": "تفعيل الإشعارات",
-            "notification_body": "نوصي بتمكين الإشعارات لمعرفة آخر التحديثات المهمة لحسابك.",
-            "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
-            "text_size": "حجم الخط"
-        },
-        "insured_opinion": {
-            "section_title": "شارك رأيك معنا",
-            "report_problem": "أبلغ عن مشكلة",
-            "rate_app": "قيمنا على متجر التطبيقات",
-            "complaint": "تقديم شكوى"
-        }
     },
     "new_insured": {
         "mobile": {

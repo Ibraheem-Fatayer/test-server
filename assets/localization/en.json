@@ -900,7 +900,7 @@
     "response": {
         "error": {
             "no_data_found": "No Data Found",
-            "failed_process": "Failed Process, Please Try Again",
+            "failed_process": "Something went wrong. Please try again.",
             "failed_process2": "Sorry, the service isn't available right now. Please try again",
             "no_insured": "No Insured Found",
             "network_connection": "No Network Connection",
@@ -1008,21 +1008,6 @@
         "boat_insurance": "Boat Insurance",
         "personal_accident_insurance": "Personal Accident Insurance"
     },
-    "choices": {
-        "app_service": {
-            "insurance_type_lable": "Buy New Policy",
-            "auto_insurance": "Car Insurance",
-            "travel_insurance": "Travel Insurance",
-            "medical_insurance": "Medical Insurance",
-            "domestic_insurance": "Domestic Insurance",
-            "boat_insurance": "Boat Insurance",
-            "personal_accident_insurance": "Personal Accident Insurance"
-        },
-        "travel_service": {
-            "travel_inbound": "Inbound/Visiting Qatar",
-            "travel_outbound": "Outbound"
-        }
-    },
     "medical_group": {
         "no_image": "No Image Found",
         "no_card": "No Card Found",
@@ -1085,29 +1070,6 @@
     "insured_opinion": {
         "section_title": "Share Your Opinion With Us",
         "rate_app": "Rate Us On {}"
-    },
-    "others": {
-        "language": {
-            "section_title": "Languages",
-            "arabic": "العربية",
-            "english": "English"
-        },
-        "settings": {
-            "release_note": "Release Note",
-            "section_title": "Settings",
-            "app_settings": "App Settings",
-            "darkmode": "Appearance",
-            "notification_label": "Activate Notification",
-            "notification_body": "We highly recommend enabling notifications so you know the latest important updates to your account.",
-            "fingerprint_label": "Register Biometrics For Login",
-            "text_size": "Text Size"
-        },
-        "insured_opinion": {
-            "section_title": "Share Your Opinion With Us",
-            "report_problem": "Report Problem",
-            "rate_app": "Rate Us On App Store",
-            "complaint": "Make A Complaint"
-        }
     },
     "authentication": {
         "activate_fingerprint": {
