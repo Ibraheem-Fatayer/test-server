@@ -32,6 +32,7 @@
     "NationalID": "National ID :",
     "ExpiryOn": "Expire on :",
     "PolicyNO": "Policy No :",
+    "closeAppWearing": "Are you sure you want to exit the app?",
     "ContactUs": {
         "title": "Contact Us",
         "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
@@ -1673,6 +1674,5 @@
             "data_providers": "Data Providers",
             "logout": "Disconnect Account"
         }
-    },
-    "closeAppWearing": "Are you sure you want to exit the app?"
+    }
 }
