@@ -1068,6 +1068,10 @@
         "fingerprint_label": "Register Biometrics For Login",
         "text_size": "Text Size"
     },
+    "calender_reminders": {
+        "cancel_reminders": "Cancel Policy Reminders",
+        "cancel_reminders_description": "Your policy reminders will be removed from your calendar. You can always re-enable them later."
+    },
     "insured_opinion": {
         "section_title": "Share Your Opinion With Us",
         "rate_app": "Rate Us On {}"

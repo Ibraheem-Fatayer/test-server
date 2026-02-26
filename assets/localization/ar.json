@@ -1128,6 +1128,10 @@
         "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
         "text_size": "حجم الخط"
     },
+    "calender_reminders": {
+        "cancel_reminders": "إيقاف تذكيرات وثائق التأمين",
+        "cancel_reminders_description": "سيتم حذف جميع تذكيرات التأمين المضافة إلى تقويمك. يمكنك إعادة تفعيلها متى تشاء."
+    },
     "insured_opinion": {
         "section_title": "شارك رأيك معنا",
         "rate_app": "قيمنا على متجر التطبيقات {}"
