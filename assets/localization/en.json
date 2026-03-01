@@ -36,6 +36,11 @@
     "BiometricEnablePrompt": "Biometric authentication isn’t set up on your device.To improve your security and make logging in faster, please enable Touch ID or Face ID in your device settings.",
     "UpdateQidImage": "Please upload a new image of your Qatari ID to ensure your records are up to date.",
     "Warning": "Warning",
+    "OfflineMode": {
+        "Title": "Offline Mode",
+        "OfflineState": "No Internet Connect",
+        "OnlineState": "Internet Connect"
+    },
     "ReleasNote": {
         "Title": "What’s New in This Update:",
         "AppReleaseVersion": "Version: {}"
@@ -948,7 +953,8 @@
         "upload_attachment": "Upload Attachment In-Process",
         "fetching_car_model": "Please Wait, We are Fetching Car Model",
         "update_plane": "Please Wait, We are Updating The Plan",
-        "fetching_dashboard_data": "Please wait, we are fetching your data"
+        "fetching_dashboard_data": "Please wait, we are fetching your data",
+        "creating_claim": "Please Wait, We Are Creating Your Claim"
     },
     "ChassisNoVerification": {
         "Label": "Last 6 digits of VIN (Chassis)",
