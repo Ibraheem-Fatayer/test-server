@@ -1189,6 +1189,7 @@
         "title": {
             "upload_attachment": "Upload Attachment",
             "order_summary": "Order Summary",
+            "payment_status": "Ordering Confirmation",
             "home": "Home",
             "others": "Others",
             "profile": "Profile",
@@ -1465,7 +1466,8 @@
         "motor": {
             "required_error": "Car Plan Is Required",
             "note1": "This policy provides coverage for both your liability and any potential damage to your vehicle.",
-            "note2": "Additional coverages can be added in the next step."
+            "note2": "Additional coverages can be added in the next step.",
+            "AdditionalServicesInfo": "You can choose and pay for one or more additional services."
         },
         "travel": {
             "header": "Choose your travel plan",
