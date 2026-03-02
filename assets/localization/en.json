@@ -36,6 +36,11 @@
     "BiometricEnablePrompt": "Biometric authentication isn’t set up on your device.To improve your security and make logging in faster, please enable Touch ID or Face ID in your device settings.",
     "UpdateQidImage": "Please upload a new image of your Qatari ID to ensure your records are up to date.",
     "Warning": "Warning",
+    "InvalidUrlFomat": "Invalid Url Fomat",
+    "EmptyLink": "{} Link Not Found",
+    "InValidMobile": "In-valid Mobile",
+    "EmptyMobile": "Mobile Is Empty",
+    "OpenUrlError": "Unable to open the URL",
     "OfflineMode": {
         "Title": "Offline Mode",
         "OfflineState": "No Internet Connect",
@@ -54,6 +59,7 @@
         "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
     },
     "Profile": {
+        "UnsavedChangesPrompt": "Would you like to save the changes you made, or continue updating your information before saving?",
         "Passport": "Passport",
         "QID_Passport": "Qatari ID/Passport",
         "QID_Details": "Qatari ID Details",
@@ -1023,6 +1029,7 @@
         "personal_accident_insurance": "Personal Accident Insurance"
     },
     "medical_group": {
+        "account_group_missing": "Your account is not linked to any medical group.",
         "no_image": "No Image Found",
         "no_card": "No Card Found",
         "no_medical_card": "No Medical Card Found",
@@ -1505,6 +1512,11 @@
         }
     },
     "Quotatoin": {
+        "SelfInsured": "My Self",
+        "AnotherBeneficiary": "Multiple Traveller",
+        "AnotherInsured": "Multible Insured",
+        "Family": "Family",
+        "Othere": "Other Insured",
         "InboundServices": "Inbound/Visiting Qatar",
         "OutboundServices": "Travel Outside Qatar",
         "list_card": {
