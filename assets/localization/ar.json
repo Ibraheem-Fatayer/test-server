@@ -1502,6 +1502,26 @@
             "Visitordescription": "هل أنت متأكد من حذف هذا الزائر؟"
         }
     },
+    "Quotation": {
+        "SelfInsured": "المؤمن عليه بنفسه",
+        "AnotherBeneficiary": "اكثر من مسافر",
+        "AnotherInsured": "اكثر من مؤمن",
+        "Family": "العائلة",
+        "Othere": "تامين شخص اخر",
+        "InboundServices": "زيارة قطر",
+        "OutboundServices": "السفر لخارج دول قطر",
+        "InsuranceService": "تأمين",
+        "CarService": "السيارات",
+        "TravelService": "السفر",
+        "MedicalService": "الصحي",
+        "DomesticHelperService": "خدامات",
+        "BoatService": "قوارب",
+        "PersonalAccidentService": "الحوادث الشخصية",
+        "list_card": {
+            "birthday": "تاريخ الميلاد\n{}",
+            "passport_no": "{}: {}"
+        }
+    },
     "Quotatoin": {
         "SelfInsured": "المؤمن عليه بنفسه",
         "AnotherBeneficiary": "اكثر من مسافر",

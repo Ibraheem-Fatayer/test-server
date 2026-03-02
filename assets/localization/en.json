@@ -1502,6 +1502,26 @@
             "Visitordescription": "Are You Sure You Want To Delete This Visitor?"
         }
     },
+    "Quotation": {
+        "SelfInsured": "My Self",
+        "AnotherBeneficiary": "Multiple Traveller",
+        "AnotherInsured": "Multible Insured",
+        "Family": "Family",
+        "Othere": "Other Insured",
+        "InboundServices": "Inbound/Visiting Qatar",
+        "OutboundServices": "Travel Outside Qatar",
+        "InsuranceService": "Insurance",
+        "CarService": "Car",
+        "TravelService": "Travel",
+        "MedicalService": "Medical",
+        "DomesticHelperService": "Domestic\nHelper",
+        "BoatService": "Boat",
+        "PersonalAccidentService": "Personal\nAccident",
+        "list_card": {
+            "birthday": "Birthday\n{}",
+            "passport_no": "{}: {}"
+        }
+    },
     "Quotatoin": {
         "SelfInsured": "My Self",
         "AnotherBeneficiary": "Multiple Traveller",
