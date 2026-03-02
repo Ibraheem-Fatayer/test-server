@@ -1516,6 +1516,13 @@
         "Othere": "تامين شخص اخر",
         "InboundServices": "زيارة قطر",
         "OutboundServices": "السفر لخارج دول قطر",
+        "InsuranceService": "تأمين",
+        "CarService": "السيارات",
+        "TravelService": "السفر",
+        "MedicalService": "الصحي",
+        "DomesticHelperService": "خدامات",
+        "BoatService": "قوارب",
+        "PersonalAccidentService": "الحوادث الشخصية",
         "list_card": {
             "birthday": "تاريخ الميلاد\n{}",
             "passport_no": "{}: {}"

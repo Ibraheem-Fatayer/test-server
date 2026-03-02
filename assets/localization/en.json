@@ -1516,6 +1516,13 @@
         "Othere": "Other Insured",
         "InboundServices": "Inbound/Visiting Qatar",
         "OutboundServices": "Travel Outside Qatar",
+        "InsuranceService": "Insurance",
+        "CarService": "Car",
+        "TravelService": "Travel",
+        "MedicalService": "Medical",
+        "DomesticHelperService": "Domestic\nHelper",
+        "BoatService": "Boat",
+        "PersonalAccidentService": "Personal\nAccident",
         "list_card": {
             "birthday": "Birthday\n{}",
             "passport_no": "{}: {}"
