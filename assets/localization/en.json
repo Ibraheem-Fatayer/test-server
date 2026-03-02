@@ -125,6 +125,10 @@
         "app_bar": "FAQ",
         "Title": "Frequently Asked Questions",
         "SearchHint": "Search FAQs...",
+        "AllTabLabel": "All",
+        "MotorTabLabel": "Motor",
+        "MedicalTabLabel": "Medical",
+        "TravelTabLabel": "Travel",
         "Categories": {
             "All": "All",
             "Motor": "Motor",

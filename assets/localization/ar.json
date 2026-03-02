@@ -125,6 +125,10 @@
         "app_bar": "الأسئلة الشائعة",
         "Title": "الأسئلة الشائعة",
         "SearchHint": "ابحث في الأسئلة الشائعة...",
+        "AllTabLabel": "الكل",
+        "MotorTabLabel": "المركبات",
+        "MedicalTabLabel": "الطبية",
+        "TravelTabLabel": "السفر",
         "Categories": {
             "All": "الكل",
             "Motor": "المركبات",
