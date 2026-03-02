@@ -936,7 +936,8 @@
             "create_claim": "Claim Created Successfully",
             "upload_data": "Data Updated Successfully",
             "update_date": "Data Updated Successfully",
-            "successful_operation": "Successful Operation"
+            "successful_operation": "Successful Operation",
+            "payment_type": "Payment Type Updated Successfully"
         }
     },
     "request": {
@@ -1240,18 +1241,11 @@
             "add_claim": "Add Claim"
         }
     },
-    "profile": {
-        "response_message": {
-            "success": "Profile Updated Successfully"
-        }
-    },
     "home": {
         "quotation": "Incomplete",
-        "renewal": {
-            "title": "Highlight",
-            "btn": "Renew now",
-            "policyNo": "Plate $: {}"
-        }
+        "RenewalPolicyTitle": "Highlight",
+        "RenewBtn": "Renew now",
+        "PolicyNo": "Plate $: {}"
     },
     "in_complete_quot": {
         "MotorTabLabel": "Car",

@@ -936,7 +936,8 @@
             "create_claim": "تم إنشاء المطالبة بنجاح",
             "upload_data": "تم تحميل البيانات بنجاح",
             "update_date": "تم تحديث البيانات بنجاح",
-            "successful_operation": "تمت العملية بنجاح"
+            "successful_operation": "تمت العملية بنجاح",
+            "payment_type": "تم تحديث طريقة الدفع بنجاح"
         }
     },
     "request": {
@@ -1240,18 +1241,11 @@
             "add_claim": "إضافة مطالبة"
         }
     },
-    "profile": {
-        "response_message": {
-            "success": "تم تحديث الملف الشخصي بنجاح"
-        }
-    },
     "home": {
         "quotation": "غير مكتمل",
-        "renewal": {
-            "title": "مميز",
-            "btn": "جدد الآن",
-            "policyNo": "# اللوحة. {}"
-        }
+        "RenewalPolicyTitle": "مميز",
+        "RenewBtn": "جدد الآن",
+        "PolicyNo": "# اللوحة. {}"
     },
     "in_complete_quot": {
         "MotorTabLabel": "السيارات",
