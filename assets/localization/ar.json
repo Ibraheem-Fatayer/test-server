@@ -1447,7 +1447,7 @@
         "apply_promo_code": "هل لديك رمز خصم؟",
         "rest_promo_code": "الغاء رمز خصم",
         "planName": "الباقة: {}",
-        "originalPremium": "Original Premium: {} QR",
+        "originalPremium": "المبلغ الأصلي للتأمين: {} QR",
         "reffNoValue": "# المرجع {}",
         "policyKeyValue": "مفتاح الوثيقة: {}",
         "policy_key1": "مفتاح الوثيقة: ",
