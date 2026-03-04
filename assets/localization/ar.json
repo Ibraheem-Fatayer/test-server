@@ -73,7 +73,8 @@
         "dark": "الوضع الداكن",
         "light": "الوضع الفاتح",
         "system": "كما في النظام",
-        "note": "عند تحديد ”كما في النظام“، سيتبع التطبيق مظهر جهازك تلقائيًا."
+        "note": "عند تحديد ”كما في النظام“، سيتبع التطبيق مظهر جهازك تلقائيًا.",
+        "ShamelNote": "عند تحديد ”كما في النظام“، سيتبع التطبيق مظهر جهازك تلقائيًا."
     },
     "TextSize": {
         "title": "حجم الخط",
@@ -81,7 +82,8 @@
         "medium": "متوسط",
         "large": "كبير",
         "system": "كما في النظام",
-        "note": "عند اختيار ”كما في النظام“، سيقوم تطبيق DIG بضبط حجم النص تلقائيًا ليتوافق مع إعدادات جهازك."
+        "note": "عند اختيار ”كما في النظام“، سيقوم تطبيق DIG بضبط حجم النص تلقائيًا ليتوافق مع إعدادات جهازك.",
+        "ShamelNote": "عند اختيار ”كما في النظام“، سيقوم تطبيق Shamel بضبط حجم النص تلقائيًا ليتوافق مع إعدادات جهازك."
     },
     "error_state": {
         "plans": "لم يتم العثور على خطة، يرجى المحاولة مرة أخرى.",
@@ -107,11 +109,13 @@
     "about_us": {
         "executive": {
             "title": "الأعضاء التنفيذيين",
-            "description": "يضم فريق القيادة التنفيذية في مجموعة الدوحة للتأمين نخبة من الخبراء المخضرمين ذوي الخبرة الواسعة في التأمين والتمويل والإدارة الاستراتيجية. وتضمن قيادتهم استمرار نمو المجموعة وتميزها التشغيلي والتزامها الراسخ بتقديم قيمة مضافة لأصحاب المصلحة في الأسواق المحلية والدولية."
+            "description": "يضم فريق القيادة التنفيذية في مجموعة الدوحة للتأمين نخبة من الخبراء المخضرمين ذوي الخبرة الواسعة في التأمين والتمويل والإدارة الاستراتيجية. وتضمن قيادتهم استمرار نمو المجموعة وتميزها التشغيلي والتزامها الراسخ بتقديم قيمة مضافة لأصحاب المصلحة في الأسواق المحلية والدولية.",
+            "ShamelDescription": "The Executive Leadership Team at Doha Islamic Insurance comprises seasoned professionals with deep expertise in insurance, finance, and strategic management. Their leadership ensures the Group’s continued growth, operational excellence, and unwavering commitment to delivering value to stakeholders across local and international markets."
         },
         "board": {
             "title": "أعضاء مجلس الإدارة",
-            "description": "يتولى مجلس إدارة مجموعة الدوحة للتأمين الإشراف الاستراتيجي والحوكمة، بما يضمن أعلى معايير المساءلة والشفافية والنزاهة المؤسسية. ويضم المجلس قادةً مرموقين ذوي خبرات متنوعة في مجالات المالية وإدارة المخاطر والأعمال الدولية، ويلعب دورًا محوريًا في توجيه رؤية المجموعة طويلة الأمد ونموها المستدام."
+            "description": "يتولى مجلس إدارة مجموعة الدوحة للتأمين الإشراف الاستراتيجي والحوكمة، بما يضمن أعلى معايير المساءلة والشفافية والنزاهة المؤسسية. ويضم المجلس قادةً مرموقين ذوي خبرات متنوعة في مجالات المالية وإدارة المخاطر والأعمال الدولية، ويلعب دورًا محوريًا في توجيه رؤية المجموعة طويلة الأمد ونموها المستدام.",
+            "ShamelDescription": "The Board of Directors at Doha Islamic Insurance provides strategic oversight and governance, ensuring the highest standards of accountability, transparency, and corporate integrity. Comprising respected leaders with diverse backgrounds in finance, risk management, and international business, the Board plays a vital role in guiding the Group’s long-term vision and sustainable growth."
         }
     },
     "Faq": {
@@ -140,6 +144,7 @@
     "MainAppService": {
         "Branches": "فروعنا",
         "Offers": "عروض DIG",
+        "ShamelOffers": "عروض Shamel",
         "DefenseTactics": "تكتيكات الدفاع",
         "TalkToSanad": "تحدث إلى سند"
     },
@@ -163,6 +168,7 @@
         "CardSubTitle": "مساعدك التأميني على مدار 24/7",
         "SubTitle": "مساعد التأمين الخاص بك",
         "CallCenter": "مركز خدمة عملاء DIG 24/7",
+        "ShamelCallCenter": "مركز خدمة عملاء Shamel 24/7",
         "RoadsideAssistance": "مساعدة على الطريق 24/7",
         "LiveChat": "الدردشة المباشرة مع أحد الموظفين",
         "MedicalClaim": "تقديم مطالبة طبية على الفور",
@@ -850,6 +856,7 @@
         "TotalPolicy": "قم بإدارة جميع وثائق التأمين الخاصة بك على السيارات والسفر والتأمين الطبي بسهولة وفي مكان واحد. تابع الوثائق السارية والمنتهية بكل بساطة.",
         "InsuredPolicies": "يمكنك متابعة جميع وثائق التأمين الخاصة بك بكل سهولة, اضغط على الخدمة لعرض الوثائق السارية والمنتهية.",
         "DIGHelpline": "اضغط على هذا الزر للوصول إلى الدعم السريع. يمكنك الاتصال بمركز اتصالات DIG في أي وقت، الحصول على المساعدة على الطريق، الدردشة مباشرة مع وكيل، أو تقديم مطالبات طبية ومطالبات سيارات فورًا. يمكنك أيضًا تصفح الأسئلة الشائعة (FAQ) للحصول على الإرشادات.",
+        "ShamelHelpline": "Tap this button to access quick support. You can contact the Shamel Call Center anytime, get roadside assistance, chat live with an agent, or file medical and motor claims instantly. You can also browse frequently asked questions (FAQ) for guidance.",
         "SOSEmergency": "اضغط على هذا الزر للاتصال بسرعة بخدمات الطوارئ في قطر للحصول على المساعدة العاجلة.",
         "PlusButton": "إنشاء عروض تأمين بسهولة من خلال تبسيط العملية، والوصول إلى خدمات تغطية شاملة بضغطة بسيطة.",
         "Home": "قم بإدارة التأمين الخاص بك بسهولة — عرض وثائقك، إنشاء عروض جديدة، ومتابعة العروض غير المكتملة، كل ذلك في تجربة تطبيق سلسة.",
@@ -1026,6 +1033,7 @@
         },
         "authentication_type": {
             "title": "مجموعة الدوحة للتامين",
+            "ShamelTitle": "Doha Islamic Insurance",
             "subtitle": "روح الريادة",
             "qatari_id_login": {
                 "subText": "للمقيمين",
