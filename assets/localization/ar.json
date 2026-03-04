@@ -1427,7 +1427,7 @@
         "colorValue": "اللون: {}",
         "bodyTypeValue": "شكل السيارة: {}",
         "cylinderValue": "عدد الأسطوانات: {}",
-        "uusageValuee": "الاستخدام: {}",
+        "usageValue": "الاستخدام: {}",
         "carValue": "القيمة التأمينية: {}",
         "insuredList": "قائمة المؤمن عليهم",
         "quotationInformation": "تفاصيل الطلب",
