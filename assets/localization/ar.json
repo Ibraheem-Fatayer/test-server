@@ -918,7 +918,8 @@
         "claims_btn": "المطالبات",
         "medical_certificate_btn": "الشهادة",
         "remaining_limt_btn": "الرصيد الصحي المتبقي",
-        "new_policy_bnt": "إنشاء وثيقة جديدة"
+        "new_policy_bnt": "إنشاء وثيقة جديدة",
+        "SelectPlan": "اختَر الباقة"
     },
     "response": {
         "error": {
