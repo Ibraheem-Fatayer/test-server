@@ -66,7 +66,8 @@
         "ResidentDetails": "Qatar local address details",
         "leave_profile": "You have unsaved changes. Are you sure you want to leave this page without saving your information?",
         "update_warning": "To update your profile you should change at least one field",
-        "QatariIDImageError": "Qatari ID image must be attached to update the information"
+        "QatariIDImageError": "Qatari ID image must be attached to update the information",
+        "UploadQIDPrompt": "Before submitting your medical claim, please upload a clear image of your Qatari ID (Account Holder). Would you like to upload it now?"
     },
     "theme": {
         "title": "Appearance",
