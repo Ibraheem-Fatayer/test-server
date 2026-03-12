@@ -1562,6 +1562,10 @@
             "passport_no": "{}: {}"
         }
     },
+    "StoryView": {
+        "Title": "What's New",
+        "SwipeUp": "Swipe up to open the link"
+    },
     "health": {
         "home": "Home",
         "dig": "DIG",
