@@ -1564,7 +1564,8 @@
     },
     "StoryView": {
         "Title": "What's New",
-        "SwipeUp": "Swipe up to open the link"
+        "SwipeUp": "Swipe up to open the link",
+        "StoryNotAvailable": "No story available"
     },
     "health": {
         "home": "Home",
