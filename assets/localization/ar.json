@@ -34,6 +34,7 @@
     "InValidMobile": "رقم الهاتف غير صحيح",
     "EmptyMobile": "رقم الهاتف فارغ",
     "OpenUrlError": "تعذّر الوصول إلى الرابط",
+    "FileNotGenerated": "File Not Generated",
     "OfflineMode": {
         "Title": "وضع عدم الاتصال بالإنترنت",
         "OfflineState": "لا يوجد اتصال بالإنترنت",
