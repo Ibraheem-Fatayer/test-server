@@ -34,7 +34,7 @@
     "InValidMobile": "رقم الهاتف غير صحيح",
     "EmptyMobile": "رقم الهاتف فارغ",
     "OpenUrlError": "تعذّر الوصول إلى الرابط",
-    "FileNotGenerated": "File Not Generated",
+    "FileNotGenerated": "لم يتم إنشاء الملف",
     "OfflineMode": {
         "Title": "وضع عدم الاتصال بالإنترنت",
         "OfflineState": "لا يوجد اتصال بالإنترنت",
@@ -1564,8 +1564,8 @@
         }
     },
     "StoryView": {
-        "Title": "What's New",
-        "SwipeUp": "Swipe up to open the link",
+        "Title": "الجديد في التطبيق",
+        "SwipeUp": "اسحب للأعلى لفتح الرابط",
         "StoryNotAvailable": "No story available"
     },
     "health": {
