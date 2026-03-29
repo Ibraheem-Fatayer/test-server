@@ -922,6 +922,7 @@
         "medical_certificate_btn": "Certificate",
         "remaining_limt_btn": "Remaining Limit",
         "new_policy_bnt": "Create New Policy",
+        "skip_bnt": "SKIP",
         "SelectPlan": "Select Plan"
     },
     "response": {
