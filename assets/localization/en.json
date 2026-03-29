@@ -284,7 +284,7 @@
             "ValidationError": {
                 "Required": "Plate # Is Required",
                 "Length": "Plate # Should Be Less Than Or Equal 6",
-                "Format": "Plate number must be 6 digits only. R, T, or Q is allowed at the end."
+                "Format": "The plate number should be 1–7 digits long. R, T, or Q is allowed at the end."
             }
         },
         "InsuredRelations": {
