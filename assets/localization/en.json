@@ -278,6 +278,7 @@
             }
         },
         "PlateNo": {
+            "PlateCodeLabel": "Plate Code",
             "Label": "Plate #",
             "HavePlate": "I have a plate number",
             "NotHavePlate": "I do not have a plate number",

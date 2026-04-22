@@ -278,6 +278,7 @@
             }
         },
         "PlateNo": {
+            "PlateCodeLabel": "Plate Code",
             "Label": "# اللوحة",
             "HavePlate": "أريد إدخال # اللوحة",
             "NotHavePlate": "مركبتي بدون # لوحة",
