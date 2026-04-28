@@ -854,6 +854,10 @@
         "camera": {
             "title": "Read files permission",
             "description": "You need to give this permission from the system settings"
+        },
+        "calendar": {
+            "title": "Calendar Access Needed",
+            "description": "To sync your events, please allow calendar access in your device settings.\n\nDIG > Permissions > Calendar"
         }
     },
     "CoachMark": {
