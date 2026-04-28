@@ -185,6 +185,7 @@
             "Header": "Choose Make",
             "ShowAll": "Show All",
             "ShowLess": "Show Less",
+            "EmptyData": "No make found",
             "Validation": {
                 "Required": "Make Is Required"
             }
@@ -193,24 +194,28 @@
             "Label": "Model",
             "Hint": "Select Model",
             "Header": "Choose Model",
+            "EmptyData": "No model found",
             "Validation": {
                 "Required": "Model Is Required"
             }
         },
         "BodyType": {
             "Header": "Choose Body Type",
+            "EmptyData": "No body type found",
             "Validation": {
                 "Required": "Body Type Is Required"
             }
         },
         "Usage": {
             "Header": "Choose Vehicle Usage",
+            "EmptyData": "No usage type found",
             "Validation": {
                 "Required": "Usage Is Required"
             }
         },
         "Cylinder": {
             "Header": "Choose Cylinder",
+            "EmptyData": "No cylinder found",
             "Validation": {
                 "Required": "Cylinder Is Required"
             }
