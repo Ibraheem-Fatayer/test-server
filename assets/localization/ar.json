@@ -185,7 +185,7 @@
             "Header": "اختر نوع السيارة",
             "ShowAll": "عرض الكل",
             "ShowLess": "عرض أقل",
-            "EmptyData": "No make found",
+            "EmptyData": "لم يتم العثور على شركة تصنيع",
             "Validation": {
                 "Required": "مطلوب نوع السيارة"
             }
@@ -194,28 +194,28 @@
             "lLabell": "طراز السيارة",
             "Hint": "برجاء الاختيار",
             "Header": "اختر طراز السيارة",
-            "EmptyData": "No model found",
+            "EmptyData": "لم يتم العثور على طراز السيارة",
             "Validation": {
                 "Required": "مطلوب طراز السيارة"
             }
         },
         "BodyType": {
             "Header": "اختر شكل السيارة",
-            "EmptyData": "No body type found",
+            "EmptyData": "لم يتم العثور على نوع السيارة",
             "Validation": {
                 "Required": "شكل السيارة مطلوب"
             }
         },
         "Usage": {
             "Header": "اختر نوع لوحة مركبتك",
-            "EmptyData": "No usage type found",
+            "EmptyData": "لم يتم العثور على نوع لوحة",
             "Validation": {
                 "Required": "نوع لوحة السيارة مطلوب"
             }
         },
         "Cylinder": {
             "Header": "اختر عدد الأسطوانات",
-            "EmptyData": "No cylinder found",
+            "EmptyData": "لم يتم العثور على عدد الأسطوانات",
             "Validation": {
                 "Required": "عدد الاسطوانات مطلوب"
             }
