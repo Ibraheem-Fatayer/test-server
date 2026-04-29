@@ -88,6 +88,7 @@
         "ShamelNote": "When 'As a system' is selected, Shamel will follow your device text size automatically."
     },
     "error_state": {
+        "profile": "Couldn’t load your profile. Please try again later.",
         "plans": "No plan found, please try again.",
         "review_order": "Review date not found, please try again.",
         "payment_provider": "Payment provider not found, please try again.",
