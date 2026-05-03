@@ -1413,6 +1413,7 @@
         "GeneralConditions": "General Conditions"
     },
     "Reviews": {
+        "PlanNotIncluded": "Your company contract does not include the package.",
         "periodValue": "Period: {}",
         "holder_section": "Holder",
         "accountNoValue": "Account No: {}",

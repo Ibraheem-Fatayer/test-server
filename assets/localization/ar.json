@@ -1413,6 +1413,7 @@
         "gGeneralConditionss": "شروط عامة"
     },
     "Reviews": {
+        "PlanNotIncluded": "عقد الشركة لا يشمل الباقة.",
         "periodValue": "الفترة: {}",
         "holder_section": "المالك",
         "aaccountNoValueo": "# الحساب: {}",
