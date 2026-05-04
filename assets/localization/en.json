@@ -1016,6 +1016,7 @@
         "AnotherOption": "another option"
     },
     "authorization": {
+        "UpdateEmailAndMobile": "Update Email & Mobile",
         "LoginToNewAccount": "Login using another account",
         "VerificationSuccessUpdateMobile": "Your Qatar ID and face recognition have been successfully verified! To ensure seamless communication, please update your mobile number now.",
         "authorize_login": "Authorize your login",

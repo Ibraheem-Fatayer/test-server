@@ -1016,6 +1016,7 @@
         "AnotherOption": "خيار آخر"
     },
     "authorization": {
+        "UpdateEmailAndMobile": "تحديث البريد الإلكتروني ورقم الهاتف",
         "LoginToNewAccount": "تسجيل الدخول باستخدام حساب آخر",
         "VerificationSuccessUpdateMobile": "تم التحقق بنجاح من بطاقتك الشخصية القطرية والتعرف على الوجه! لضمان تواصل سلس، يرجى تحديث # هاتفك المحمول الآن.",
         "authorize_login": "تخويل تسجيل الدخول الخاص بك",
