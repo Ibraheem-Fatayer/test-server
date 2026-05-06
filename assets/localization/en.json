@@ -107,7 +107,9 @@
         "no_medical_document": "You don't have any medical document",
         "couldnot_result_found": "We could'nt find any result",
         "no_policies": "No Policies Found",
-        "policies_empty_message": "You don't have any policies yet. Start by issuing your first policy to see it here."
+        "policies_empty_message": "You don't have any policies yet. Start by issuing your first policy to see it here.",
+        "attachment_type": "Something went wrong.",
+        "attachment_type_empty": "No results found."
     },
     "about_us": {
         "executive": {

@@ -107,7 +107,9 @@
         "no_medical_document": "ليس لديك أي مستند طبي",
         "couldnot_result_found": "لم نتمكن من العثور على أي نتائج",
         "no_policies": "لم يتم العثور على وثائق",
-        "policies_empty_message": "ليس لديك أي وثائق حتى الآن. ابدأ بإصدار وثيقتك الأولى لرؤيتها هنا."
+        "policies_empty_message": "ليس لديك أي وثائق حتى الآن. ابدأ بإصدار وثيقتك الأولى لرؤيتها هنا.",
+        "attachment_type": "حدث خطأ أثناء العملية.",
+        "attachment_type_empty": "لا توجد نتائج."
     },
     "about_us": {
         "executive": {
