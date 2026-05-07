@@ -1425,6 +1425,7 @@
         "ageValue": "العمر: {}",
         "domistic_helper_section": "المساعدة المنزلية",
         "nationalIdValue": "الرقم الشخصي: {}",
+        "expiryDateValue": "تاريخ الانتهاء: {}",
         "fullNameValue": "الاسم: {}",
         "genderValue": "الجنس: {}",
         "natinationalityValueonality": "الجنسية: {}",

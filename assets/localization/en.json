@@ -1425,6 +1425,7 @@
         "ageValue": "Age: {}",
         "domistic_helper_section": "Domistic Helper",
         "nationalIdValue": "Qatari ID: {}",
+        "expiryDateValue": "Expiry Date: {}",
         "fullNameValue": "Full Name: {}",
         "genderValue": "Gender: {}",
         "nationalityValue": "Nationality: {}",
