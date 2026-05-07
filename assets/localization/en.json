@@ -300,7 +300,9 @@
         "InsuredRelations": {
             "Label": "Relation to holder",
             "ValidationError": {
-                "Required": "This field is required"
+                "Required": "This field is required",
+                "ChildCoverage": "This family member's age must not exceed 18 years to be eligible for child coverage.",
+                "SpouseCoverage": "This family member's age must not be less than 18 years to be eligible for child coverage."
             }
         },
         "SuggestionsOrComplaints": {
