@@ -26,7 +26,7 @@
     "ExpiryOn": "Expire on :",
     "PolicyNO": "Policy No :",
     "closeAppWearing": "Are you sure you want to exit the app?",
-    "BiometricEnablePrompt": "Biometric authentication isn’t set up on your device.To improve your security and make logging in faster, please enable Touch ID or Face ID in your device settings.",
+    "BiometricEnablePrompt": "Your device doesn't have a screen lock set up. Set one up in your device settings to sign in faster and stay secure.",
     "UpdateQidImage": "Please upload a new image of your Qatari ID to ensure your records are up to date.",
     "Warning": "Warning",
     "InvalidUrlFomat": "Invalid Url Fomat",
@@ -1126,9 +1126,9 @@
     },
     "authentication": {
         "activate_fingerprint": {
-            "title": "Activate fingerprint\nauthentication",
-            "sub_title": "Do you want to activate your fingerprint recognition to log in faster next time?",
-            "active_btn": "Activate",
+            "title": "Allow authentication using your device screen lock",
+            "sub_title": "Do you want to enable device authentication to log in faster next time?",
+            "active_btn": "Enable",
             "later_btn": "I'll do this later"
         },
         "authentication_type": {
