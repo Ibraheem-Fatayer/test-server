@@ -1158,8 +1158,8 @@
                 "text2": "login"
             },
             "biometrics": {
-                "text1": "Biometrics ",
-                "text2": "login"
+                "text1": "Device ",
+                "text2": "Authentication Login"
             }
         },
         "main_login": {
