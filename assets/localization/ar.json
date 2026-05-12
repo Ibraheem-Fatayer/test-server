@@ -1174,7 +1174,7 @@
         "darkmode": "المظهر",
         "notification_label": "تفعيل الإشعارات",
         "notification_body": "نوصي بتمكين الإشعارات لمعرفة آخر التحديثات المهمة لحسابك.",
-        "fingerprint_label": "استخدم البصمة في عملية تسجيل الدخول",
+        "fingerprint_label": "تفعيل مصادقة الجهاز لتسجيل الدخول",
         "text_size": "حجم الخط"
     },
     "calender_reminders": {
