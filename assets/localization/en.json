@@ -940,7 +940,9 @@
         "remaining_limt_btn": "Remaining Limit",
         "new_policy_bnt": "Create New Policy",
         "skip_bnt": "SKIP",
-        "SelectPlan": "Select Plan"
+        "SelectPlan": "Select Plan",
+        "travel_contact_email_btn": "Email",
+        "travel_contact_mobile_btn": "Mobile"
     },
     "response": {
         "error": {
