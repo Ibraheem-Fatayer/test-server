@@ -943,7 +943,7 @@
         "skip_bnt": "SKIP",
         "SelectPlan": "Select Plan",
         "travel_contact_email_btn": "Email",
-        "travel_contact_mobile_btn": "Mobile"
+        "travel_contact_mobile_btn": "Call Center"
     },
     "response": {
         "error": {
