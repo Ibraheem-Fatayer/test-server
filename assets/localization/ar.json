@@ -1,5 +1,4 @@
 {
-    "x": "This list is provided as a general reference and information.Our network provides access to more than 45,000 Service Providers worldwide.  The content of the list is subject to regular modification and updates. The beneficiary is requested to contact the specified call center to verify the service provider subscription to our international network.The direct billing is arranged directly or through our local service provider based on Guarantee of Payment.The beneficiary is requested to contact the Dedicated 24/7 call center for DIG members (+420-234 462 2729) or (+974 4429 2748 ) to verify a service provider's continuous subscription to Eurocross network.",
     "no_route_found": "لا توجد شاشة",
     "or": "او",
     "session_timeout": "انتهت صلاحية الجلسة، يرجى تسجيل الدخول مرة أخرى",
@@ -37,7 +36,7 @@
     "OpenUrlError": "تعذّر الوصول إلى الرابط",
     "FileNotGenerated": "لم يتم إنشاء الملف",
     "TravelGlobalNetwork": {
-        "Description": "This list is provided as a general reference and information.Our network provides access to more than 45,000 Service Providers worldwide.  The content of the list is subject to regular modification and updates. The beneficiary is requested to contact the specified call center to verify the service provider subscription to our international network.The direct billing is arranged directly or through our local service provider based on Guarantee of Payment.The beneficiary is requested to contact the Dedicated 24/7 call center for DIG members (+420-234 462 2729) or (+974 4429 2748 ) to verify a service provider's continuous subscription to Eurocross network.",
+        "Description": "هذه القائمة مُعدَّة للاستخدام كمرجع عام للمعلومات، وتضم شبكتنا أكثر من 45,000 مزود خدمة حول العالم، وهي في تحديث مستمر لضمان دقة المعلومات. قبل التوجه إلى أي مزود خدمة، يُرجى التواصل مع مركز الاتصال للتأكد من انتسابه إلى شبكتنا الدولية، علماً بأن تسوية الفواتير تتم مباشرةً أو عبر مزود الخدمة المحلي استناداً إلى خطاب ضمان الدفع. لأعضاء DIG، يتوفر مركز اتصال مخصص على مدار الساعة طوال أيام الأسبوع للتحقق من انتساب مزودي الخدمة لشبكة Eurocross، وذلك على الأرقام التالية: 420-234 462 2729+ لأوروبا، و974 4429 2748+ لقطر والشرق الأوسط.",
         "CountryLable": "الدولة",
         "CityLable": "المدينة"
     },
@@ -948,7 +947,8 @@
         "skip_bnt": "تخطي",
         "SelectPlan": "اختَر الباقة",
         "travel_contact_email_btn": "البريد الإلكتروني",
-        "travel_contact_mobile_btn": "مركز الاتصال"
+        "travel_contact_mobile_btn": "مركز الاتصال",
+        "network_provider_btn": "مزود الشبكة"
     },
     "response": {
         "error": {
