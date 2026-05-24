@@ -36,6 +36,11 @@
     "EmptyMobile": "رقم الهاتف فارغ",
     "OpenUrlError": "تعذّر الوصول إلى الرابط",
     "FileNotGenerated": "لم يتم إنشاء الملف",
+    "TravelGlobalNetwork": {
+        "Description": "This list is provided as a general reference and information.Our network provides access to more than 45,000 Service Providers worldwide.  The content of the list is subject to regular modification and updates. The beneficiary is requested to contact the specified call center to verify the service provider subscription to our international network.The direct billing is arranged directly or through our local service provider based on Guarantee of Payment.The beneficiary is requested to contact the Dedicated 24/7 call center for DIG members (+420-234 462 2729) or (+974 4429 2748 ) to verify a service provider's continuous subscription to Eurocross network.",
+        "CountryLable": "الدولة",
+        "CityLable": "المدينة"
+    },
     "OfflineMode": {
         "Title": "وضع عدم الاتصال بالإنترنت",
         "OfflineState": "لا يوجد اتصال بالإنترنت",
