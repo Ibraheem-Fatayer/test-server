@@ -36,7 +36,7 @@
     "OpenUrlError": "Unable to open the URL",
     "FileNotGenerated": "File Not Generated",
     "TravelGlobalNetwork": {
-        "Description": "This list is provided as a general reference and information.Our network providers access to more than 45,000 Service Providers worldwide.  The content of the list is subject to regular modification and updates. The beneficiary is requested to contact the specified call center to verify the service provider subscription to our international network.The direct billing is arranged directly or through our local service provider based on Guarantee of Payment.The beneficiary is requested to contact the Dedicated 24/7 call center for DIG members (+420-234 462 2729) or (+974 4429 2748 ) to verify a service provider's continuous subscription to Eurocross network.",
+        "Description": "This list is provided as a general reference and information.Our network providers provide access to more than 45,000 Service Providers worldwide. The content of the list is subject to regular modification and updates. The beneficiary is requested to contact the specified call center to verify the service provider subscription to our international network.The direct billing is arranged directly or through our local service provider based on Guarantee of Payment.The beneficiary is requested to contact the Dedicated 24/7 call center for DIG members (+420-234 462 2729) or (+974 4429 2748 ) to verify a service provider's continuous subscription to Eurocross network.",
         "CountryLable": "Country",
         "CityLable": "City"
     },
@@ -160,14 +160,14 @@
     },
     "DashBoard": {
         "numbers": "Numbers:",
-        "EmptyPolicies": "You don’t have any insurance policy yet. create a new policy to continue.",
-        "EmptyMotorPolicy": "You don’t have a motor insurance policy yet. create a new policy to continue.",
-        "EmptyTravelPolicy": "You don’t have a travel insurance policy yet. create a new policy to continue.",
-        "EmptyMedicalPolicy": "You don’t have a medical insurance policy yet. create a new policy to continue.",
-        "EmptyDomisticHelper": "You don’t have a domestic helper policy yet. create a new policy to continue.",
-        "EmptyPersonalAccedent": "You don’t have a personal accident policy yet. create a new policy to continue.",
-        "EmptyBoat": "You don’t have boat policy yet. create a new policy to continue.",
-        "EmptyMedicalGroupPolicy": "You don’t have a medical medical group card yet."
+        "EmptyPolicies": "You don’t have any insurance policy yet. Create a new policy to continue.",
+        "EmptyMotorPolicy": "You don’t have a motor insurance policy yet. Create a new policy to continue.",
+        "EmptyTravelPolicy": "You don’t have a travel insurance policy yet. Create a new policy to continue.",
+        "EmptyMedicalPolicy": "You don’t have a medical insurance policy yet. Create a new policy to continue.",
+        "EmptyDomisticHelper": "You don’t have a domestic helper policy yet. Create a new policy to continue.",
+        "EmptyPersonalAccedent": "You don’t have a personal accident policy yet. Create a new policy to continue.",
+        "EmptyBoat": "You don’t have a boat policy yet. Create a new policy to continue.",
+        "EmptyMedicalGroupPolicy": "You don’t have a medical group card yet."
     },
     "Sos": {
         "sos": "SOS",
@@ -335,7 +335,7 @@
                 "NameENFormat": "Arabic Not Allowed",
                 "NameENSpecialCharFormat": "Name should be english only\nSpecial Character Not Allowed",
                 "AR": "Name in Arabic is required",
-                "NameARFormat": "Name Should Contains Arabic Characters",
+                "NameARFormat": "Name Should Contain Arabic Characters",
                 "NameARLength": "This field length must be from 3 to 50"
             }
         },
@@ -376,21 +376,21 @@
             "Lable": "Secondary Mobile",
             "Validation": {
                 "Required": "Secondary Mobile Is Required",
-                "Format": "Secondary Mobile Accept Number Only"
+                "Format": "Secondary Mobile Accepts Number Only"
             }
         },
         "HomeMobile": {
             "Lable": "Home Mobile",
             "Validation": {
                 "Required": "Home Mobile Is Required",
-                "Format": "Home Mobile Accept Number Only"
+                "Format": "Home Mobile Accepts Number Only"
             }
         },
         "OfficeMobile": {
             "Lable": "Office Mobile",
             "Validation": {
                 "Required": "Office Mobile Is Required",
-                "Format": "Office Mobile Accept Number Only"
+                "Format": "Office Mobile Accepts Number Only"
             }
         },
         "CompanyName": {
@@ -418,7 +418,7 @@
             "Lable": "Builder Number",
             "Validation": {
                 "Required": "Builder Number Is Required",
-                "Format": "Builder Number Accept Number Only"
+                "Format": "Builder Number Accepts Number Only"
             }
         },
         "POBox": {
@@ -521,7 +521,7 @@
             "Lable": "Engine No",
             "Validation": {
                 "Required": "Engine No Is Required",
-                "Char": "Engine No Should Contains English Character Only With Symbols Like - Or *",
+                "Char": "Engine No Should Contain English Character Only With Symbols Like - Or *",
                 "MinLength": "Engine No Should Be Greater Than Or Equal 5",
                 "MaxLength": "Engine No Should Be Less Than 20"
             }
@@ -663,7 +663,7 @@
                 "Required": "Passport Is Required",
                 "MinLength": "Passport Should Be Greater Than Or Equal 5",
                 "MaxLength": "Passport Should Be Less Than Or Equal 13",
-                "Format": "Passport Should Contains English Character Only with symbols like - or *"
+                "Format": "Passport Should Contain English Character Only with symbols like - or *"
             }
         },
         "ExpiryDate": {
@@ -798,7 +798,7 @@
             "Lable": "Year of Manufacture",
             "Validation": {
                 "Required": "Manufacture Year Is Required",
-                "Format": "Manufacture Year Accept Number Only",
+                "Format": "Manufacture Year Accepts Number Only",
                 "MinLength": "Manufacture Year Should Be Greater Than 0",
                 "DigitLength": "Manufacture Year Should Be 4 Digits",
                 "MaxLength": "Manufacture Year Should Be Less Than Or Equal to Current Year"
@@ -1093,7 +1093,7 @@
         "amount": "Claimed Amount: {}",
         "reason": "Reason: {}",
         "additional_reason": "Additional Reason: {}",
-        "receive_teatment_date": "Date of receive treatment: {}",
+        "receive_teatment_date": "Date of treatment received: {}",
         "submitted_date": "Transaction date: {}",
         "notes": "Notes: {}",
         "date": "Date: {}",
