@@ -5,7 +5,7 @@
     "DismissButton": "Dismiss",
     "CurrentVersion": "Current Version: {}",
     "best_offers": "Best Offers",
-    "sorry": "We'r Sorry",
+    "sorry": "We're Sorry",
     "InValid": "In-Valid",
     "valid": "Valid",
     "expired": "Expired",
@@ -29,7 +29,7 @@
     "BiometricEnablePrompt": "Your device doesn't have a screen lock set up. Set one up in your device settings to sign in faster and stay secure.",
     "UpdateQidImage": "Please upload a new image of your Qatari ID to ensure your records are up to date.",
     "Warning": "Warning",
-    "InvalidUrlFomat": "Invalid Url Fomat",
+    "InvalidUrlFomat": "Invalid Url Format",
     "EmptyLink": "{} Link Not Found",
     "InValidMobile": "In-valid Mobile",
     "EmptyMobile": "Mobile Is Empty",
@@ -54,7 +54,7 @@
         "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
     },
     "SuggesstionAndComplaints": {
-        "title": "Suggesstion and complaints",
+        "title": "Suggestion and complaints",
         "description": "We value your feedback. Please share your thoughts, suggestions, or concerns with us."
     },
     "Profile": {
@@ -106,11 +106,11 @@
         "failed_load_policy": "Failed to load your policies",
         "failed_load_policy_information": "Failed to load policy information",
         "no_result_found": "No result found",
-        "no_result_found_desc": "Sorry, we could'nt find any result",
+        "no_result_found_desc": "Sorry, we couldn't find any result",
         "no_medical_card": "You don't have any medical card",
         "no_network_provider": "You don't have any network provider",
         "no_medical_document": "You don't have any medical document",
-        "couldnot_result_found": "We could'nt find any result",
+        "couldnot_result_found": "We couldn't find any result",
         "no_policies": "No Policies Found",
         "policies_empty_message": "You don't have any policies yet. Start by issuing your first policy to see it here.",
         "attachment_type": "Something went wrong.",
@@ -164,8 +164,8 @@
         "EmptyMotorPolicy": "You don’t have a motor insurance policy yet. create a new policy to continue.",
         "EmptyTravelPolicy": "You don’t have a travel insurance policy yet. create a new policy to continue.",
         "EmptyMedicalPolicy": "You don’t have a medical insurance policy yet. create a new policy to continue.",
-        "EmptyDomisticHelper": "You don’t have a domistic helper policy yet. create a new policy to continue.",
-        "EmptyPersonalAccedent": "You don’t have a personal accedent policy yet. create a new policy to continue.",
+        "EmptyDomisticHelper": "You don’t have a domestic helper policy yet. create a new policy to continue.",
+        "EmptyPersonalAccedent": "You don’t have a personal accident policy yet. create a new policy to continue.",
         "EmptyBoat": "You don’t have boat policy yet. create a new policy to continue.",
         "EmptyMedicalGroupPolicy": "You don’t have a medical medical group card yet."
     },
@@ -269,7 +269,7 @@
             "Label": "Car Value",
             "ValidationError": {
                 "Required": "Car Value Is Required",
-                "MinLength": "Car Value should be grater than or equal {}",
+                "MinLength": "Car Value should be greater than or equal {}",
                 "MaxLength": "Car Value should be less than or equal {}"
             }
         },
@@ -335,7 +335,7 @@
                 "NameENFormat": "Arabic Not Allowed",
                 "NameENSpecialCharFormat": "Name should be english only\nSpecial Character Not Allowed",
                 "AR": "Name in Arabic is required",
-                "NameARFormat": "Name Should Contains Arabic Caracters",
+                "NameARFormat": "Name Should Contains Arabic Characters",
                 "NameARLength": "This field length must be from 3 to 50"
             }
         },
@@ -373,10 +373,10 @@
             }
         },
         "SecoundryMobile": {
-            "Lable": "Secoundry Mobile",
+            "Lable": "Secondary Mobile",
             "Validation": {
-                "Required": "Secoundry Mobile Is Required",
-                "Format": "Secondray Mobile Accept Number Only"
+                "Required": "Secondary Mobile Is Required",
+                "Format": "Secondary Mobile Accept Number Only"
             }
         },
         "HomeMobile": {
@@ -474,7 +474,7 @@
             "Lable": "Vessel Name",
             "Validation": {
                 "Required": "Vessel Name Is Required",
-                "MinLength": "Vessel name should be grater than 5 characters",
+                "MinLength": "Vessel name should be greater than 5 characters",
                 "MaxLength": "Vessel name should be less than 50 characters"
             }
         },
@@ -661,7 +661,7 @@
             "Lable": "Passport",
             "Validation": {
                 "Required": "Passport Is Required",
-                "MinLength": "Passport Should Be Grater Than Or Equal 5",
+                "MinLength": "Passport Should Be Greater Than Or Equal 5",
                 "MaxLength": "Passport Should Be Less Than Or Equal 13",
                 "Format": "Passport Should Contains English Character Only with symbols like - or *"
             }
@@ -986,7 +986,7 @@
         "fetching_policy": "Please Wait, We Are Fetching Your Policies",
         "fetching_moi": "Please Wait, We are Fetching Your Info From MOI",
         "load_qatari_id_scan": "Please Wait, We are Load Qatari ID Scan",
-        "changeing_insured": "Please Wait, We are Changeing Your Information",
+        "changeing_insured": "Please Wait, We are Changing Your Information",
         "fetching_existing_policy_data": "Please Wait, We're Getting Your Data From Existing Policy",
         "updating_existing_policy_data": "Please Wait, We're Updating Your Data From Existing Policy",
         "load_passport_scan": "Please Wait, We are Load Passport Scan",
@@ -1079,7 +1079,7 @@
         "claim_tracking": "Tracking",
         "claim_history": "Claim History",
         "claim_attachment": "Claim Attachments",
-        "paymant_type": "Paymant Type",
+        "paymant_type": "Payment Type",
         "browse": "Browse ",
         "location": "Location",
         "qatari_id": "Qatari ID",
@@ -1093,7 +1093,7 @@
         "amount": "Claimed Amount: {}",
         "reason": "Reason: {}",
         "additional_reason": "Additional Reason: {}",
-        "receive_teatment_date": "Date of receive teatment: {}",
+        "receive_teatment_date": "Date of receive treatment: {}",
         "submitted_date": "Transaction date: {}",
         "notes": "Notes: {}",
         "date": "Date: {}",
@@ -1180,7 +1180,7 @@
             "manual_login": "Qatari ID",
             "response": {
                 "error": {
-                    "wronge_data": "Wronge Qatari ID Or Expiry Date"
+                    "wronge_data": "Wrong Qatari ID Or Expiry Date"
                 }
             }
         },
@@ -1243,7 +1243,7 @@
             "welcome": "Welcome",
             "motor": "Car Insurance",
             "travel": "Travel Insurance",
-            "domistic_helper": "Domistic Helper Insurance",
+            "domistic_helper": "Domestic Helper Insurance",
             "boat": "Boat Insurance",
             "personal_accident": "Personal Accident Insurance",
             "motor_renewal": "Car Renewal",
@@ -1334,8 +1334,8 @@
             "PassportNumber": "Passport #: {}",
             "PassportNumber1": "Passport #: ",
             "FullName": "Full name: {}",
-            "TransferedDate": "Transfered date: {}",
-            "IsTransfered": "Transfered to MOI: {}",
+            "TransferedDate": "Transferred date: {}",
+            "IsTransfered": "Transferred to MOI: {}",
             "NewPolicy": "New Policy",
             "download_policy": "Download Policy",
             "download_card": "Download Card",
@@ -1433,7 +1433,7 @@
         "passportNoValue": "Passport #: {}",
         "birthdayValue": "Birthday: {}",
         "ageValue": "Age: {}",
-        "domistic_helper_section": "Domistic Helper",
+        "domistic_helper_section": "Domestic Helper",
         "nationalIdValue": "Qatari ID: {}",
         "expiryDateValue": "Expiry Date: {}",
         "fullNameValue": "Full Name: {}",
@@ -1476,7 +1476,7 @@
         "promo_code": "Promo Code",
         "pay_button": "Pay Now",
         "agree": "I Agree With The ",
-        "terms&conditons": "Terms & Conditons",
+        "terms&conditons": "Terms & Conditions",
         "apply_promo_code": "Do you have a promo code?",
         "rest_promo_code": "Reset promo code",
         "planName": "plan name: {}",
@@ -1511,7 +1511,7 @@
         "PassengerValue": "* Passenger Value: {}",
         "discountDescription": "You’re getting {}% off",
         "discountTip": "Special discount for group medical insurance person",
-        "MostPolular": "Most Polular",
+        "MostPolular": "Most Popular",
         "motor": {
             "required_error": "Car Plan Is Required",
             "note1": "This policy provides coverage for both your liability and any potential damage to your vehicle.",
@@ -1535,7 +1535,7 @@
         }
     },
     "NewInsuredList": {
-        "worker_list_header": "List Of Domistic Helper",
+        "worker_list_header": "List Of Domestic Helper",
         "empty_list": "Domestic helper list is empty",
         "new_worker": "Add New Worker",
         "another_worker": "Add Another Worker",
@@ -1556,7 +1556,7 @@
     "Quotation": {
         "SelfInsured": "My Self",
         "AnotherBeneficiary": "Multiple Traveller",
-        "AnotherInsured": "Multible Insured",
+        "AnotherInsured": "Multiple Insured",
         "Family": "Family",
         "Othere": "Other Insured",
         "InboundServices": "Inbound/Visiting Qatar",
@@ -1576,7 +1576,7 @@
     "Quotatoin": {
         "SelfInsured": "My Self",
         "AnotherBeneficiary": "Multiple Traveller",
-        "AnotherInsured": "Multible Insured",
+        "AnotherInsured": "Multiple Insured",
         "Family": "Family",
         "Othere": "Other Insured",
         "InboundServices": "Inbound/Visiting Qatar",
